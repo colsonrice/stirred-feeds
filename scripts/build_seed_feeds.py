@@ -190,7 +190,8 @@ def itunes_search(term: str, limit: int = 200) -> list[dict]:
 
 def itunes_top_charts(region: str, genre_id: int, limit: int = 200) -> list[dict]:
     """Pull the top podcasts RSS feed for a region+genre, then lookup
-    each entry by trackId to get the feedUrl."""
+    each entry by trackId to get the feedUrl. Preserves chart rank
+    order and stamps `_chart_rank` (1-based) on each returned record."""
     chart_url = (
         f"https://itunes.apple.com/{region}/rss/toppodcasts/"
         f"limit={limit}/genre={genre_id}/json"
@@ -212,8 +213,7 @@ def itunes_top_charts(region: str, genre_id: int, limit: int = 200) -> list[dict
             if tid:
                 track_ids.append(str(tid))
 
-    results: list[dict] = []
-    # Apple lookup accepts comma-separated ids, up to ~150 per call
+    lookup_by_id: dict[str, dict] = {}
     for i in range(0, len(track_ids), 100):
         batch = ",".join(track_ids[i:i + 100])
         try:
@@ -224,11 +224,46 @@ def itunes_top_charts(region: str, genre_id: int, limit: int = 200) -> list[dict
                 headers={"User-Agent": USER_AGENT},
             )
             if r2.ok:
-                results.extend(r2.json().get("results", []))
+                for rec in r2.json().get("results", []):
+                    tid = str(rec.get("trackId", ""))
+                    if tid:
+                        lookup_by_id[tid] = rec
         except Exception as e:
             print(f"  ! lookup batch failed: {e}", file=sys.stderr)
         time.sleep(0.4)
-    return results
+
+    # Re-emit in original chart rank order and tag with rank.
+    ordered: list[dict] = []
+    for rank, tid in enumerate(track_ids, start=1):
+        rec = lookup_by_id.get(tid)
+        if rec is None:
+            continue
+        rec = dict(rec)  # don't mutate the cached lookup dict
+        rec["_chart_rank"] = rank
+        rec["_chart_region"] = region
+        ordered.append(rec)
+    return ordered
+
+
+def popularity_from_chart(region: str, rank: int) -> int:
+    """Convert chart rank into a 0-1000 popularity score. US charts count
+    most; other English-speaking regions contribute at half weight."""
+    if rank <= 0:
+        return 0
+    if region == "us":
+        return max(0, 1000 - (rank - 1) * 5)     # #1 -> 1000, #100 -> 505
+    return max(0, 500 - (rank - 1) * 3)          # #1 -> 500,  #100 -> 203
+
+
+def popularity_from_podcast_index(feed: dict) -> int:
+    """Map Podcast Index signals into the same 0-1000 scale. PI exposes
+    `popularityScore` (0-100) on many feeds; fall back to a modest
+    default for any feed they index, since being in PI at all is a
+    mild signal."""
+    score = feed.get("popularityScore")
+    if isinstance(score, (int, float)) and score > 0:
+        return int(min(1000, float(score) * 10))  # 0-100 -> 0-1000
+    return 150  # default floor for PI-only feeds
 
 
 # ---------------------------------------------------------------------------
@@ -287,10 +322,24 @@ def fetch_podcast_index(key: str, secret: str,
 # Candidate collection
 # ---------------------------------------------------------------------------
 
-def collect_candidates() -> list[dict]:
+def collect_candidates() -> tuple[list[dict], dict[str, int]]:
+    """Collect candidate feeds plus a per-URL popularity map.
+
+    Popularity is accumulated across every source occurrence (not just
+    the first): if a feed appears in the US top chart AND the UK top
+    chart we take the MAX of both signals. Feeds seen only via iTunes
+    search get popularity 0.
+    """
     seen_urls: set[str] = set()
     seen_collections: set[str] = set()
     candidates: list[dict] = []
+    popularity_by_url: dict[str, int] = {}
+
+    def bump_popularity(url: str, score: int) -> None:
+        n = normalize_url(url)
+        if not n or score <= 0:
+            return
+        popularity_by_url[n] = max(popularity_by_url.get(n, 0), score)
 
     for term in SEARCH_TERMS:
         print(f"[search] term={term!r}")
@@ -325,6 +374,12 @@ def collect_candidates() -> list[dict]:
             for r in results:
                 fu = normalize_url(r.get("feedUrl"))
                 cn = r.get("collectionName") or ""
+                rank = r.get("_chart_rank") or 0
+                # Record popularity on every chart occurrence — including
+                # duplicates that the dedup below would otherwise drop —
+                # so a feed appearing in multiple regional top-200s gets
+                # credit for the best ranking.
+                bump_popularity(r.get("feedUrl"), popularity_from_chart(region, rank))
                 if not fu or fu in seen_urls or cn in seen_collections:
                     continue
                 seen_urls.add(fu)
@@ -339,14 +394,18 @@ def collect_candidates() -> list[dict]:
     if pi_key and pi_secret:
         print("[podcast-index] enabled")
         before = len(candidates)
-        candidates.extend(fetch_podcast_index(pi_key, pi_secret,
-                                              seen_urls, seen_collections))
+        pi_results = fetch_podcast_index(pi_key, pi_secret,
+                                         seen_urls, seen_collections)
+        for r in pi_results:
+            bump_popularity(r.get("feedUrl"), popularity_from_podcast_index(r))
+        candidates.extend(pi_results)
         print(f"    +{len(candidates) - before} new")
     else:
         print("[podcast-index] skipped (no key)")
 
     print(f"\nCollected {len(candidates)} unique candidates")
-    return candidates
+    print(f"Popularity signal recorded for {len(popularity_by_url)} feeds")
+    return candidates, popularity_by_url
 
 
 # ---------------------------------------------------------------------------
@@ -515,6 +574,12 @@ def write_output(final: list[dict]) -> None:
         src = f.get("_source", "unknown").split(":")[0]
         source_counts[src] = source_counts.get(src, 0) + 1
 
+    with_popularity = sum(1 for f in final if f.get("popularity", 0) > 0)
+    top20 = sorted(
+        [f for f in final if f.get("popularity", 0) > 0],
+        key=lambda f: -f.get("popularity", 0),
+    )[:20]
+
     meta = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "feed_count": len(final),
@@ -523,7 +588,15 @@ def write_output(final: list[dict]) -> None:
                                    key=lambda kv: -kv[1])),
         "sources": dict(sorted(source_counts.items(),
                                key=lambda kv: -kv[1])),
-        "schema_version": 1,
+        "popularity": {
+            "feeds_with_signal": with_popularity,
+            "feeds_without_signal": len(final) - with_popularity,
+            "top20": [
+                {"speaker": f["speaker_display"], "popularity": f["popularity"]}
+                for f in top20
+            ],
+        },
+        "schema_version": 2,
     }
     (out_dir / "seed-feeds-meta.json").write_text(
         json.dumps(meta, indent=2) + "\n",
@@ -541,7 +614,7 @@ def write_output(final: list[dict]) -> None:
 
 def main() -> int:
     start = time.time()
-    candidates = collect_candidates()
+    candidates, popularity_by_url = collect_candidates()
     if not candidates:
         print("No candidates collected; aborting.", file=sys.stderr)
         return 1
@@ -549,6 +622,13 @@ def main() -> int:
     print(f"\nVetting {len(candidates)} candidate feeds ...")
     vetted = asyncio.run(vet_all(candidates))
     print(f"Vetted: {len(vetted)} passed")
+
+    # Stamp popularity onto each vetted feed. Feeds that never appeared
+    # in a chart or in Podcast Index get 0 — the app still shows them in
+    # discovery, they just don't get a cold-start boost in the engine.
+    for f in vetted:
+        norm = normalize_url(f.get("feed_url"))
+        f["popularity"] = popularity_by_url.get(norm, 0)
 
     final = finalize(vetted)
     print(f"Final (after slug dedup): {len(final)}")
