@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-16T20:28:32.229815+00:00",
-  "feed_count": 1158,
-  "version": 1776371312,
+  "generated_at": "2026-04-16T20:38:25.397199+00:00",
+  "feed_count": 1157,
+  "version": 1776371905,
   "traditions": {
-    "evangelical": 856,
+    "evangelical": 855,
     "catholic": 86,
     "baptist": 82,
     "reformed": 50,
@@ -14,9 +14,95 @@
     "orthodox": 9
   },
   "sources": {
-    "itunes-search": 665,
-    "itunes-chart": 346,
+    "itunes-search": 662,
+    "itunes-chart": 348,
     "podcast-index": 147
   },
-  "schema_version": 1
+  "popularity": {
+    "feeds_with_signal": 470,
+    "feeds_without_signal": 687,
+    "top20": [
+      {
+        "speaker": "Lakepointe Church",
+        "popularity": 1000
+      },
+      {
+        "speaker": "Ascension",
+        "popularity": 995
+      },
+      {
+        "speaker": "Tara-Leigh Cobble",
+        "popularity": 990
+      },
+      {
+        "speaker": "Hank Smith & John Bytheway",
+        "popularity": 980
+      },
+      {
+        "speaker": "2819 Church",
+        "popularity": 965
+      },
+      {
+        "speaker": "BibleProject Podcast",
+        "popularity": 960
+      },
+      {
+        "speaker": "Blaze Podcast Network",
+        "popularity": 955
+      },
+      {
+        "speaker": "The Robertson Family",
+        "popularity": 950
+      },
+      {
+        "speaker": "Tim Keller",
+        "popularity": 940
+      },
+      {
+        "speaker": "Ryan Miller",
+        "popularity": 935
+      },
+      {
+        "speaker": "Matt Fradd",
+        "popularity": 930
+      },
+      {
+        "speaker": "Messenger International, John Bevere",
+        "popularity": 925
+      },
+      {
+        "speaker": "Bryce Crawford",
+        "popularity": 920
+      },
+      {
+        "speaker": "The Perrys",
+        "popularity": 915
+      },
+      {
+        "speaker": "BEMA Discipleship",
+        "popularity": 905
+      },
+      {
+        "speaker": "PastorRick.com",
+        "popularity": 895
+      },
+      {
+        "speaker": "Girls Gone Bible",
+        "popularity": 895
+      },
+      {
+        "speaker": "Joby Martin & Kyle Thompson",
+        "popularity": 890
+      },
+      {
+        "speaker": "Ally Yost",
+        "popularity": 885
+      },
+      {
+        "speaker": "Keeping Families Connected",
+        "popularity": 875
+      }
+    ]
+  },
+  "schema_version": 2
 }
