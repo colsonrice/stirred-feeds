@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-04-16T20:18:11.951455+00:00",
-  "feed_count": 1006,
-  "version": 1776370691,
+  "generated_at": "2026-04-16T20:28:32.229815+00:00",
+  "feed_count": 1158,
+  "version": 1776371312,
   "traditions": {
-    "evangelical": 759,
-    "catholic": 85,
-    "baptist": 55,
-    "reformed": 42,
-    "charismatic": 19,
-    "lutheran": 14,
-    "methodist": 13,
-    "episcopal": 10,
+    "evangelical": 856,
+    "catholic": 86,
+    "baptist": 82,
+    "reformed": 50,
+    "charismatic": 24,
+    "lutheran": 20,
+    "methodist": 19,
+    "episcopal": 12,
     "orthodox": 9
   },
   "sources": {
-    "itunes-search": 658,
-    "itunes-chart": 348
+    "itunes-search": 665,
+    "itunes-chart": 346,
+    "podcast-index": 147
   },
   "schema_version": 1
 }

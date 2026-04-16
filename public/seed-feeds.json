@@ -84,18 +84,6 @@
     "theological_lean": "conservative"
   },
   {
-    "feed_url": "https://colsoncenter.libsyn.com/rss",
-    "title": "Breakpoint",
-    "author": "Colson Center",
-    "speaker_display": "Colson Center",
-    "speaker_slug": "colson-center",
-    "description": "Join John Stonestreet for a daily dose of sanity—applying a Christian worldview to culture, politics, movies, and more. And be a part of God's work restoring all things.",
-    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/11/9a/44/119a4478-99ee-5d23-5550-fe3d20942a0a/mza_16093210540366998512.jpg/600x600bb.jpg",
-    "website_url": "https://breakpoint.org",
-    "tradition": "evangelical",
-    "theological_lean": "conservative"
-  },
-  {
     "feed_url": "https://rss.muslimcentral.com/yasir-qadhi.rss",
     "title": "Yasir Qadhi",
     "author": "Muslim Central",
@@ -396,6 +384,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/ccf3f80/podcast/rss",
+    "title": "Taking The Land - CFM Sermon Podcast",
+    "author": "Pastor Adam Dragoon",
+    "speaker_display": "Pastor Adam Dragoon",
+    "speaker_slug": "pastor-adam-dragoon",
+    "description": "Become a Paid Subscriber: https://creators.spotify.com/pod/show/taking-the-land/subscribe\n\nWelcome to the podcast featuring the latest messages heard around the CFM fellowship. Our churches have been blessed with some of the best preachers around the world, and we want to share! We hope these messages bless you and bring you closer to God. We post four ad-supported sermons per week on this podcast. Much more available on the premium version.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2049088/2049088-1738108385423-670d9d2b1c14e.jpg",
+    "website_url": "https://takingthelandpodcast.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://lebanonbfc.org/podcast-category/lebanonbfc-sermons/feed/podcast",
     "title": "Lebanon Bible Fellowship Church Sermons",
     "author": "Lebanon Bible Fellowship Church",
@@ -417,6 +417,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/96/ea/cf96ea4c-ba4b-1990-2c3d-52507c13ef98/mza_996630425234163764.png/600x600bb.jpg",
     "website_url": "https://ayearinthebible.podbean.com",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://fatherdave.libsyn.com/rss",
+    "title": "Father Dave Preaches",
+    "author": "Fr. Dave Dwyer, CSP",
+    "speaker_display": "Fr. Dave Dwyer, CSP",
+    "speaker_slug": "fr-dave-dwyer-csp",
+    "description": "Homilies preached by Father Dave Dwyer, CSP. Father Dave is a Catholic priest, member of the Paulist Fathers, and Executive Director of Busted Halo Ministries. He is also host of the popular show, \"The Busted Halo Show with Father Dave Dwyer\" on The Catholic Channel, SiriusXM, channel 129. He most often preaches at the Church of St. Paul the Apostle in New York City.",
+    "artwork_url": "https://static.libsyn.com/p/assets/5/3/7/1/5371bec1761ad254e55e3c100dce7605/FDD_homily_new1.png",
+    "website_url": "http://fatherdave.libsyn.com",
+    "tradition": "catholic",
     "theological_lean": "conservative"
   },
   {
@@ -464,6 +476,18 @@
     "description": "<p>Why not make Studying the Bible part of the rhythm of your daily life. The Bible Project Daily Podcast is a 10 year plan to study through the entire Bible, both Old and New Testament, chapter by chapter, verse by verse. Season one is a short overview of each of the sixty-six books of the Bible. Season two launched our expositional journey through the whole Bible beginning with the book of Genesis. Thereafter each season take a New Testament/Old Testament alternatively until the project is complete. (God willing)&nbsp; Why not join me on this exciting journey as we study the whole Bible together from Genesis to Revelation.</p>",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5d/cf/0a/5dcf0a5d-3a5e-6a52-2556-596ba63dc3eb/mza_11750107583511721641.jpg/600x600bb.jpg",
     "website_url": "https://thebibleproject.buzzsprout.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://www.ivoox.com/feed_fg_f1211934_filtro_1.xml",
+    "title": "Sermons on Mark's Gospel",
+    "author": "BandNews FM",
+    "speaker_display": "BandNews FM",
+    "speaker_slug": "bandnews-fm",
+    "description": "Tudo sobre tipos de uva, tendências, novidades, preços, escolhas e regiões mais promissoras na produção e fabricação de vinhos.",
+    "artwork_url": "https://static-2.ivoox.com/canales/3/9/0/4/9951470654093_XXL.jpg",
+    "website_url": "https://www.ivoox.com/podcast-sermons-on-mark-s-gospel_sq_f1211934_1.html",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -1008,6 +1032,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://www.legacybaptistchurch.net/sermons.xml",
+    "title": "Legacy Baptist Church Sermons",
+    "author": "Pastor Jamen Wikler",
+    "speaker_display": "Pastor Jamen Wikler",
+    "speaker_slug": "pastor-jamen-wikler",
+    "description": "AM and PM Sermons from the weekly services at Legacy Baptist Church",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/65/23/99/65239912-bc63-2e2c-7bb5-2424c059c412/mza_14053727868108602451.png/600x600bb.jpg",
+    "website_url": "https://www.legacybaptistchurch.net",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "http://podcasts.calvarygreenmeadow.com/podcasts/ccgreen-rss.xml",
     "title": "Christian Sermons from Calvary Chapel Greenmeadow, North Kingstown, RI",
     "author": "Calvary Chapel Greenmeadow",
@@ -1076,6 +1112,18 @@
     "description": "This podcast is hosted by John Eldredge, an author, counselor, and president of Wild at Heart, a ministry that helps people find God's love and Kingdom. With his experience as a counselor and teacher, John shares insights on how to discover the heart of God, recover one's heart in God's love, and learn to live in God's Kingdom. The podcast covers topics related to faith, personal growth, and discovering one's purpose in life, providing guidance and encouragement to listeners who are seeking to deepen their relationship with God.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f5/1f/4c/f51f4cde-4202-56cf-9c1c-76415b1f6ee7/mza_6172422086026649551.jpg/600x600bb.jpg",
     "website_url": "https://wildatheart.org/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://bereanbibleag.com/feed/?post_type=wpfc_sermon",
+    "title": "Berean Bible Church Sermons",
+    "author": "Berean Bible Church - Arroyo Grande",
+    "speaker_display": "Berean Bible Church - Arroyo Grande",
+    "speaker_slug": "berean-bible-church-arroyo-grande",
+    "description": "Building Christ's church through the expositional preaching of God's Word in Arroyo Grande, California.",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/b7/f8/7a/b7f87a29-a487-f4c5-6cbc-0b93622337c8/mza_16510748906753033808.jpg/600x600bb.jpg",
+    "website_url": "https://bereanbibleag.com/sermons/",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -1236,6 +1284,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://sanctuary.libsyn.com/",
+    "title": "HPUMC - Sanctuary Sermons (Traditional Worship)",
+    "author": "Highland Park United Methodist Church - Dallas, Texas",
+    "speaker_display": "Highland Park United Methodist Church - Dallas, Texas",
+    "speaker_slug": "highland-park-united-methodist-church-dallas-texas",
+    "description": "Join us each week for traditional worship and an inspiring message from Senior Minister Rev. Paul Rasmussen and Rev. Matt Tuggle.",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/68/9f/5f/689f5ff9-8865-fab9-a4bd-dbcf2a945408/mza_206376174270934923.jpg/600x600bb.jpg",
+    "website_url": "http://www.hpumc.org/worship/sanctuary/",
+    "tradition": "methodist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feed.podbean.com/frrayshomilies/feed.xml",
     "title": "Father Rays Homilies",
     "author": "Fr. Raymond Suriani",
@@ -1392,6 +1452,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://www.yourchurch.com/feed/sunday-morning-sermons",
+    "title": "College Park Church Sermon Podcast",
+    "author": "College Park Church",
+    "speaker_display": "College Park Church",
+    "speaker_slug": "college-park-church",
+    "description": "Our mission at College Park Church is simple: we exist to ignite a passion to follow Jesus. Join us at 9 or 10:45 a.m. as we proclaim the gospel to the ends of the earth. Visit us online at yourchurch.com.",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/bc/cf/56/bccf562e-3efa-b053-3cbd-ceb4914ae2a8/mza_8774507534091308503.png/600x600bb.jpg",
+    "website_url": "https://www.yourchurch.com/sunday-gatherings/sermons/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://rss.libsyn.com/shows/193748/destinations/1366238.xml",
     "title": "Allen Jackson Ministries",
     "author": "Pastor Allen Jackson of World Outreach Church",
@@ -1416,6 +1488,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://rss.buzzsprout.com/968.rss",
+    "title": "Second Presbyterian Richmond Sermons",
+    "author": "Second Presbyterian Church",
+    "speaker_display": "Second Presbyterian Church",
+    "speaker_slug": "second-presbyterian-church",
+    "description": "Sermons preached at Second Presbyterian Church of Richmond, Virginia",
+    "artwork_url": "https://storage.buzzsprout.com/q835x2uiw20q2trghty2w2z7sxnf?.jpg",
+    "website_url": "http://www.2presrichmond.org",
+    "tradition": "reformed",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://ninevah-christian-church-656.thechurchco.site/feeds/channel/sermons",
     "title": "Ninevah Christian Church Sermons",
     "author": "Ninevah Christian Church",
@@ -1436,6 +1520,18 @@
     "description": "Our mission is to bring people into a saving relationship with God through His Son Jesus Christ so that they glorify Him in every area of life by knowing and obeying His Word. For more sermons or info about Grace Santee go to:\n\nhttp://www.gracesantee.org/",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts/v4/29/c6/a9/29c6a970-3c35-6c0f-1548-3fe538e8724c/mza_8103464920863256717.jpg/600x600bb.jpg",
     "website_url": "https://www.gracesantee.org/feeds/media-libraries/93359bf6-f9d8-11e9-86dc-0614187498c1",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "http://takethejourney.sermon.net/rss/main",
+    "title": "Journey Church International Sermon Podcast",
+    "author": "Pastor Christian Newsome, Christian Newsome",
+    "speaker_display": "Pastor Christian Newsome, Christian Newsome",
+    "speaker_slug": "pastor-christian-newsome-christian-newsome",
+    "description": "Journey Church International is a difference making church in Lees Summit, MO with an exciting kids program, bible-based teaching and an inviting atmosphere.",
+    "artwork_url": "https://storage.sermon.net/8dec673fbb4f37a778579724d9ecd914/0-0-0/content/media/22336/artwork/40db4bce3f900201bb721bdf783fe9f3.jpg",
+    "website_url": "http://takethejourney.cc",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -1569,6 +1665,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/48/5d/41/485d41b9-51d9-f120-c678-4aec1a2005e1/mza_10737849089674979325.jpg/600x600bb.jpg",
     "website_url": "https://openhouse.church",
     "tradition": "reformed",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/f74b4a68/podcast/rss",
+    "title": "Shofar Joburg Sermons",
+    "author": "Shofar Joburg",
+    "speaker_display": "Shofar Joburg",
+    "speaker_slug": "shofar-joburg",
+    "description": "We’re a family of families, a community of disciples, who seek to follow Jesus in Joburg, the city of grace. From early days in a member’s home in 2006 we’ve grown into a multi-cultural and multi-generational congregation that meets at Roosevelt High School in Randburg. Our Sunday services are where we get together to celebrate what God does throughout the week and you’re very welcome to join us.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41389066/41389066-1743578754211-959875e944d49.jpg",
+    "website_url": "http://www.shofaronline.org",
+    "tradition": "evangelical",
     "theological_lean": "conservative"
   },
   {
@@ -1716,6 +1824,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "http://www.lymmbaptistchurch.com/sermons.xml",
+    "title": "Lymm Baptist Church Sunday Sermons",
+    "author": "Lymm Baptist Church",
+    "speaker_display": "Lymm Baptist Church",
+    "speaker_slug": "lymm-baptist-church",
+    "description": "Lymm Baptist Church Sunday Sermons",
+    "artwork_url": "https://www.lymmbaptistchurch.com/static_images/logo_2021_initials_apple.png",
+    "website_url": "https://www.lymmbaptistchurch.com",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://podcasts.subsplash.com/6k8qfkv/podcast.rss",
     "title": "Redeemer Bible Church - Sermons",
     "author": "Redeemer Bible Church",
@@ -1749,6 +1869,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/49/1b/0e/491b0edf-7cd0-ef8d-1abc-dc026363b860/mza_7596038903530861281.jpg/600x600bb.jpg",
     "website_url": "https://midcities.org",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://podcasts.subsplash.com/xcpd6m4/podcast.rss",
+    "title": "Good News Sermon Podcast",
+    "author": "Pastor Jonathan Bauer",
+    "speaker_display": "Pastor Jonathan Bauer",
+    "speaker_slug": "pastor-jonathan-bauer",
+    "description": "Weekly sermons from Good News Lutheran Church in Mount Horeb, Wisconsin.",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD04ZTJhZGZiMS00YjU1LTQ1YTgtOGNiMS1lOTdkMDU4ZWJmN2Ymdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "https://www.goodnewslc.org/",
+    "tradition": "lutheran",
     "theological_lean": "conservative"
   },
   {
@@ -1992,18 +2124,6 @@
     "theological_lean": "conservative"
   },
   {
-    "feed_url": "https://feeds.captivate.fm/lifeandfaith/",
-    "title": "Life & Faith",
-    "author": "Centre for Public Christianity",
-    "speaker_display": "Centre for Public Christianity",
-    "speaker_slug": "centre-for-public-christianity",
-    "description": "Growing up as the son of a diamond smuggler. The leaps of faith required for scientific discovery. An actress who hated Christians, then became one. Join us as we discover the surprising ways Christian faith interrogates and illuminates the world we live in.",
-    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/90/41/97/90419724-8b58-06cd-2133-d95131a1ab22/mza_13973462033180704109.jpg/600x600bb.jpg",
-    "website_url": "https://www.publicchristianity.org/podcast/",
-    "tradition": "evangelical",
-    "theological_lean": "conservative"
-  },
-  {
     "feed_url": "https://anchor.fm/s/10303c9c0/podcast/rss",
     "title": "Pastor David Buchs – Sermons and Bible Studies",
     "author": "Pastor David Buchs",
@@ -2013,6 +2133,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f9/a8/88/f9a8888f-23ff-c61b-8e5a-de68a8462206/mza_4940190397724938745.jpg/600x600bb.jpg",
     "website_url": "https://www.revbuchs.com",
     "tradition": "lutheran",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.captivate.fm/lifeandfaith/",
+    "title": "Life & Faith",
+    "author": "Centre for Public Christianity",
+    "speaker_display": "Centre for Public Christianity",
+    "speaker_slug": "centre-for-public-christianity",
+    "description": "Growing up as the son of a diamond smuggler. The leaps of faith required for scientific discovery. An actress who hated Christians, then became one. Join us as we discover the surprising ways Christian faith interrogates and illuminates the world we live in.",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/90/41/97/90419724-8b58-06cd-2133-d95131a1ab22/mza_13973462033180704109.jpg/600x600bb.jpg",
+    "website_url": "https://www.publicchristianity.org/podcast/",
+    "tradition": "evangelical",
     "theological_lean": "conservative"
   },
   {
@@ -2048,6 +2180,18 @@
     "description": "Subscribe to listen to San Francisco Bible Church's weekly Sunday morning worship service as we walk through verse by verse throughout the Bible in hopes that your heart will walk with Jesus faithfully, serve Him diligently, and proclaim Him boldly.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d4/8a/92/d48a92af-04b1-f837-09f2-fa3b2871ad93/mza_11412500109498048350.jpg/600x600bb.jpg",
     "website_url": "https://www.sfbible.org/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://naplessdachurch.org/media/podcast/2288/feed.rss",
+    "title": "Naples SDA Church Sermons",
+    "author": "Pastor Art Preuss",
+    "speaker_display": "Pastor Art Preuss",
+    "speaker_slug": "pastor-art-preuss",
+    "description": "Messages of hope and truth to comfort, uplift, and increase your faith in Jesus Christ.",
+    "artwork_url": "https://d14f1v6bh52agh.cloudfront.net/qLq1URcDN5auTBfdjyiqr32PXFM=/3000x3000/filters:format(jpeg)/uploads/5a8a244358f9badf9f6d93f04adcf96ee8f26ff1.jpg",
+    "website_url": "https://naplessdachurch.org/media",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -2124,6 +2268,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://rss.buzzsprout.com/57906.rss",
+    "title": "Sermons from First Baptist Church of Sherman, NY",
+    "author": "Pastor Tim Minge",
+    "speaker_display": "Pastor Tim Minge",
+    "speaker_slug": "pastor-tim-minge",
+    "description": "Expositional Bible preaching from the First Baptist Church in Sherman, New York",
+    "artwork_url": "https://storage.buzzsprout.com/8glhuzfv72mtmdzydzk3dqxvwsli?.jpg",
+    "website_url": "http://www.shermanfbc.org",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://rss.buzzsprout.com/2127286.rss",
     "title": "Harmony Bible Church Sermons",
     "author": "Harmony Bible Church",
@@ -2168,6 +2324,18 @@
     "description": "We are not a perfect people\nWe are not a perfect church\nWe are here because we know we need God’s help\nWe know that God has provided that help through Jesus Christ!\nWon’t you join us on this awesome adventure??\n\nCFF is called to:\nRadiate the love of Christ\nReach the lost and the saved in order to\nRestore them into fully mature followers of Christ",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b1/94/c6/b194c609-7567-8d3a-e82e-9d1dde008443/mza_6378413709000138443.jpg/600x600bb.jpg",
     "website_url": "https://www.cfftucson.com/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/eb37ca94/podcast/rss",
+    "title": "The Tabernacle Sermons",
+    "author": "The Tabernacle",
+    "speaker_display": "The Tabernacle",
+    "speaker_slug": "the-tabernacle",
+    "description": "The Tabernacle is a group of imperfect people desiring to be changed by the love &amp; grace of a perfect God. We gather on weekends to worship Jesus, then scatter to our communities as missionaries throughout the week.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/39363021/39363021-1697595587224-ee7b82d5763a7.jpg",
+    "website_url": "http://www.thetabchurch.com",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -2340,6 +2508,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/7ff8a370/podcast/rss",
+    "title": "Drama Time",
+    "author": "Preach Gaming",
+    "speaker_display": "Preach Gaming",
+    "speaker_slug": "preach-gaming",
+    "description": "Drama stories of woe, unluck and pure stupidity in MMORPG's, sent in by players and retold by Preach. Catch the show live on Fridays at 4PM BST at twitch.tv/preachlfw.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/21370012/61ac8f71cf2d07a9.jpeg",
+    "website_url": "https://preachgaming.com/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://rss.libsyn.com/shows/95944/destinations/491872.xml",
     "title": "Hillsong Africa Sermons",
     "author": "Hillsong Church Africa",
@@ -2484,6 +2664,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://www.a2blue.org/feed/podcast/blue-ocean-faith-ann-arbor-sunday-sermons/",
+    "title": "Blue Ocean Church Ann Arbor Sunday Sermons",
+    "author": "Blue Ocean Church Ann Arbor Sunday Sermons",
+    "speaker_display": "Blue Ocean Church Ann Arbor Sunday Sermons",
+    "speaker_slug": "blue-ocean-church-ann-arbor-sunday-sermons",
+    "description": "An audio version of our weekly Sunday messages.",
+    "artwork_url": "https://www.a2blue.org/wp-content/uploads/2020/07/BOFA2-logo2-podcast1400.jpg",
+    "website_url": "https://www.a2blue.org/series/blue-ocean-faith-ann-arbor-sunday-sermons/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feed.podbean.com/bridgetown/feed.xml",
     "title": "Bridgetown Audio Podcast",
     "author": "Bridgetown Church",
@@ -2505,6 +2697,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/66/4d/b1/664db171-634d-7440-edcb-fb0d9973ac89/mza_17084888399830209264.jpg/600x600bb.jpg",
     "website_url": "https://media.brooklyntabernacle.org/audio_media.html",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:274935357/sounds.rss",
+    "title": "Calvary Baptist Church Preaching Podcast",
+    "author": "Calvary Baptist Church // Union Grove, NC",
+    "speaker_display": "Calvary Baptist Church // Union Grove, NC",
+    "speaker_slug": "calvary-baptist-church-union-grove-nc",
+    "description": "This podcast features the teaching and preaching ministry of Calvary Baptist Church of Union Grove, NC.  View us online @ cbcuniongrove.com",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/43/79/51/43795110-1218-b107-a343-037772899160/mza_11451178719665200769.jpg/600x600bb.jpg",
+    "website_url": "http://cbcuniongrove.com",
+    "tradition": "baptist",
     "theological_lean": "conservative"
   },
   {
@@ -2576,6 +2780,18 @@
     "description": "On each daily broadcast, Dr. Robert Jeffress provides practical application of God’s Word to everyday life through clear, uncompromised Biblical teaching. Join him today on the Pathway to Victory!",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/56/a4/ca56a407-5553-d396-51a2-713ee09fddf9/mza_17770315600664083672.jpg/600x600bb.jpg",
     "website_url": "https://pathwaytovictory.podbean.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://eccelmira.org/feed/?post_type=sermons",
+    "title": "Emmanuel Community Church Sermons",
+    "author": "Emmanuel Community Church",
+    "speaker_display": "Emmanuel Community Church",
+    "speaker_slug": "emmanuel-community-church",
+    "description": "Official feed for the sermons from Emmanuel Community Church in Elmira, NY. We are committed to glorifying the triune God by worshiping and making disciples of the Lord Jesus Christ. Learn more at eccelmira.org",
+    "artwork_url": "https://eccelmira.org/wp-content/uploads/2023/04/ECC-Sermons-Podcast.jpg",
+    "website_url": "https://eccelmira.org",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -2664,6 +2880,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:176523895/sounds.rss",
+    "title": "Heath Harris Sermon Podcast",
+    "author": "Pastor Heath Harris",
+    "speaker_display": "Pastor Heath Harris",
+    "speaker_slug": "pastor-heath-harris",
+    "description": "Bible-based sermons with Pastor Heath Harris at Sanctuary Family Worship Center in Jena, Louisiana. Let's go deeper into the Word of God and take the next step on our journey of following Jesus. Learn more at sanctuaryfwc.com.",
+    "artwork_url": "https://i1.sndcdn.com/avatars-O2cCYSZVqZIh6tfy-8KIJ9w-original.jpg",
+    "website_url": "http://www.sanctuaryfwc.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:148170865/sounds.rss",
     "title": "Sword in Hand-Bible Believing Preaching!",
     "author": "Pastor Keegan Hall of Indian Gap Baptist Church of Indian Gap, Texas",
@@ -2684,6 +2912,18 @@
     "description": "Sermons preached at Rock Valley Bible Church, Loves Park, IL (www.rvbc.cc)",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/11/2a/2d/112a2d9b-6b17-e37c-b815-8ba73dd7fce7/mza_11243331202792095849.jpg/600x600bb.jpg",
     "website_url": "https://sermons.rvbc.cc/sermons/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:137178540/sounds.rss",
+    "title": "Rosewood Church Sermons",
+    "author": "Rosewood Church",
+    "speaker_display": "Rosewood Church",
+    "speaker_slug": "rosewood-church",
+    "description": "Welcome to the weekly sermon podcast of Rosewood Church of the Nazarene led by Rev. Nick Stavropoulos. \nTo learn more visit our website at www.rosewoodchurch.ca\nTo support this ministry and help us continue to reach people all around the world click here: https://www.canadahelps.org/en/dn/50884",
+    "artwork_url": "https://i1.sndcdn.com/avatars-ApPYe7j5TxM4rMoz-KFKyzw-original.jpg",
+    "website_url": "http://www.rosewoodchurch.ca/",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -2709,6 +2949,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0b/4b/00/0b4b0076-2865-7f80-83de-0e3f202d393f/mza_4810046332066404799.jpg/600x600bb.jpg",
     "website_url": "http://www.bakersfieldchurch.org",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:152894067/sounds.rss",
+    "title": "St. Thomas the Apostle Episcopal Church Texts and Sermons",
+    "author": "St Thomas the Apostle",
+    "speaker_display": "St Thomas the Apostle",
+    "speaker_slug": "st-thomas-the-apostle",
+    "description": "Weekly Recordings of the Scripture Readings, Sermons and Adult Forum at St. Thomas the Apostle Episcopal Church in Houston (Nassau Bay), Texas.",
+    "artwork_url": "https://i1.sndcdn.com/avatars-000150671818-ogj1hy-original.jpg",
+    "website_url": "http://www.sttaec.org",
+    "tradition": "episcopal",
     "theological_lean": "conservative"
   },
   {
@@ -2756,6 +3008,18 @@
     "description": "Welcome to the official preaching podcast of South Valley Baptist Church in Kuna, Idaho. Located in the heart of the Treasure Valley, SVBC is a family of friends. On this podcast, you will hear the Truth of God's Word preached directly from the Bible. It is our desire that you will be helped and blessed by these Gospel messages.\n\nFor more information about SVBC, please visit http://www.svbaptistchurch.com. There you will find links to all of our social platforms, years of audio sermons, and much more. For online giving: https://svbckuna.churchtrac.com/give",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/7e/8b/ef/7e8bef55-8970-9f2c-5ced-e1b44459c5e6/mza_14044722500516204866.jpeg/600x600bb.jpg",
     "website_url": "http://www.svbaptistchurch.com/",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:297717739/sounds.rss",
+    "title": "First Baptist Church of Orange Park - Sermon Audio",
+    "author": "David Tarkington, Pastor",
+    "speaker_display": "David Tarkington, Pastor",
+    "speaker_slug": "david-tarkington-pastor",
+    "description": "First Baptist Church of Orange Park, Florida\nDr. David Tarkington, Pastor",
+    "artwork_url": "https://i1.sndcdn.com/avatars-KG1QMtQ9c8jM6tPB-3BllJg-original.jpg",
+    "website_url": "http://firstfam.org",
     "tradition": "baptist",
     "theological_lean": "conservative"
   },
@@ -2828,18 +3092,6 @@
     "description": "Providing sound Bible teaching through the preaching ministry of Pastor Greg Lundstedt.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/fd/d9/cf/fdd9cf2b-25ee-7525-e9b6-5bd0eb500eec/mza_2213208781438064195.jpg/600x600bb.jpg",
     "website_url": "http://www.equippingbc.org",
-    "tradition": "evangelical",
-    "theological_lean": "conservative"
-  },
-  {
-    "feed_url": "https://nakedbiblepodcast.com/feed/podcast/",
-    "title": "The Naked Bible Podcast",
-    "author": "Dr. Michael S. Heiser",
-    "speaker_display": "Dr. Michael S. Heiser",
-    "speaker_slug": "dr-michael-s-heiser",
-    "description": "Biblical theology, stripped bare of denominational confessions and theological systems by exposing context.",
-    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1e/c6/4b/1ec64bc2-f1ff-523a-d310-42c8456e0f99/mza_2029758504976598226.jpeg/600x600bb.jpg",
-    "website_url": "https://nakedbiblepodcast.com/series/the-naked-bible-podcast/",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -2952,6 +3204,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:176321448/sounds.rss",
+    "title": "SunWest Church Weekly Sermon Podcast",
+    "author": "SunWest Church",
+    "speaker_display": "SunWest Church",
+    "speaker_slug": "sunwest-church",
+    "description": "SunWest exists to guide all people into a lifelong authentic relationship with Jesus Christ.",
+    "artwork_url": "https://i1.sndcdn.com/avatars-VOlG5XotkjeQ39Ro-qN1b6g-original.jpg",
+    "website_url": "http://www.sunwestchurch.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/2a6ab1c8/podcast/rss",
     "title": "In Your Presence",
     "author": "Eric Nicolai",
@@ -3032,6 +3296,18 @@
     "description": "One year.  Every day.  365 days through the Bible in community with tens of thousands of others around the globe following the same quest.  Hand crafted daily from the rolling hills of Tennessee, Nashville based author and speaker Brian Hardin is your guide on the adventure of a lifetime. Visit us on the web at www.dailyaudiobible.com  A YEAR CHANGES EVERYTHING!",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/e6/61/49/e6614906-a56c-ea00-958f-bac7cb073b66/mza_7298448055389676683.jpg/600x600bb.jpg",
     "website_url": "http://feeds.feedburner.com/dailyaudiobible.xml",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://podcasts.subsplash.com:443/dd0ae0c/podcast.rss",
+    "title": "Lifepointe Church Sermons",
+    "author": "Pastor Jeff Wilson",
+    "speaker_display": "Pastor Jeff Wilson",
+    "speaker_slug": "pastor-jeff-wilson",
+    "description": "Keep up to date with messages from Lifepointe Church in Kettering, OH with our official podcast!",
+    "artwork_url": null,
+    "website_url": "www.lifepointe.tv",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -3128,6 +3404,18 @@
     "description": "Welcome to the weekly podcast of Pastor Ryan Visconti and Generation Church in Mesa, Arizona. We exist to Honor God. Equip Believers. Reach the Lost.\nWe believe that Jesus is the most amazing person who has ever lived! Knowing Him is the only true way to find purpose and experience satisfaction. We want everyone to experience the truth, love, and grace available through Jesus Christ. You’re welcome to come as you are; we’d love to meet you! If you’d like to support this ministry or learn more, visit our website www.generation.church",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/97/5c/8b/975c8b76-4150-76ac-8043-585cf830436e/mza_2235405920673247223.jpg/600x600bb.jpg",
     "website_url": "https://www.generation.church",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://rss.buzzsprout.com/1734793.rss",
+    "title": "Teach Me The Bible",
+    "author": "Dr. David Klingler",
+    "speaker_display": "Dr. David Klingler",
+    "speaker_slug": "dr-david-klingler",
+    "description": "<p>Welcome to Teach Me The Bible Podcast, helping the people of God understand the Word of God. Join us weekly as Dr. David Klingler walks us through God's Word and teaches the Bible. If you want more information, visit our website, teachmethebible.com, and download our \"Teach Me The Bible\" app from any app store.</p>",
+    "artwork_url": "https://storage.buzzsprout.com/1tut5p3lyr7j8o89lwjtaew5nepm?.jpg",
+    "website_url": "https://www.buzzsprout.com/1734793",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -3336,6 +3624,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "http://feeds.feedburner.com/DoubleOakCommunityChurchSundaySermonPodcast",
+    "title": "Double Oak Community Church Sunday Sermon Podcast",
+    "author": "Double Oak Community Church",
+    "speaker_display": "Double Oak Community Church",
+    "speaker_slug": "double-oak-community-church",
+    "description": "Sunday morning messages from Double Oak Community Church in Birmingham, AL",
+    "artwork_url": "http://www.doubleoakcc.org/uploads/SundaySermon-podcast-2048.jpg",
+    "website_url": "http://www.doubleoakcc.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://www.liferotp.com/feeds/channel/sunday-sermons",
     "title": "Real Life Sunday Sermons",
     "author": "Real Life on the Palouse",
@@ -3357,6 +3657,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/72/a7/78/72a778c9-9fd8-7002-6918-1fb5c59100c0/mza_11945576676731073661.jpg/600x600bb.jpg",
     "website_url": "https://www.GodsBreath.net/",
     "tradition": "reformed",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:313102250/sounds.rss",
+    "title": "Zions Stone UCC",
+    "author": "Sermons from Rev. Mike Landsman, pastor of Zion's Stone UCC in Northampton, PA",
+    "speaker_display": "Sermons from Rev. Mike Landsman, pastor of Zion's Stone UCC in Northampton, PA",
+    "speaker_slug": "sermons-from-rev-mike-landsman-pastor-of-zions-stone-ucc-in-northampton-pa",
+    "description": "The weekly sermons from Rev. Mike Landsman, pastor at Zion's Stone UCC in Northampton, PA.",
+    "artwork_url": "https://i1.sndcdn.com/avatars-000318225087-l3404e-original.jpg",
+    "website_url": "http://www.zionsstoneucc.com",
+    "tradition": "evangelical",
     "theological_lean": "conservative"
   },
   {
@@ -3540,6 +3852,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:276822453/sounds.rss",
+    "title": "Church of the Advent Hope Sermons",
+    "author": "Church of the Advent Hope",
+    "speaker_display": "Church of the Advent Hope",
+    "speaker_slug": "church-of-the-advent-hope",
+    "description": "Church of the Advent Hope is a Seventh-day Adventist community that meets in the heart of Manhattan's Upper East Side.",
+    "artwork_url": "https://i1.sndcdn.com/avatars-Jbgyiyo9oDCcxHA0-UDYMGg-original.jpg",
+    "website_url": "http://adventhope.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.transistor.fm/highland-baptist-church-sermons",
     "title": "Highland Baptist Church - Sermons",
     "author": "Highland Baptist Church",
@@ -3572,6 +3896,18 @@
     "description": "Sunday sermons from Berean Community Church. Based in Irvine, California, we are a medium-sized, multi-ethnic church devoted to God-centered worship, equipping members with God’s Word, loving community and accountability, and reaching the world with the gospel of Christ.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/7a/f3/2b/7af32b9a-fb7f-98a4-154d-a2dcbd762953/mza_13626257117823642365.jpg/600x600bb.jpg",
     "website_url": "http://www.bereancc.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/780c1ac/podcast/rss",
+    "title": "Oak Hill Fellowship Sermons",
+    "author": "Oak Hill Fellowship Church",
+    "speaker_display": "Oak Hill Fellowship Church",
+    "speaker_slug": "oak-hill-fellowship-church",
+    "description": "Sermons from Oak Hill Fellowship Church in Quarryville, PA.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1158787/1158787-1642086294152-402831e3d440d.jpg",
+    "website_url": "https://www.oakhillfellowship.com",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -3624,6 +3960,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/4474c18/podcast/rss",
+    "title": "Melbourne Heights - Sermons",
+    "author": "Melbourne Heights",
+    "speaker_display": "Melbourne Heights",
+    "speaker_slug": "melbourne-heights",
+    "description": "Be challenged, encouraged, and inspired to take your faith to new heights.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/617814/617814-1618257723319-0e0d70b9f358.jpg",
+    "website_url": "https://mhbclouisville.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/104f0ff78/podcast/rss",
     "title": "Christian Renewal - Sermons",
     "author": "Christian Renewal Church",
@@ -3636,6 +3984,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://podcasts.subsplash.com/n97xwqq/podcast.rss",
+    "title": "Imprint Woodinville Sermons",
+    "author": "Imprint Church",
+    "speaker_display": "Imprint Church",
+    "speaker_slug": "imprint-church",
+    "description": "Imprint Church in Woodinville, WA is a nondenominational Christian Church that seeks to transform people into generous disciples of Jesus Christ who are sent into the world to make other generous disciples of Jesus Christ",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD1kNGJhM2E3Yi1mZjY1LTQ1YjgtYjM4NS1mZTkzMWY1ZTMyYTcmdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "imprintchurch.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://lighthousebiblesimi.com/podcast/5d2879b6-f717-42b4-adcd-3d07380bca30.xml",
     "title": "Expository Bible Preaching at Lighthouse Bible Church",
     "author": "Ben Ice",
@@ -3645,6 +4005,30 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1a/ff/a8/1affa8c0-7638-1e65-524f-87fa0ee7bcbb/mza_17946245106486440245.png/600x600bb.jpg",
     "website_url": "http://lighthousebiblesimi.com",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "http://feeds.feedburner.com/CrestwoodBaptistChurch",
+    "title": "Crestwood Baptist Church Sermons",
+    "author": "Pastor Jeff Lowe",
+    "speaker_display": "Pastor Jeff Lowe",
+    "speaker_slug": "pastor-jeff-lowe",
+    "description": "This is a podcast of the Sunday Services of Pastor Jeff Lowe from Crestwood Baptist Church in Kountze, Texas.",
+    "artwork_url": "http://cf8dc52adfeb84743d32-9c9b5835a85d1220ef4ed55f0af7279c.r40.cf2.rackcdn.com/uploaded/p/0e3883833_1417986729_podcastlogo.jpg",
+    "website_url": "https://crestwoodbc.com",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:226103894/sounds.rss",
+    "title": "All Shores Wesleyan Church Sunday Sermons",
+    "author": "All Shores Wesleyan Church",
+    "speaker_display": "All Shores Wesleyan Church",
+    "speaker_slug": "all-shores-wesleyan-church",
+    "description": "TOGETHER. BECAUSE LIFE IS MESSY.",
+    "artwork_url": "https://i1.sndcdn.com/avatars-000223929948-z1z0e3-original.jpg",
+    "website_url": "http://www.allshores.org",
+    "tradition": "methodist",
     "theological_lean": "conservative"
   },
   {
@@ -3692,6 +4076,18 @@
     "description": "<p>Welcome to The Bible Dept., a 365-day Bible reading plan and podcast with Dr. Manny Arango designed to help you connect with Scripture in a fresh, meaningful way.</p><p><br></p><p>Did you know that 94% of Christians have never read the entire Bible? We&#39;re here to change that! Each day, we guide you through 1–3 chapters of Scripture and dive deep into its meaning with engaging episodes that include:</p><p><br></p><ul><li><strong>An Overview:</strong> Breaking down what’s happening in the text.</li><li><strong>Context Clues:</strong> Exploring historical and cultural insights.</li><li><strong>Nerdy Nuggets:</strong> Fascinating details you might not know.</li><li><strong>Timeless Truths:</strong> Practical takeaways to apply to your daily life.</li></ul><p><br></p><p>Whether you’re just starting out or looking for a fresh perspective, The Bible Dept. is here to make Scripture approachable, clear, and transformative. Read the Bible this year --- and ACTUALLY get it! Subscribe now and join us on the journey.</p><p><br></p><p><strong>📖 DOWNLOAD THE PLAN </strong>(<a href=\"https://thebibledept.com/plan\" rel=\"nofollow\">https://thebibledept.com/plan</a>)</p><p><strong>🚀 START HERE! ",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/21/5d/40/215d40f2-977b-9b51-6995-51266ca94aaf/mza_13452244246348171782.jpg/600x600bb.jpg",
     "website_url": "https://redcircle.com/shows/the-bible-dept",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://rss.buzzsprout.com/232684.rss",
+    "title": "Lighthouse Amherstburg's weekly sermon podcast",
+    "author": "Pastor Adrian Ninaber",
+    "speaker_display": "Pastor Adrian Ninaber",
+    "speaker_slug": "pastor-adrian-ninaber",
+    "description": "Weekly Sermon Podcast from Pastor Adrian Ninaber at Lighthouse Church in Amherstburg, ON",
+    "artwork_url": "https://storage.buzzsprout.com/2j58wq1rd6v3km1v114vbv1rj7al?.jpg",
+    "website_url": "https://www.lighthouseamherstburg.com/",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -3873,6 +4269,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/97/52/f5/9752f5cc-a6c3-6cd7-1660-75284c874df5/mza_9612238600379510479.jpg/600x600bb.jpg",
     "website_url": "https://www.facebook.com/stpeterrandall/",
     "tradition": "lutheran",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://podcasts.subsplash.com/phrr5v7/podcast.rss",
+    "title": "Second Cast Sunday Sermons",
+    "author": "Second Pres",
+    "speaker_display": "Second Pres",
+    "speaker_slug": "second-pres",
+    "description": "Second Cast is a weekly collection of our 9:00 AM Sunday services at Second Pres in Bloomington, IL",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD01MmVhNGZlNi1iOTEyLTQ1OTgtODIxOS1kMGI1Y2M1ZmMxNTImdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "http://www.secondpres.com",
+    "tradition": "evangelical",
     "theological_lean": "conservative"
   },
   {
@@ -4164,6 +4572,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://feeds.simplecast.com/yLsbkM8w",
+    "title": "RLCSAC Sermon Podcast",
+    "author": "Lead Pastor: Dean Deguara",
+    "speaker_display": "Lead Pastor: Dean Deguara",
+    "speaker_slug": "lead-pastor-dean-deguara",
+    "description": "The Real Life Church weekly sermon is prepared and provided by the RLC teaching team to equip, encourage and empower the greater Body of Christ.",
+    "artwork_url": "https://image.simplecastcdn.com/images/a5d34bb8-ad4c-4a2a-90da-a0b32175dfa7/35b0b12f-45af-4477-a3e7-60d7b1704380/3000x3000/rlc-20sermon-20podcast-20square.jpg?aid=rss_feed",
+    "website_url": "https://www.rlcsac.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.transistor.fm/renovare-podcast-with-nathan-foster",
     "title": "Life with God: A Renovaré Podcast",
     "author": "Renovaré",
@@ -4184,6 +4604,18 @@
     "description": "Weekly sermons preached at the AFM Midrand Impact Christian Centre, Johannesburg, South Africa. We'd love to pray with you by sending us your prayer requests, either through our website at https://afmimpact.org/ or through email at info@afmimpact.org we are looking foward to hearing from you. God bless you",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/94/0b/08940b5b-1b3e-9983-640d-8619363ae0a5/mza_14080069072292866138.jpg/600x600bb.jpg",
     "website_url": "http://www.afmimpact.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://podcasts.subsplash.com:443/589d9de/podcast.rss",
+    "title": "Heritage Sermon Audio",
+    "author": "Heritage Christian Church",
+    "speaker_display": "Heritage Christian Church",
+    "speaker_slug": "heritage-christian-church",
+    "description": "Weekly audio messages from Heritage Christian Church, Westerville, OH",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD1lZWNiYzM3Yi0zZTFiLTQwNDQtYTk3ZS1mNDJiNTI2OWI0YTAmdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "http://heritagecc.org",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -4452,6 +4884,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://steadfastcarlsbad.com/teachings/?format=rss",
+    "title": "Steadfast Carlsbad Sermons",
+    "author": "Pastor Chris Fik & Guests",
+    "speaker_display": "Pastor Chris Fik & Guests",
+    "speaker_slug": "pastor-chris-fik-guests",
+    "description": "Weekly expositional Bible studies and sermons from Lead Pastor Chris Fik &amp; Guests",
+    "artwork_url": "https://images.squarespace-cdn.com/content/v1/570014cec2ea51877536c605/1703114488915-OHYAX4J88ICP42AHDG4X/SteadfastPodd.jpg?format=1500w",
+    "website_url": "https://steadfastcarlsbad.com/teachings/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://gracepointvaldosta.com/feed/podcast/sermons/",
     "title": "Sunday AM Sermons From GracePoint Church in Valdosta, Georgia",
     "author": "Pastor Dell Young",
@@ -4508,6 +4952,18 @@
     "description": "Faith | Family | Community",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1a/af/07/1aaf074c-dbe6-55c8-f0c8-5ee5a76c4b37/mza_7246222557614155479.png/600x600bb.jpg",
     "website_url": "http://www.qalaminstitute.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://www.reservoir.church/sermons?format=rss",
+    "title": "Reservoir Church Sermons",
+    "author": "Reservoir Church",
+    "speaker_display": "Reservoir Church",
+    "speaker_slug": "reservoir-church",
+    "description": "<p>Sermons from Reservoir Church (www.reservoir.church). Knowing Jesus &amp; Making Him Known.</p>",
+    "artwork_url": "https://images.squarespace-cdn.com/content/v1/54c8301de4b0992e17129dec/1556726453532-JZUCSLAY4MSVCPCI5NAS/R+Logo.PNG?format=1500w",
+    "website_url": "https://www.reservoir.church/sermons/",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -4592,6 +5048,30 @@
     "description": "God created men in the greatness of His image. Yet so many men are weak, lost, confused, and afraid. The Impossible Life is a rally cry for men to wake up and remember who they’re made to be. Former Navy SEAL Garrett Unclebach and men's ministry leader Nick Surface challenge men to rise above mediocrity and embrace their true purpose. Through Biblically-based content &amp; training, they help men become the strong, fearless leaders they were made to be. Future generations need great men now. Are you one of them?",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e9/27/73/e9277351-efc5-f0fd-91fc-f84785a951c2/mza_782707846380359450.jpg/600x600bb.jpg",
     "website_url": "https://www.spreaker.com/podcast/the-impossible-life--6630378",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/1b1a2a50/podcast/rss",
+    "title": "Grace Bible Church of Akron: Sermon Teachings",
+    "author": "GBC Akron",
+    "speaker_display": "GBC Akron",
+    "speaker_slug": "gbc-akron",
+    "description": "Welcome to the Podcast channel of Grace Bible Church in Akron, Ohio! GBC of Akron serves the local Akron area in Northeast Ohio through loving, following and sharing Jesus Christ. This Podcast channel will feature GBC teachings: Weekly sermons led by Pastor Cary and Pastor Stephen, and other recorded teachings and lessons from GBC. If you would like more information, please check out our app (GBC Akron) or visit our website gbcakron.org.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/4446996/4446996-1680100167760-9d600f4afd1b4.jpg",
+    "website_url": "https://podcasters.spotify.com/pod/show/gbcakron",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feed.podbean.com/downtownchurch/feed.xml",
+    "title": "Sermons at DOWNTOWN CHURCH",
+    "author": "DOWNTOWN CHURCH | Columbia, SC",
+    "speaker_display": "DOWNTOWN CHURCH | Columbia, SC",
+    "speaker_slug": "downtown-church-columbia-sc",
+    "description": "DOWNTOWN CHURCH is a community of unfinished people in pursuit of truth. Join us here to listen to Sunday sermons.\nALL SCRIPTURE QUOTED FROM THE NEW REVISED STANDARD VERSION OF THE BIBLE©1989 BY THE NATIONAL COUNCIL OF CHURCHES OF CHRIST.\n\nMUSIC COVERED UNDER THE LICENSE CCS#11209.",
+    "artwork_url": "https://pbcdn1.podbean.com/imglogo/image-logo/10179161/itunes-logo.jpg",
+    "website_url": "https://downtownchurch.podbean.com",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -4764,6 +5244,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/b40c59cc/podcast/rss",
+    "title": "Bethel Cleveland Sermon of the Week",
+    "author": "Bethel Cleveland",
+    "speaker_display": "Bethel Cleveland",
+    "speaker_slug": "bethel-cleveland",
+    "description": "Your resource for Bethel Cleveland's Sermon of the week.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/30107083/5b160e54e5bd3eeb.jpeg",
+    "website_url": "http://bethelcleveland.libsyn.com/podcast",
+    "tradition": "charismatic",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://altruaglobalsolutions.com/podcast/TruthGatherers.xml",
     "title": "Truth Gatherers Dream Center Church Tallahassee Florida - Pastor Joseph Davis  - Sermons Teaching Preaching Inspiration Love Hope Worship",
     "author": "Joseph Davis",
@@ -4932,6 +5424,42 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://www.spreaker.com/show/4658783/episodes/feed",
+    "title": "Pastor Dirk's Sermons",
+    "author": "Pastor Dirk Rodgers",
+    "speaker_display": "Pastor Dirk Rodgers",
+    "speaker_slug": "pastor-dirk-rodgers",
+    "description": "Weekly reflections on the scriptures from our Worship Services at Roser Church, Anna Maria, Florida.",
+    "artwork_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/adcb90aae602747c89ca4c36aeba8157.jpg",
+    "website_url": "https://www.spreaker.com/podcast/pastor-dirk-s-sermons--4658783",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://www.ferventprayer.org/sermons/podcast.xml",
+    "title": "Rivers of Life Egypt Sermons",
+    "author": "Pastor Daniel",
+    "speaker_display": "Pastor Daniel",
+    "speaker_slug": "pastor-daniel",
+    "description": "الاجتماع الاسبوعي للاب دانيال",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/33/aa/7a/33aa7af6-6dc5-1022-f0af-1b885e48f272/mza_6608565704535912989.jpg/600x600bb.jpg",
+    "website_url": "http://www.pastordaniel.org/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://www.westcab.org/podcast-category/west-cabarrus-church-sermons/feed/podcast",
+    "title": "West Cabarrus Church Sermons",
+    "author": "Pastor Ryan Epley",
+    "speaker_display": "Pastor Ryan Epley",
+    "speaker_slug": "pastor-ryan-epley",
+    "description": "Listen to weekly sermons from Pastor Ryan Epley and other pastors from West Cabarrus Church.",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a9/98/3c/a9983c92-4620-f779-979f-b8d58d747c62/mza_9126095935190583420.png/600x600bb.jpg",
+    "website_url": "https://www.westcab.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "http://feeds.ancientfaith.com/AncientFaithTodayLive/",
     "title": "Ancient Faith Today Live",
     "author": "Fr. Tom Soroka, and Ancient Faith Ministries",
@@ -5064,6 +5592,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://northminsterbaptist.org/podcast/rss.xml",
+    "title": "Northminster Baptist Sermons",
+    "author": "Northminster Baptist",
+    "speaker_display": "Northminster Baptist",
+    "speaker_slug": "northminster-baptist",
+    "description": "Our sermons are usually updated weekly.",
+    "artwork_url": "http://0abceb24b1eb9c1d90e6-602720031dfa14276511e1639fad26d4.r32.cf2.rackcdn.com/itunes.png",
+    "website_url": "http://www.northminsterbaptist.org",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://rss.buzzsprout.com/1930913.rss",
     "title": "Chronologically Through the Bible in One Year",
     "author": "Rebekah Billings",
@@ -5120,6 +5660,18 @@
     "description": "Gospel City is a church plant in Long Beach, CA that exists to see the far off brought near &amp; to grow into Christ as we plant &amp; multiply gospel-centered churches.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/67/b4/e4/67b4e465-39f2-92ef-d7ef-08f5deb9b8f4/mza_11609765456172358200.jpg/600x600bb.jpg",
     "website_url": "https://podcasters.spotify.com/pod/show/gospel-city-church",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:26891536/sounds.rss",
+    "title": "Phil & Dayle Kinney Sermons",
+    "author": "Phil & Dayle Kinney",
+    "speaker_display": "Phil & Dayle Kinney",
+    "speaker_slug": "phil-dayle-kinney",
+    "description": "Podcast by Phil & Dayle Kinney",
+    "artwork_url": "https://i1.sndcdn.com/avatars-000204425207-w94da9-original.jpg",
+    "website_url": "https://soundcloud.com/phil-dayle-kinney",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -5184,6 +5736,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/831a317c/podcast/rss",
+    "title": "Shiretown Baptist Church Preaching Podcast",
+    "author": "Jeremiah Chasse",
+    "speaker_display": "Jeremiah Chasse",
+    "speaker_slug": "jeremiah-chasse",
+    "description": "The newest sermons from Shiretown Baptist Church in Houlton, Maine.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/21895319/21895319-1644612136754-3c755d516c5c2.jpg",
+    "website_url": "https://shiretownbaptist.com",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.transistor.fm/undeceptions-with-john-dickson",
     "title": "Undeceptions with John Dickson",
     "author": "Undeceptions Ltd",
@@ -5232,6 +5796,30 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "http://media.hfcnaz.org/podcast/podcast.xml",
+    "title": "HFC | Archived Sermons",
+    "author": "Pastor Matt Hawkins",
+    "speaker_display": "Pastor Matt Hawkins",
+    "speaker_slug": "pastor-matt-hawkins",
+    "description": "Developing a closer relationship with our Savior",
+    "artwork_url": "http://media.hfcnaz.org/podcast/new_hfc_logo.png",
+    "website_url": "http://www.hfcnaz.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://sanctorum.us/feed/podcast/english-podcasts/",
+    "title": "The History of the Christian Church",
+    "author": "Pastor Lance Ralston",
+    "speaker_display": "Pastor Lance Ralston",
+    "speaker_slug": "pastor-lance-ralston",
+    "description": "Providing Insight into the history of the Christian Church",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/8c/82/67/8c8267cc-2196-a745-31d3-6b18f05d93c9/mza_13183060176049571378.jpg/600x600bb.jpg",
+    "website_url": "https://sanctorum.us/series/the-history-of-the-christian-church/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/6f508560/podcast/rss",
     "title": "Grace Life Bible Church Weekly Sermons- Omaha NE",
     "author": "Grace Life Bible Church",
@@ -5264,6 +5852,18 @@
     "description": "Equipping believers through the authority of Scripture for the glory of God",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/15/b1/4615b140-ac3c-57d8-4180-49f049102f7b/mza_15597881233909894075.jpg/600x600bb.jpg",
     "website_url": "https://gilbertbible.com/sermons/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.nucleus.church/d96d9586c6be41a3bd44a4f03b5a572a",
+    "title": "Grace Fellowship Sermons",
+    "author": "Pastor Mark Lingenfelter",
+    "speaker_display": "Pastor Mark Lingenfelter",
+    "speaker_slug": "pastor-mark-lingenfelter",
+    "description": "Sermon Series Audio",
+    "artwork_url": "https://cdn1.nucleus-cdn.church/church_0d42878f135e42b39771689559b38865/file_85012614408b4118a70f8aa8393fabb1/2024-02-19T19:43:32.113Z/uploads_erSkkdIvjFhXtcV9Ghy9pyPSHEaHhFhP0ITNEmkF.jpeg",
+    "website_url": "gracefellowship.online",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -5424,6 +6024,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/1cfd6a6c/podcast/rss",
+    "title": "Sharing The Word (Teachings from the Bible).",
+    "author": "Dr. T.L. Driver, Ph.D., DMin.",
+    "speaker_display": "Dr. T.L. Driver, Ph.D., DMin.",
+    "speaker_slug": "dr-tl-driver-phd-dmin",
+    "description": "Bible topics discussed pragmatically that helps the believer live a victorious life by faith in Jesus Christ.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4763699/4763699-1715723386811-e3905ea8b3375.jpg",
+    "website_url": "https://www.tldmevangelisticmedianetwork.com/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://podcasts.subsplash.com/s7w5kdw/podcast.rss",
     "title": "Occoquan Bible Church | Sermons",
     "author": "Occoquan Bible Church",
@@ -5460,6 +6072,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://podcasts.subsplash.com:443/7f6002a/podcast.rss",
+    "title": "BSPC Sermons",
+    "author": "Broad Street Presbyterian Church",
+    "speaker_display": "Broad Street Presbyterian Church",
+    "speaker_slug": "broad-street-presbyterian-church",
+    "description": "Listen to the sermons each week from Broad Street Presbyterian Church",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD0xNWNiOTcwNC0yNGRhLTQ0NWEtYjNkZS03NTZjNzcwNTUzZjImdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "http://www.bspc.org",
+    "tradition": "reformed",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/49ce79f0/podcast/rss",
     "title": "Pastor Taylor Shippy's Sermons",
     "author": "Taylor Shippy",
@@ -5472,18 +6096,6 @@
     "theological_lean": "conservative"
   },
   {
-    "feed_url": "https://www.accessmore.com/podcast?categoryID2=172",
-    "title": "Lisa Harper's Back Porch Theology",
-    "author": "AccessMore",
-    "speaker_display": "AccessMore",
-    "speaker_slug": "accessmore",
-    "description": "<p>You're invited to hang out on Lisa Harper's back porch and enjoy conversations about all things Jesus, theological anthropology, biblical orthodoxy, Spanx, the merits of Tex-Mex and more! <br><br>We believe this podcast will help you dive deeper into God's word, understand that the gospel is great news for everyday life, not just when viewed in the light of eternity, and that God is for us, that He's always been in the process of redeeming our inherent value as imago Dei and restoring us into a vibrant, intimate relationship with Him.<br><br>And rest assured, this won't be a one-sided conversation because, throughout the podcast, Lisa will be inviting friends, including some brilliant theologians and academics to join her in substantive but decidedly unstuffy segments.  So come on, y'all grab some coffee or sweet tea and join us on the back porch!</p>",
-    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/0e/34/96/0e349661-78dc-90eb-1773-04f9b5d195a1/mza_13457773721322625452.jpg/600x600bb.jpg",
-    "website_url": "https://www.accessmore.com/pd/Lisa-Harpers-Back-Porch-Theology",
-    "tradition": "evangelical",
-    "theological_lean": "conservative"
-  },
-  {
     "feed_url": "https://rss.libsyn.com/shows/255170/destinations/1930919.xml",
     "title": "Prophecy Pros Podcast",
     "author": "Jeff Kinley & Todd Hampson",
@@ -5492,6 +6104,18 @@
     "description": "Two experts. One topic. No Confusion. Show hosts, Jeff Kinley and Todd Hampson, are on a mission to reach the next generation with the inspiring, hopeful message found in Bible prophecy.\n\nLearn more about Jeff, Todd, and their books at https://prophecyprospodcast.com\n\nProduced by Unmutable™",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/ab/dd/ca/abddcaab-f6fe-e006-4382-92185946f3c3/mza_3118655705103724240.png/600x600bb.jpg",
     "website_url": "https://prophecyprospodcast.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://scriptures.info/audio/44k/male1/volume-tc.xml",
+    "title": "Teachings and Commandments - Restoration Edition (Narrated by Tony)",
+    "author": "Restoration Scriptures Foundation",
+    "speaker_display": "Restoration Scriptures Foundation",
+    "speaker_slug": "restoration-scriptures-foundation",
+    "description": "Inspired writings and revelations of contemporary witnesses of the resurrected Christ, with divine mandates to restore His true Gospel.",
+    "artwork_url": "https://scriptures.info/audio/cover-tc.jpg",
+    "website_url": "https://scriptures.info/Home/Audio/male1/tc/",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -5628,6 +6252,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "http://feeds.feedburner.com/RevMeHollensenSermons",
+    "title": "Rev ME Hollensen Sermons",
+    "author": "Lee Hall",
+    "speaker_display": "Lee Hall",
+    "speaker_slug": "lee-hall",
+    "description": "Sermons preached by Rev M. E. Hollensen in the late 1960's and early 1970's. These were originally broadcast from Emanuel Lutheran Church over WMRN 1490AM in Marion, Ohio. Permission was granted by the late Dr. Hollensen in March, 1998. Media was provided by Mrs. Maxine Gast.",
+    "artwork_url": "http://javafoundry.com/hollensen/Easter_3.jpg",
+    "website_url": "http://javafoundry.com/hollensen/",
+    "tradition": "lutheran",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://podcasts.subsplash.com/z6sxqjr/podcast.rss",
     "title": "Oviedo City Church Sermons",
     "author": "Oviedo City Church",
@@ -5736,6 +6372,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/d2c8cf30/podcast/rss",
+    "title": "Beaver Dam Baptist Church Sermons - Pastor Dr. Alan Price",
+    "author": "Beaver Dam Baptist Church",
+    "speaker_display": "Beaver Dam Baptist Church",
+    "speaker_slug": "beaver-dam-baptist-church",
+    "description": "Sunday Sermons from Beaver Dam Baptist Church\nPastor: Alan Price\n\nYou can find us at:\n4328 East Emory Road Knoxville, TN 37938\nYou can also learn more on our website:\nhttps://www.bdbc.org/\nOr call us at: 865-922-2322\nWe're so glad you've stopped by, and hope you have a great rest of your day!",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/35263756/35263756-1673227678975-aa1eff92aaca5.jpg",
+    "website_url": "https://www.bdbc.org/",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/1acac550/podcast/rss",
     "title": "Old Fashioned Baptist Preaching",
     "author": "Andrew Logue II",
@@ -5760,6 +6408,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://podcasts.subsplash.com/nns3hc8/podcast.rss",
+    "title": "Augusta UMC Sermon of the Week Podcast",
+    "author": "Augusta UMC",
+    "speaker_display": "Augusta UMC",
+    "speaker_slug": "augusta-umc",
+    "description": "Welcome to the Augusta UMC sermon of the week. We hope you enjoy these messages from Pastor Steve Spencer of Augusta United Methodist Church in Augusta, Kansas. For more information about this podcast and other resources, visit AugustaUMC.com.",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD00MGM3M2FkZi0xOTNlLTQ4ZjctYjFkMi0zYTcxYTFhODE0MTImdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "https://www.augustaumc.com",
+    "tradition": "methodist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/fac9c3f4/podcast/rss",
     "title": "Bible Teaching from Calvary East",
     "author": "Calvary Bible Church East | Kalamazoo, Michigan | Pastor Bryan Craddock",
@@ -5769,6 +6429,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/ce/3a/eace3aac-6d58-f110-cf7c-a56debea8171/mza_9058507170559401121.jpg/600x600bb.jpg",
     "website_url": "https://calvaryeast.com",
     "tradition": "reformed",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/6006b638/podcast/rss",
+    "title": "Geraldton Baptist Church Sunday Sermon",
+    "author": "Geraldton Baptist Church",
+    "speaker_display": "Geraldton Baptist Church",
+    "speaker_slug": "geraldton-baptist-church",
+    "description": "These podcasts are messages recorded live during Sunday services at Geraldton Baptist Church, in Western Australia. \nPeople at GBC seek to respond to the simple, but challenging call of Jesus to love God and love others.\n\nWhat we do? We exist to Glorify God as a worshipping, maturing, missional church.\n\nWhy we do it? To bring transformation to Geraldton, the Midwest (of Western Australia) and beyond.\n\nHow we do it? By helping people say “Yes” to Jesus.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16010526/16010526-1690774075559-a8cee2ebba166.jpg",
+    "website_url": "https://www.geraldtonbaptist.org.au",
+    "tradition": "baptist",
     "theological_lean": "conservative"
   },
   {
@@ -5840,6 +6512,18 @@
     "description": "Catalyst Church San Diego is reaching people for God's family. We want to see our community, city, and world changed by the gospel. We meet on Sundays at 10:30 AM in the Paradise Hills section of San Diego, CA. Learn more at catalystchurchsd.org.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c2/99/f6/c299f6b4-f0ed-b354-b207-d26f266bfb9c/mza_4036606230362336475.jpg/600x600bb.jpg",
     "website_url": "https://catalystchurchsdsundaysermons.buzzsprout.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://rss.buzzsprout.com/53135.rss",
+    "title": "Cornerstone Community Church - Sermons",
+    "author": "Pastor Floyd Silva",
+    "speaker_display": "Pastor Floyd Silva",
+    "speaker_slug": "pastor-floyd-silva",
+    "description": "At Cornerstone Community Church, we seek to live in authentic biblical community where others matter, community counts, truth transforms, everybody serves, and authentic worship is lived out in everyday life.",
+    "artwork_url": "https://storage.buzzsprout.com/t2v7q509kmuiacw4n3aqknmnw9lz?.jpg",
+    "website_url": "https://cornerstonenm.org",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -6012,6 +6696,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://podcasts.subsplash.com/n6s8gyz/podcast.rss",
+    "title": "The Res Sermon podcast",
+    "author": "Church of the Resurrection",
+    "speaker_display": "Church of the Resurrection",
+    "speaker_slug": "church-of-the-resurrection",
+    "description": "Our weekly sermons from Church of the Resurrection in Baltimore, Maryland.",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD1jZjYzNDQ0OS05ODFkLTRmMzMtYjkwMC1jZjZiNWQ2MmE5ZTImdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "http://resbalt.org/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://podcasts.subsplash.com/c2b0399/podcast.rss",
     "title": "Crosspoint Bible Church Sermons",
     "author": "Crosspoint Bible Church Pastors",
@@ -6108,6 +6804,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://publishing.planningcenteronline.com/120345/podcast_feeds/12636.xml",
+    "title": "Sunday Morning Sermons",
+    "author": "Grace Community Church of Madera",
+    "speaker_display": "Grace Community Church of Madera",
+    "speaker_slug": "grace-community-church-of-madera",
+    "description": "Join us at 9:00am & 11:00 am for our Sunday Morning Worship Service, or view the service or sermon anytime later.",
+    "artwork_url": "https://images.planningcenterusercontent.com/v1/transform.png?bucket=publishing-production-attachments&disposition=inline&expires_at=1777622399&key=organization_120345_a2fbbd6fglv2lwikx5jjymu09xke&thumb=3000x&signature=0d98c885ce257192b942c374a4c5cec867aa21d963f5289016e28f0d208a4459",
+    "website_url": "https://gracemadera.churchcenter.com/channels/12636",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://media.rss.com/resonatemovement-sermons/feed.xml",
     "title": "Resonate Church - Sermons",
     "author": "Resonate Church",
@@ -6180,6 +6888,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:246514232/sounds.rss",
+    "title": "New Life Church Sermons",
+    "author": "New Life Church Winchester",
+    "speaker_display": "New Life Church Winchester",
+    "speaker_slug": "new-life-church-winchester",
+    "description": "The official podcast account of New Life Church Winchester, based in Hampshire, England, United Kingdom. \n\nWe are a diverse family-oriented AoG GB church with a community focus, based in the Stanmore estate in Winchester. We want to live and experience the abundant life Jesus famously talks about in the Bible in John chapter 10 verse 10.\n\nWe have a mixture of online and in-person services. Join us Sundays for church services at 1030am. Check out https://linktr.ee/newlifechurchwinchester for more information about us.",
+    "artwork_url": "https://i1.sndcdn.com/avatars-rm3BKoDb5NdjfQQ2-3ZIAUw-original.jpg",
+    "website_url": "https://www.newlifechurchwinchester.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.zencastr.com/f/SiiTSIsj.rss",
     "title": "Verity by Phylicia Masonheimer",
     "author": "Phylicia Masonheimer",
@@ -6188,6 +6908,18 @@
     "description": "The Verity podcast is hosted by author, speaker and public theologian Phylicia Masonheimer. Covering topics of faith and culture from a biblical perspective, through a historical lens, the podcast is designed to inspire you to ask better questions, go deeper in faith, and defend your beliefs with both grace and logic.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a8/91/ab/a891abbc-edad-f2be-165d-171bc9788900/mza_17180291283143004016.jpg/600x600bb.jpg",
     "website_url": "https://phyliciamasonheimer.com/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/9a40cb4/podcast/rss",
+    "title": "Sunday Sermons at All Nations",
+    "author": "All Nations Church Bedford",
+    "speaker_display": "All Nations Church Bedford",
+    "speaker_slug": "all-nations-church-bedford",
+    "description": "Welcome to Sunday Sermons at All Nations! Listen back to any sermon, anytime, anywhere.\n\nLearn more about us: www.allnationsbedford.org\n\nInstagram: www.instagram.com/allnationsbedford\nFacebook: www.facebook.com/allnationsbedford\nYouTube: www.youtube.com/allnationsbedford",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1517461/1517461-1724236963946-9ee8e8f8eea3.jpg",
+    "website_url": "https://www.allnationsbedford.org",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -6396,6 +7128,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/3990b1c/podcast/rss",
+    "title": "Preaching In Paradise",
+    "author": "Bryn MacPhail",
+    "speaker_display": "Bryn MacPhail",
+    "speaker_slug": "bryn-macphail",
+    "description": "Sermons of Bryn MacPhail, Senior Pastor, St. Andrew's Presbyterian Kirk, Nassau, Bahamas",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/503615/503615-1525804023616-347d194f61cbd.jpg",
+    "website_url": "https://podcasters.spotify.com/pod/show/bryn-macphail-preaching-in-paradise",
+    "tradition": "reformed",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/1065bfa84/podcast/rss",
     "title": "Koinonia Global messages with Apostle Joshua Selman",
     "author": "Koinonia Global",
@@ -6504,6 +7248,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://holylanguage.org/podcasts/audio.xml",
+    "title": "Messianic Messages with Izzy (Audio Bible Teachings)",
+    "author": "holylanguage.com",
+    "speaker_display": "holylanguage.com",
+    "speaker_slug": "holylanguagecom",
+    "description": "Shalom, my name is Izzy. These are the messages given to me over the course of roughly three and a half years when I was leading a congregation in Saskatchewan, Canada. Every Saturday I preached my heart out on what I felt Christians most needed to hear, things lost to the body of Messiah whose prophetic time has come: the Jewishness of Jesus, the Hebrew roots of Christianity, and the ways of the Early Church. By the time I was done I had taught through the entire Torah and New Testament and cast a vision of the future for the body of Messiah that is as urgent now as it was then. We now air these Messianic Jewish messages 24/7 to millions through our internet radio station \"Yeshua Radio\" and also offer them here. Curious what's happened since these messages were delivered? See for yourself at www.izzyavraham.com. And one more thing - if you appreciate these talks please subscribe, leave a positive review, and check out the perks of membership at holylanguage.com.",
+    "artwork_url": "https://holylanguage.org/podcasts/Izzy.jpg",
+    "website_url": "https://holylanguage.com",
+    "tradition": "charismatic",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.simplecast.com/TtKQNBCJ",
     "title": "Help Me Teach The Bible",
     "author": "The Gospel Coalition, Nancy Guthrie",
@@ -6576,6 +7332,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/43cbe6f0/podcast/rss",
+    "title": "Bible Teaching from Andrew Calamaro",
+    "author": "Andrew Calamaro",
+    "speaker_display": "Andrew Calamaro",
+    "speaker_slug": "andrew-calamaro",
+    "description": "Andrew's teaching from Sunday School and other classes.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11274364/11274364-1674144779563-a70c19e47bf08.jpg",
+    "website_url": "https://podcasters.spotify.com/pod/show/andrew-calamaro",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.megaphone.fm/compelled",
     "title": "Compelled - Christian Stories & Testimonies",
     "author": "Paul Hastings",
@@ -6588,6 +7356,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "http://www.theblueridgechurch.com/podcast/podcast.xml",
+    "title": "Blue Ridge Community Church Sermons",
+    "author": "Preaching Team",
+    "speaker_display": "Preaching Team",
+    "speaker_slug": "preaching-team",
+    "description": "We're a 3 year old church in Cullowhee, NC (near Western Carolina University).  We're committed to glorifying God by being and becoming a Christ-centered, Holy Spirit - empowered, worshiping community growing in our love for God, our love for people and promoting Jesus in all we do because He is worth it!  Our sermons are typically preached by Pastor Darryl Handy with various other guest preachers and participating aspiring preachers.",
+    "artwork_url": "http://www.theblueridgechurch.com/podcast/ituneslogo2013.jpg",
+    "website_url": "http://www.theblueridgechurch.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/ffc4f40/podcast/rss",
     "title": "Anointed Preaching",
     "author": "Anointed Preaching",
@@ -6596,6 +7376,18 @@
     "description": "Saturating our lives with His truth.\n\nSubscribe on Youtube: http://bit.ly/2IGVV1b\nLike on Facebook: http://bit.ly/2PMUmmB\nFollow on Tiktok: http://bit.ly/3hBv6zC",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d7/36/0a/d7360acb-578b-6097-98a6-53cec86260c6/mza_15890854846535984851.jpg/600x600bb.jpg",
     "website_url": "https://podcasters.spotify.com/pod/show/anointedpreaching",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://podcasts.subsplash.com/vhhw887/podcast.rss",
+    "title": "Antioch College Station - Sunday Sermons",
+    "author": "Antioch College Station",
+    "speaker_display": "Antioch College Station",
+    "speaker_slug": "antioch-college-station",
+    "description": "Sunday Sermons by Antioch College Station.",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD0zZGUzYWFjNS0yNzZiLTRhNDQtYmE3ZS1lZDA0YTA1YTQxZDImdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "https://antiochcs.org",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -6633,6 +7425,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/b7/b0/22b7b036-1c36-e030-1900-b4d3d03bb658/mza_11795266620134508271.jpg/600x600bb.jpg",
     "website_url": "https://TANCommentaries.com/",
     "tradition": "catholic",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://media.rss.com/bethelhouseoftruth/feed.xml",
+    "title": "Sunday Sermons | Bethel House of Truth | Pastor Randall Crawford Sr.",
+    "author": "Bethel House of Truth",
+    "speaker_display": "Bethel House of Truth",
+    "speaker_slug": "bethel-house-of-truth",
+    "description": "<p>Are you looking for convenient and accessible ways to digest sermons? We provide full sermon podcasts on a variety of podcast platforms (Spotify, IHeartRadio, Pandora, etc) allowing you to take the most powerful parts of Sunday services with you wherever life takes you. These messages are free of charge. With the teachings of faith always at your fingertips, your daily journey is sure to be strengthened through the word of God. Pastor Randall Crawford Sr. helps you to unlock the mysteries of the bible one sermon at a time.</p><p><strong>About Bethel House of Truth:</strong></p><p><em>Bethel House of Truth is an online ministry that focuses on spreading the gospel of Jesus Christ globally through our blossoming online presence. Our mission is to help people connect with the one true God and grow in their Christian faith. We provide a variety of resources, including Christian podcasts, faith-centered blogs, online sermons, and e-books to help people deepen their relationship with Jesus Christ. Our vision is to see lives transformed by the power of the gospel and to see God glorified through our online ministry.</em></p>",
+    "artwork_url": "https://media.rss.com/bethelhouseoftruth/20250116_020151_0cdbcd240e0cd78c6fd81e850d7ce62b.png",
+    "website_url": "https://www.bethelhouseoftruth.org",
+    "tradition": "charismatic",
     "theological_lean": "conservative"
   },
   {
@@ -6828,6 +7632,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://www.podcastyoursermons.com/podcasts/cedar_file_2/RSS_feed.xml",
+    "title": "Cedar Creek Missionary Baptist Church Sermons",
+    "author": "Cedar Creek Missionary Baptist Church",
+    "speaker_display": "Cedar Creek Missionary Baptist Church",
+    "speaker_slug": "cedar-creek-missionary-baptist-church",
+    "description": "",
+    "artwork_url": "https://www.podcastyoursermons.com/podcast_logos/cedar_file_2/ccmbc.jpg",
+    "website_url": "http://www.cedarcreekmbc.com",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.captivate.fm/compassntx-sermon-podcast/",
     "title": "Compass Bible Church Weekend Sermons",
     "author": "Compass Bible Church North Texas",
@@ -6861,6 +7677,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/cd/1a/6ecd1afe-ca32-6a93-b249-b2854cc3557d/mza_10941973001592724721.jpg/600x600bb.jpg",
     "website_url": "https://gracepod.buzzsprout.com",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://www.northlifechurch.ca/xml/sb_fbcfm/sb_chan1.xml",
+    "title": "NorthLife Church Sermons",
+    "author": "NorthLife Fellowship Baptist Church",
+    "speaker_display": "NorthLife Fellowship Baptist Church",
+    "speaker_slug": "northlife-fellowship-baptist-church",
+    "description": "The following audio is from NorthLife Church in Fort McMurray, Alberta. More information is available at northlifechurch.ca.",
+    "artwork_url": "https://www.northlifechurch.ca/graphics/sb_fbcfm/imag223.jpg",
+    "website_url": "https://www.northlifechurch.ca",
+    "tradition": "baptist",
     "theological_lean": "conservative"
   },
   {
@@ -6972,6 +7800,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://www.myggc.org/feeds/sermons",
+    "title": "Grace Gospel Church - Sermons",
+    "author": "Grace Gospel Church: Somerset, MA",
+    "speaker_display": "Grace Gospel Church: Somerset, MA",
+    "speaker_slug": "grace-gospel-church-somerset-ma",
+    "description": "Sermons Preached at Grace Gospel Church, Somerset, MA",
+    "artwork_url": null,
+    "website_url": "https://www.myggc.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://www.greshambible.org/feeds/sermons",
     "title": "Gresham Bible Church Sermons Podcast",
     "author": "Gresham Bible Church: Gresham, OR",
@@ -7044,6 +7884,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/ef046484/podcast/rss",
+    "title": "First Baptist Columbia Sunday Sermons",
+    "author": "First Baptist Church - Columbia SC",
+    "speaker_display": "First Baptist Church - Columbia SC",
+    "speaker_slug": "first-baptist-church-columbia-sc",
+    "description": "These are the Sunday sermons by Pastor Wes Church from First Baptist Church in Columbia, SC.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40000425/40000425-1703188330238-440feb71ede92.jpg",
+    "website_url": "https://fbccola.com",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/d39e1988/podcast/rss",
     "title": "The Weekly Homily",
     "author": "Saint Willibrord's Catholic Church",
@@ -7077,6 +7929,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b3/ee/53/b3ee5360-622b-5840-b429-879fc61a2e25/mza_6807920932217541493.png/600x600bb.jpg",
     "website_url": "https://stig.ca/",
     "tradition": "catholic",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/e7d542f0/podcast/rss",
+    "title": "Highlands Bible Church Sermons",
+    "author": "Highlands Bible Church NJ",
+    "speaker_display": "Highlands Bible Church NJ",
+    "speaker_slug": "highlands-bible-church-nj",
+    "description": "Highlands Bible Church exists to bring glory to God by the making and maturing of disciples of Jesus Christ. \n\nwww.HighlandsBibleChurch.org",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/6c/71/666c7170-a8af-1c01-2b0e-bc00d4818a4e/mza_14524631796759272353.jpg/600x600bb.jpg",
+    "website_url": "https://highlandsbiblechurch.org",
+    "tradition": "evangelical",
     "theological_lean": "conservative"
   },
   {
@@ -7236,6 +8100,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://benbrookchurchofchrist.com/sermons.xml",
+    "title": "Benbrook Church of Christ Sermons",
+    "author": "Ron Buch",
+    "speaker_display": "Ron Buch",
+    "speaker_slug": "ron-buch",
+    "description": "Sermons from the Benbrook, TX Church of Christ",
+    "artwork_url": "http://www.benbrookchurchofchrist.com/images/iTunesLargeGraphic.png",
+    "website_url": "http://www.benbrookchurchofchrist.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "http://feeds.ancientfaith.com/TheLordOfSpirits/",
     "title": "The Lord of Spirits",
     "author": "Fr. Andrew Stephen Damick, Fr. Stephen De Young, and Ancient Faith Ministries",
@@ -7245,18 +8121,6 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/60/22/3760223a-0d2d-ef26-65cb-244de7aa8ff8/mza_6884121012997579605.jpg/600x600bb.jpg",
     "website_url": "https://www.ancientfaith.com/podcasts/lordofspirits",
     "tradition": "orthodox",
-    "theological_lean": "conservative"
-  },
-  {
-    "feed_url": "https://anchor.fm/s/e7d542f0/podcast/rss",
-    "title": "Highlands Bible Church Sermons",
-    "author": "Highlands Bible Church NJ",
-    "speaker_display": "Highlands Bible Church NJ",
-    "speaker_slug": "highlands-bible-church-nj",
-    "description": "Highlands Bible Church exists to bring glory to God by the making and maturing of disciples of Jesus Christ. \n\nwww.HighlandsBibleChurch.org",
-    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/6c/71/666c7170-a8af-1c01-2b0e-bc00d4818a4e/mza_14524631796759272353.jpg/600x600bb.jpg",
-    "website_url": "https://highlandsbiblechurch.org",
-    "tradition": "evangelical",
     "theological_lean": "conservative"
   },
   {
@@ -7332,6 +8196,30 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://rss.buzzsprout.com/901063.rss",
+    "title": "Will Preach For Food Podcast",
+    "author": "Doug",
+    "speaker_display": "Doug",
+    "speaker_slug": "doug",
+    "description": "My name is Doug (he/him/his), I'm a precious child of God, and so are you. I'm serving as lead pastor of Faith Lutheran Church, based out of Shelton, Washington. In this podcast I talk about the Bible. I talk about Jesus. And I talk about 20 minutes.",
+    "artwork_url": "https://storage.buzzsprout.com/kc3nik9awv5umsjzi991vxv3fsnv?.jpg",
+    "website_url": "http://www.faithshelton.org",
+    "tradition": "lutheran",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://podcasts.subsplash.com/946m75h/podcast.rss",
+    "title": "Sunday Sermons at Cornerstone Church, Mandeville",
+    "author": "Doug Gilford",
+    "speaker_display": "Doug Gilford",
+    "speaker_slug": "doug-gilford",
+    "description": "Cornerstone Church, in the heart of Mandeville, Louisiana, preaches an unapologetically Jesus-centered message. Filled with life-giving words, Pastor Doug will encourage you to live a fulfilling life with Jesus. \n\nYou can find more information about Cornerstone Church at cornerstonenola.com\n\nVisit us at 23051 Hwy 1088, Mandeville, Louisiana 70448",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD1hNzFkMjdlNi0yNTZhLTQyMjYtODMxZS1mOGM5MmMyMTZiYjMmdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "http://cornerstonenola.com/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.libsyn.com/55756/rss",
     "title": "The Christian Habits Podcast",
     "author": "Barb Raveling",
@@ -7356,6 +8244,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://media.rss.com/pastor-tommy-mcmurtry-sermons/feed.xml",
+    "title": "Pastor Tommy McMurtry Sermons",
+    "author": "Tommy McMurtry",
+    "speaker_display": "Tommy McMurtry",
+    "speaker_slug": "tommy-mcmurtry",
+    "description": "<p>Sermons preached at Liberty Baptist Church of Rockfalls Il. </p>",
+    "artwork_url": "https://media.rss.com/pastor-tommy-mcmurtry-sermons/20250716_120728_4a3f12d83b475b653f8747161b636b50.png",
+    "website_url": "https://rss.com/podcasts/pastor-tommy-mcmurtry-sermons",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://rss.buzzsprout.com/1667623.rss",
     "title": "Slow Theology: Simple Faith for Chaotic Times",
     "author": "A.J. Swoboda & Nijay K.Gupta",
@@ -7365,6 +8265,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/a4/14/4da41412-c94a-ce79-8f04-a51bde8fe264/mza_7493125166428845136.jpg/600x600bb.jpg",
     "website_url": "https://slowtheology.buzzsprout.com",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/a6fdf0c4/podcast/rss",
+    "title": "Lucas Dourado RUF Sermons",
+    "author": "Lucas Dourado",
+    "speaker_display": "Lucas Dourado",
+    "speaker_slug": "lucas-dourado",
+    "description": "Podcast from large group gatherings of Reformed University Fellowship on the UConn campus. Unless otherwise noted, all sermons are from Rev. Lucas Dourado, RUF campus minister at UConn.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/27916601/71b94e29a4b635ef.jpeg",
+    "website_url": "https://podcasters.spotify.com/pod/show/lucasdouradoruf",
+    "tradition": "reformed",
     "theological_lean": "conservative"
   },
   {
@@ -7416,6 +8328,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/ecc073ac/podcast/rss",
+    "title": "Novena Preaching @ Novena Church",
+    "author": "Novena Church",
+    "speaker_display": "Novena Church",
+    "speaker_slug": "novena-church",
+    "description": "Come to the Novena\nOur weekly Novena Devotions are online and premiere \"live\" every Saturday morning\n - visit http://youtube.com/NovenaChurchsg\nJoin us as we pray together in honour of Our Mother of Perpetual Help.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/39620355/39620355-1700072038829-b14cbdfec4f26.jpg",
+    "website_url": "https://novenachurch.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://rss.buzzsprout.com/2211988.rss",
     "title": "Sierra Bible Sermon Of The Week",
     "author": "Sierra Bible Church, Sonora",
@@ -7425,6 +8349,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/59/d7/24/59d72497-1664-7fd8-ab07-f37f108ea4de/mza_5393694097079448384.jpg/600x600bb.jpg",
     "website_url": "https://www.sierrabible.com/",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/4e682394/podcast/rss",
+    "title": "Franklin Road Baptist Church Preaching",
+    "author": "Pastor Mike Norris",
+    "speaker_display": "Pastor Mike Norris",
+    "speaker_slug": "pastor-mike-norris",
+    "description": "We want to help you find hope in Jesus Christ. These are weekly sermon clips and shorter helpful devotionals that help you know our Saviour Jesus Christ.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/13054477/13054477-1635856603678-a3474e58f8979.jpg",
+    "website_url": "https://podcasters.spotify.com/pod/show/frbc1954",
+    "tradition": "baptist",
     "theological_lean": "conservative"
   },
   {
@@ -7548,6 +8484,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://rss.buzzsprout.com/1948944.rss",
+    "title": "Defending The Message: Bible Teachings of William Branham",
+    "author": "Jesse Smith and Ameen Lee",
+    "speaker_display": "Jesse Smith and Ameen Lee",
+    "speaker_slug": "jesse-smith-and-ameen-lee",
+    "description": "<p>We're dedicated to defending the Bible teachings and revelations of God's prophet, William Branham (1909-1965), as commanded by Philippians 1:17, Jude 1:3, 1 Thessalonians 5:21, 1 Peter 3:15, and Acts 17:11.&nbsp;</p>",
+    "artwork_url": "https://storage.buzzsprout.com/24i81zii0ypupchc5wc27pcpjs3l?.jpg",
+    "website_url": "https://www.buzzsprout.com/1948944",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://media.rss.com/rivercitychicago/feed.xml",
     "title": "Sermons from the River City Community Church Chicago located in West Humboldt Park",
     "author": "River City Pastors & Guests",
@@ -7665,6 +8613,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/cf/7f/c9cf7f72-da30-a808-cb1e-dd6f5bd5b1f8/mza_6465427724332117803.jpg/600x600bb.jpg",
     "website_url": "https://www.mtolivelincoln.org",
     "tradition": "lutheran",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/1021529dc/podcast/rss",
+    "title": "Preach it Sis",
+    "author": "Preach it Sis",
+    "speaker_display": "Preach it Sis",
+    "speaker_slug": "preach-it-sis",
+    "description": "We have candid Christian conversations to empower women to push through the lows and struggles in faith. We will be better and do better.\nBrought you to by Abisoye, Kenyeh &amp; Roselyn",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43199087/0ac7d5d1fe71db02.jpg",
+    "website_url": "https://soundcloud.com/preachit-sis",
+    "tradition": "evangelical",
     "theological_lean": "conservative"
   },
   {
@@ -7896,6 +8856,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://rss.buzzsprout.com/2224230.rss",
+    "title": "Kinabuhing Kristohanon: a Wali Bisaya Preaching",
+    "author": "Barok and Takya",
+    "speaker_display": "Barok and Takya",
+    "speaker_slug": "barok-and-takya",
+    "description": "<p>Welcome sa Kinabuhing Kristohanon, usa ka Wali Bisaya Preaching nga magdala kanimo sa panaw sa pagtuo, espiritwalidad, ug komunidad. Ang among pasundayag kay usa ka talagsaon nga pagsagol sa mga tinuohan, ang Pulong sa Dios Bible, ug mga kasinatian nga makatandog sa kasingkasing sa mga Pilipinong Kristiyano.<br><br>Ang matag episode nagsusi sa atong pagtuo, magsuhid sa lawom nga epekto sa Kristiyanismo sa atong adlaw-adlaw nga kinabuhi. Atong hisgotan ang kamahinungdanon sa pagsimba, ang esensya sa serbisyo sa komunidad, ug ang makapabag-o nga gahum sa espirituhanong mga buhat. Ang atong mga panagsultihanay kay naay bahin sa atoang kulturang Pilipino, nga maghatag ug makapalagsik nga panglantaw sa Kristohanong pagtuo.<br><br>Ang atong Wali Bisaya labaw pa sa usa ka plataporma alang sa diskusyon - kini usa ka payag diin ang mga Kristiyanong Pilipino makakonektar, makakat-on, ug motubo sa ilang pagtuo. Nangita ka man ug espirituhanong paglaom, nag-atubang ug mga pagduhaduha, o yanong kuryuso mahitungod sa Kristohanong kinabuhi, adunay dapit alang kanimo dinhi.<br><br>Pinaagi sa tinuod nga mga istorya nila Pastor Dodz, Barok and Takya, mahunahunaon nga mga pamalandong, ug makahulug",
+    "artwork_url": "https://storage.buzzsprout.com/et8ve2hy0iebknfmavy3flnut9xo?.jpg",
+    "website_url": "https://www.youtube.com/c/bisayapodcast",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://www.spreaker.com/show/269903/episodes/feed",
     "title": "Rev. Vieira’s Bible Teaching Ministry",
     "author": "Brian Vieira",
@@ -8016,6 +8988,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://c3churchchch.podbean.com/feed.xml",
+    "title": "C3 Christchurch - Sermons",
+    "author": "C3 Church Christchurch",
+    "speaker_display": "C3 Church Christchurch",
+    "speaker_slug": "c3-church-christchurch",
+    "description": "Get inspired with a back catalogue of the sermons from C3 Church Christchurch. For the latest visit www.southcityc3.org, www.stmartinsc3.org, and www.urbanoasisc3.org.",
+    "artwork_url": "https://pbcdn1.podbean.com/imglogo/image-logo/1405426/PobBeanIcon.jpg",
+    "website_url": "https://c3churchchch.podbean.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://calvarybible.org/media/all?format=rss",
     "title": "Sunday Sermons from Calvary Bible Church",
     "author": "Calvary Bible Church of Kalamazoo, Michigan",
@@ -8124,6 +9108,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "http://WWW.fbcwalnutridge.org/media?format=rss",
+    "title": "Sermons - First Baptist Church Walnut Ridge",
+    "author": "FBC Walnut Ridge",
+    "speaker_display": "FBC Walnut Ridge",
+    "speaker_slug": "fbc-walnut-ridge",
+    "description": "These are the sermons and other media from FBC Walnut Ridge,AR",
+    "artwork_url": "https://images.squarespace-cdn.com/content/v1/55786a3de4b0f3b4bae3dbd2/1444055640755-57EU86UC2M58GY4OD1K4/Sermons+Website.JPG?format=1500w",
+    "website_url": "http://www.fbcwalnutridge.org/media/",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feed.podbean.com/foundry/feed.xml",
     "title": "Foundry UMC DC: Sunday Sermons",
     "author": "Foundry UMC DC",
@@ -8145,6 +9141,30 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/37/9b/5b379bf7-a5b1-13ad-fb95-dae33d0dea91/mza_11740704322218518762.png/600x600bb.jpg",
     "website_url": "https://www.podomatic.com/podcasts/frgregg",
     "tradition": "catholic",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://frmarianovelizop.podbean.com/feed.xml",
+    "title": "“Preach My Psalter” Rosary Podcast",
+    "author": "Friar Mariano D. Veliz, O.P.",
+    "speaker_display": "Friar Mariano D. Veliz, O.P.",
+    "speaker_slug": "friar-mariano-d-veliz-op",
+    "description": "Friar Mariano D. Veliz, O.P.",
+    "artwork_url": "https://pbcdn1.podbean.com/imglogo/image-logo/7769510/89942052_1120110671674112_8436344581515116544_n_97enhf.jpg",
+    "website_url": "https://frmarianovelizop.podbean.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://fumcdowntown.libsyn.com/rss",
+    "title": "Sermons from the Downtown Community of First UMC Lexington, KY",
+    "author": "FUMC Pastors",
+    "speaker_display": "FUMC Pastors",
+    "speaker_slug": "fumc-pastors",
+    "description": "Sermon archive for the Downtown Community of First United Methodist Church in Lexington, KY.",
+    "artwork_url": "https://static.libsyn.com/p/assets/d/0/8/a/d08a2e62a010a4bbd959afa2a1bf1c87/1.png",
+    "website_url": "https://umclex.org/",
+    "tradition": "methodist",
     "theological_lean": "conservative"
   },
   {
@@ -8172,6 +9192,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://www.goodshepnyc.org/sermons?format=rss",
+    "title": "Good Shepherd Anglican Church Sermons",
+    "author": "Good Shepherd Anglican Church",
+    "speaker_display": "Good Shepherd Anglican Church",
+    "speaker_slug": "good-shepherd-anglican-church",
+    "description": "Expositional sermons from Good Shepherd Anglican Church in New York City",
+    "artwork_url": "https://images.squarespace-cdn.com/content/v1/583c47fc4402433395c94faa/1489349064188-57JIS49XPJ9IFQ1941O2/GSAC+lamb+white.png?format=1500w",
+    "website_url": "https://www.goodshepnyc.org/sermons/",
+    "tradition": "episcopal",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://sermons.logos.com/api/channels/12971365/feed",
     "title": "Goshen Heartland Christian Church - Sermons",
     "author": "Goshen Heartland Christian Church - Sermons",
@@ -8192,6 +9224,18 @@
     "description": "Sermons from Gospel Movement Church in Hendersonville, Tennessee. For more information, visit us at gospelmc.org",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e3/cd/30/e3cd307a-a238-a489-bfed-af637dff567f/mza_13928230376148885617.jpg/600x600bb.jpg",
     "website_url": "https://sermoncloud.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://gracedc.net/feed/?post_type=sermons&by-campus=mosaic",
+    "title": "Grace Mosaic Sermons",
+    "author": "Grace DC",
+    "speaker_display": "Grace DC",
+    "speaker_slug": "grace-dc",
+    "description": "Three local congregations receiving and extending grace throughout Washington, DC.",
+    "artwork_url": "https://gracedc.net/wp-content/themes/gracedc2025/images/GMO_podcast.jpg",
+    "website_url": "https://gracedc.net/by-campus/mosaic/",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -8244,6 +9288,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://thechapel.libsyn.com/rss",
+    "title": "HPUMC - The Chapel (Scriptural Teaching)",
+    "author": "Highland Park United Methodist Church",
+    "speaker_display": "Highland Park United Methodist Church",
+    "speaker_slug": "highland-park-united-methodist-church",
+    "description": "Set in the beautiful Cox Chapel, this service features acoustic worship and preaching. Each week we'll sing traditional hymns and contemporary songs of faith, and take an in-depth look at scripture and practical wisdom for living out our faith today.",
+    "artwork_url": "https://static.libsyn.com/p/assets/e/5/1/9/e519cd6ea997e5ce/theChapel_iTunes.jpg",
+    "website_url": "http://www.hpumc.org/worship-music/the-chapel",
+    "tradition": "methodist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.gty.org/gtyradiobroadcast",
     "title": "Grace to You: Radio Podcast",
     "author": "John MacArthur",
@@ -8280,6 +9336,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://sermons.logos.com/api/channels/5267732/feed",
+    "title": "Kings Church, Flitwick Sermons",
+    "author": "Kings Church, Flitwick Sermons",
+    "speaker_display": "Kings Church, Flitwick Sermons",
+    "speaker_slug": "kings-church-flitwick-sermons",
+    "description": "Sermons by Kings Church, Flitwick Sermons",
+    "artwork_url": "https://files.logoscdn.com/v1/files/2702182/content.jpg?signature=NmM3dNsLgDbBm1KuSg7Q-luok-Y&e=.jpg",
+    "website_url": "https://sermons.logos.com/profile/5267732",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feed.podbean.com/kurtborgmann/feed.xml",
     "title": "Kurt Borgmann Preaching",
     "author": "Kurt Borgmann",
@@ -8300,6 +9368,18 @@
     "description": "Littleton Christian Church exists to celebrate and apply the gospel of Jesus Christ as we love God, love each other, and love the world. These sermons are intended to instruct us toward that goal.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fd/9e/4f/fd9e4fb4-e149-a28e-25ed-345297f0baba/mza_11883357024352147454.jpg/600x600bb.jpg",
     "website_url": "https://www.littletonchristian.com/all-sermons/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://www.mralliance.ca/sermons?format=RSS",
+    "title": "MRAC Sermons",
+    "author": "Maple Ridge Alliance Church",
+    "speaker_display": "Maple Ridge Alliance Church",
+    "speaker_slug": "maple-ridge-alliance-church",
+    "description": "Sermons from Sunday Services at Maple Ridge Alliance Church",
+    "artwork_url": "https://images.squarespace-cdn.com/content/v1/52d71492e4b0485536ab8f9a/1488993558352-YGQ261H282T2565D8JWP/itunes+art.png?format=1500w",
+    "website_url": "https://www.mralliance.ca/sermons/",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -8328,6 +9408,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://feeds.castos.com/7x4xq",
+    "title": "inHoPE Podcast: Young Leaders Strengthening Unity in Christ",
+    "author": "Nathaniel Preach Smith",
+    "speaker_display": "Nathaniel Preach Smith",
+    "speaker_slug": "nathaniel-preach-smith",
+    "description": "<p>Join the conversation with Pastor Nathaniel, aka Preach, and NNYM's Brandon as they <strong>equip young Christian leaders to shepherd the Church away from division and toward a unified movement centered on Christ</strong>.</p><p>Designed for young leaders—especially those who are stepping into new faith-based leadership roles. This podcast speaks to the tension of calling, responsibility, and Christ's vision of a Church that is one. If you’ve recently transitioned into ministry, carry mid-level leadership influence, or sense a future call to lead a church, this space is for you.</p><p>Each episode offers <strong>biblically grounded teaching, practical leadership insights, and honest conversations, with an emphasis on unity in Christ,</strong> to help you clarify priorities in life, faith, and ministry. We address real challenges facing today’s Church: disunity, burnout, competing visions, and the pressure to lead well before you feel fully ready.</p><p>Our mission is not a large following—it’s <strong>equipping young, faithful, unity-minded leaders.</strong> We aim to equip shepherds who lead with humility, theological clarity, and a deep commitment to unity in the Body of Chris",
+    "artwork_url": "https://episodes.castos.com/60660f26e13d64-18687645/images/podcast/covers/c1a-6wzk0-9jwmnz91a31z-ar9uxd.jpg",
+    "website_url": "https://www.inhope.tv/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feed.podbean.com/dailyhomilies/feed.xml",
     "title": "Daily Homilies",
     "author": "National Blue Army Shrine of Our Lady of Fatima",
@@ -8340,6 +9432,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://findnewhopesunday.libsyn.com/rss",
+    "title": "New Hope Tampa Bay Sunday Sermon Podcast",
+    "author": "New Hope",
+    "speaker_display": "New Hope",
+    "speaker_slug": "new-hope",
+    "description": "Welcome to the New Hope Sermon Podcast, where faith comes alive through the spoken word. Each episode delves into powerful sermons that embody our core values of being Rooted in God's Word, Renewed by the Holy Spirit, and Reaching the World for Jesus Christ. Join us as we explore scripture, nurture spiritual growth, and inspire listeners to act in faith. Whether you're seeking guidance, encouragement, or a deeper understanding of the Gospel, our podcast is here to enrich your spiritual journey and connect you with a community of believers. Subscribe to receive weekly messages that uplift, challenge, and encourage you on your path to greater faith.",
+    "artwork_url": "https://static.libsyn.com/p/assets/4/c/b/5/4cb51e1b40658e0ed959afa2a1bf1c87/2025_New_Hope_Podcast_Social_Media_3000x3000.jpg",
+    "website_url": "https://www.findnewhope.com/messagearchive",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://northwoodchristian.libsyn.com/rss",
     "title": "Northwood Christian Church Sermons & Podcasts",
     "author": "Northwood Christian Church",
@@ -8348,6 +9452,18 @@
     "description": "Scripture and Biblical teaching from the Northwood family.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/08/01/a6/0801a6ec-ea27-388a-c7a3-018d755726bc/mza_18403188525594081750.png/600x600bb.jpg",
     "website_url": "http://northwoodchristian.libsyn.com/podcast",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "http://feeds.feedburner.com/OakMountainSundaySermons",
+    "title": "Oak Mountain Sunday Sermons",
+    "author": "Oak Mountain Church of Christ",
+    "speaker_display": "Oak Mountain Church of Christ",
+    "speaker_slug": "oak-mountain-church-of-christ",
+    "description": "Lessons from our local Preacher Bob Hutto",
+    "artwork_url": "https://images.squarespace-cdn.com/content/v1/5b398692f8370a3443c971ae/1581550690000-EDEKPXYGBDNV180EW13W/SundaySermons.jpg?format=1500w",
+    "website_url": "https://www.oakmtnchurch.org/sunday/",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -8444,6 +9560,18 @@
     "description": "Bible teachings from Reality LA, a church in Hollywood, CA.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/22/3a/8b/223a8b3c-cc9d-b4ec-b4d2-4f047d93d23f/mza_10610569621901877437.png/600x600bb.jpg",
     "website_url": "http://realityla.com/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://redemptiondb.com/sermonarchive?format=rss",
+    "title": "Redemption Church Delray Beach Sunday Sermons",
+    "author": "Redemption Church",
+    "speaker_display": "Redemption Church",
+    "speaker_slug": "redemption-church",
+    "description": "These are our sermons and Bible studies as we study through the Bible together at Redemption Church, You can find out more about Redemption Church at our website at redemptiondb.com.",
+    "artwork_url": "https://images.squarespace-cdn.com/content/v1/53e22164e4b07f4096c35db1/1460205228821-940KUDLSGMF0TPOJCI21/Redemption+Church+Logo+Square.jpg?format=1500w",
+    "website_url": "https://redemptiondb.com/sermonarchive/",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -8616,6 +9744,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://thebibleforeverydaylife.libsyn.com/rss",
+    "title": "Bible Teachings from Summit Northwest Ministries",
+    "author": "Summit Northwest Ministries",
+    "speaker_display": "Summit Northwest Ministries",
+    "speaker_slug": "summit-northwest-ministries",
+    "description": "Welcome to The Bible for Everyday Life, where we explore the big questions in the Bible but only have some of the answers. If you're like us, you've come across stuff in the Bible that just seems weird. Sometimes the more people try to explain it the weirder it gets. Maybe you're just skeptical about Christianity, the Bible and organized church. We get it. So are we.\n\nIf you're looking for straight talk, no clichés, and a logical discussion to all things scriptural, consider subscribing to this podcast, where we go beyond the easy answers, the weird answers and cliches, to discover what God really intends for us, in the 21st century, to learn from the Bible.\n\nJoin us as we raise questions, challenge the status quo, and discover a loving God who is crazy about His kid's everyday lives. Each week we'll publish a new episode that will be easily searchable by seasons. Be sure to subscribe so that you don't miss out on a user friendly, non-crazy approach to discovering The Bible for Everyday Life.",
+    "artwork_url": "https://static.libsyn.com/p/assets/b/0/4/8/b04833874f985cce/SNWM-PodcastCover13-2.jpeg",
+    "website_url": "http://thebibleforeverydaylife.libsyn.com/website",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feed.podbean.com/churchofgodjax/feed.xml",
     "title": "Pastor Frank Hampton Jr. Sermons",
     "author": "The Church of God in Jackson MI",
@@ -8712,6 +9852,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "http://www.mulvanechurch.com/sermons?format=rss",
+    "title": "Mulvane Church Of Christ Sermons",
+    "author": "William Jay Horsley",
+    "speaker_display": "William Jay Horsley",
+    "speaker_slug": "william-jay-horsley",
+    "description": "Sermons presented at the Mulvane Church of Christ, Mulvane, KS",
+    "artwork_url": "https://images.squarespace-cdn.com/content/v1/51ae7ab5e4b0fc43216c4528/1685072106376-JQP2364HMBHSQT94D1OU/Mulvane+Podcast+Art.002.jpeg?format=1500w",
+    "website_url": "http://www.mulvanechurch.com/sermons/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://www.omnycontent.com/d/playlist/5e27a451-e6e6-4c51-aa03-a7370003783c/c8dcdd48-82de-4493-80b3-b23300f97ec5/d5c5cce7-e065-4559-b4b9-b23300f9802a/podcast.rss",
     "title": "Your Nightly Prayer: Evening Prayers for Christians",
     "author": "Your Nightly Prayer",
@@ -8721,6 +9873,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/43/c7/18/43c7181a-5d62-ae25-6194-490f2dc01032/mza_14536209465060877244.jpg/600x600bb.jpg",
     "website_url": "https://www.lifeaudio.com/",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://media.rss.com/fbccumming/feed.xml",
+    "title": "FBC Cumming Sunday Sermons",
+    "author": "First Baptist Cumming",
+    "speaker_display": "First Baptist Cumming",
+    "speaker_slug": "first-baptist-cumming",
+    "description": "<p>First Baptist Cumming exists to help people discover and deepen a saving relationship with Jesus, by gathering around God's Word prayerfully, giving our time, talent, and treasure, and going to the world to reach the nations for Jesus. </p>",
+    "artwork_url": "https://media.rss.com/fbccumming/20240821_070853_1890815216f42e8d65453991a9192eaa.png",
+    "website_url": "https://rss.com/podcasts/fbccumming",
+    "tradition": "baptist",
     "theological_lean": "conservative"
   },
   {
@@ -8757,6 +9921,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/28/fa/47/28fa47f4-2033-6c47-758d-c78763bcc28b/mza_2316805424575048311.jpg/600x600bb.jpg",
     "website_url": "https://preachingpodcasts.com/pastor-john-asquith",
     "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://podpoint.com/feed/11699",
+    "title": "Transformed By The Gospel Sermon Ministry",
+    "author": "Rev. Stewart McCann",
+    "speaker_display": "Rev. Stewart McCann",
+    "speaker_slug": "rev-stewart-mccann",
+    "description": "For “everyone who calls on the name of the Lord will be saved.” 14 How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? Romans 10:13-14",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d3/7d/fa/d37dfad1-500f-e8b6-793f-9bdf4b5ef964/mza_14264022659422657070.jpeg/600x600bb.jpg",
+    "website_url": "https://podpoint.com/transformed-by-the-gospel",
+    "tradition": "evangelical",
     "theological_lean": "conservative"
   },
   {
@@ -8988,6 +10164,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://dlticen.podomatic.com/rss2.xml",
+    "title": "Mount Pleasant Church Sermons",
+    "author": "Dennis Ticen",
+    "speaker_display": "Dennis Ticen",
+    "speaker_slug": "dennis-ticen",
+    "description": "<p>Mount Pleasant United Methodist Church in Terre Haute, Indiana</p>",
+    "artwork_url": "https://assets.podomatic.net/ts/03/e6/b3/dlticen/1400x1400_13791461.jpg",
+    "website_url": "https://www.podomatic.com/podcasts/dlticen",
+    "tradition": "methodist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/d73526e0/podcast/rss",
     "title": "Bedtime Bible Stories for Adults",
     "author": "Heather Crespin",
@@ -9132,6 +10320,30 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://podcasts.subsplash.com/p7dj5m7/podcast.rss",
+    "title": "FBC Talladega | Preaching Ministry",
+    "author": "FBC Talladega",
+    "speaker_display": "FBC Talladega",
+    "speaker_slug": "fbc-talladega",
+    "description": "Sermons from weekly Lord's Day worship at First Baptist Church of Talladega, Alabama.",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD04YWI3ODBjYS1mYWJmLTRjZDgtOTQwYy0zMDRmYjM1ZDE0MDYmdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "http://www.fbctalladega.com/",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/6787fac/podcast/rss",
+    "title": "Hickory Grove Sunday Sermon Podcast",
+    "author": "Michael McEwen",
+    "speaker_display": "Michael McEwen",
+    "speaker_slug": "michael-mcewen",
+    "description": "Welcome to Hickory Grove's Sunday Sermon Podcast. We hope you enjoy the teachings we offer each week as we seek to hear and herald the voice of the Resurrected Christ.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/985603/985603-1578278299535-146ab3c54e4a4.jpg",
+    "website_url": "https://podcasters.spotify.com/pod/show/hickory-grove",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://pcr-rss.streamguys1.com/WomanAlive/womanalive-apple-podcasts.xml",
     "title": "Woman Alive | The podcast for Christian women",
     "author": "Premier",
@@ -9140,6 +10352,18 @@
     "description": "THE podcast for Christian women, talking real life and real faith. No topic is off limits as together we get closer to God, dig into the Bible and discuss what matters to women today.\r\n \r\nBrought to you by Premier Woman Alive magazine. Join Tola Doll Fisher and guests for the podcast that gets Christian women talking.\r\n\r\nHead to premier.plus for more Christian podcasts, radio, music and sermons.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/5a/c7/0a5ac74b-e3ed-0dad-2e46-5afb3daa9f67/mza_672607612637313874.png/600x600bb.jpg",
     "website_url": null,
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "http://feeds.feedburner.com/audaciouschurch/podcast",
+    "title": "!Audacious Church Preaches",
+    "author": "!Audacious Church",
+    "speaker_display": "!Audacious Church",
+    "speaker_slug": "audacious-church",
+    "description": "Welcome to the Audacious Preaches Podcast! - !Audacious Church is a vibrant church that happens live in-person on a Sunday in Central Manchester (Trinity Way) at 9am, 10:30am 12:30pm and 5:30pm, Online on Youtube at 10:30am. In Chester (4 Sovereign Way) at 9am, 10:30am and 12:30pm, In North Manchester (VUE Cinema, The Rock, Bury) at 11am, in South Manchester, (Alderley Edge School for Girls) at 10am and 12pm, Sheffield at the Wilson Carlile Centre, Sheffield at 11am, Cardiff at the Radisson Blu hotel at 11am AND Geneva at Esther House, Rue Voltaire 27 every Sunday at 10h30. Check out our website for more details. Podcasts updated every week!",
+    "artwork_url": "https://audaciouschurch.com/itunes/itunes-mcr-podcast.jpg",
+    "website_url": "https://www.audaciouschurch.com",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -9153,6 +10377,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/98/9b/e8/989be8d4-0181-0820-64b5-1973532eb4b0/mza_2734885984107393522.jpg/600x600bb.jpg",
     "website_url": "https://sacredheartcarrington.org/",
     "tradition": "catholic",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/e60e8288/podcast/rss",
+    "title": "Holdenville First: Sunday Sermon",
+    "author": "Holdenville First Baptist Church",
+    "speaker_display": "Holdenville First Baptist Church",
+    "speaker_slug": "holdenville-first-baptist-church",
+    "description": "Our catalog of Sunday Morning messages from October 2020 to now.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38497106/38497106-1689794383755-fee782d42b665.jpg",
+    "website_url": "https://www.fbcholdenville.com",
+    "tradition": "baptist",
     "theological_lean": "conservative"
   },
   {
@@ -9176,6 +10412,18 @@
     "description": "Become part of the Bible story and listen as the greatest stories of the Bible come to life. Bible Stories from Kids Corner is an immersive weekly audio drama series. Close your eyes and listen to biblical characters telling their part in God’s Big Story! Visit kidscorner.net to find loads of other great faith-building resources.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a2/c9/74/a2c974ad-a62e-7b74-7612-a5820ec99c05/mza_9977697562538549225.jpg/600x600bb.jpg",
     "website_url": "https://kidscorner.net/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.captivate.fm/preach-impediments/",
+    "title": "Preach Impediments",
+    "author": "Adam Shanks",
+    "speaker_display": "Adam Shanks",
+    "speaker_slug": "adam-shanks",
+    "description": "This show is designed to clarify Preach Impediments—big words used in Bible discussions and sermons that interfere with the message of God reaching the hearts of men and women. Each episode explores the Bible's teaching on a different big word in a devotional style reading, full of Scripture, and typically less than ten minutes.",
+    "artwork_url": "https://artwork.captivate.fm/6d99cfbe-8d29-4cdb-b765-28fb960e4a9b/dYJ0KTbo1miDXRM4j0c6OzsW.jpg",
+    "website_url": "https://preach-impediments.captivate.fm",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -9372,6 +10620,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "http://feeds.feedburner.com/VerseByVerseBibleTeachingPodcasts",
+    "title": "Verse By Verse bible Teaching Podcast with Chris White",
+    "author": "Chris White",
+    "speaker_display": "Chris White",
+    "speaker_slug": "chris-white",
+    "description": "Expositional teaching from a Pre-wrath perspective.",
+    "artwork_url": "http://versebyversebibleteaching.com/wp-content/uploads/2010/05/ituneslogo.jpg",
+    "website_url": "https://bibleprophecytalk.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://rss.libsyn.com/shows/560395/destinations/4841720.xml",
     "title": "Sermons from the Offerings Community of First United Methodist Church",
     "author": "First UMC Pastors",
@@ -9396,6 +10656,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://podcasts.subsplash.com:443/cc0f3de/podcast.rss",
+    "title": "South Union Sermons",
+    "author": "Chad Thompson",
+    "speaker_display": "Chad Thompson",
+    "speaker_slug": "chad-thompson",
+    "description": "Messages presented from the pulpit of South Union Baptist Church",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD1mNjk4ZjQyYS1hMDdkLTRjZTEtYTBjOC0xZjg3ODhkOTQ4MmImdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "http://www.southunion.org/",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/1015542e8/podcast/rss",
     "title": "Open Bible Church of Kingsville Sermons",
     "author": "Open Bible Media",
@@ -9417,6 +10689,30 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/8d/a5/ee/8da5ee99-66ed-e526-4cb8-90ef2fde4ff9/mza_4129461529117947534.jpg/600x600bb.jpg",
     "website_url": "https://www.desiringgod.org/",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:133034024/sounds.rss",
+    "title": "Covenant Church of Schaumburg - Sermons and Choir performances",
+    "author": "Covenant Church of Schaumburg",
+    "speaker_display": "Covenant Church of Schaumburg",
+    "speaker_slug": "covenant-church-of-schaumburg",
+    "description": "Podcast by Covenant Church of Schaumburg",
+    "artwork_url": "https://i1.sndcdn.com/avatars-000155554051-ygkds6-original.jpg",
+    "website_url": "http://www.SchaumburgCovenant.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.transistor.fm/iabc-lubbock",
+    "title": "IABC-Lubbock Sunday Morning Sermons",
+    "author": "Indiana Avenue Baptist Church",
+    "speaker_display": "Indiana Avenue Baptist Church",
+    "speaker_slug": "indiana-avenue-baptist-church",
+    "description": "Sunday Morning Sermons from Indiana Avenue Baptist Church in Lubbock, Texas.",
+    "artwork_url": "https://img.transistorcdn.com/E02jI7UW7YqAHw4G_rRyZO8UZG8t8Ae_Zr_P5tOCHIs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82ZDJj/MGI0ODk2NDdiMjc2/MTliOTgyYTM4OTNk/NzRmMS5wbmc.jpg",
+    "website_url": "https://www.iabc.org/",
+    "tradition": "baptist",
     "theological_lean": "conservative"
   },
   {
@@ -9528,6 +10824,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://publishing.planningcenteronline.com/168709/podcast_feeds/23299.xml",
+    "title": "TCBC Sunday Sermons",
+    "author": "Twin City Bible Church",
+    "speaker_display": "Twin City Bible Church",
+    "speaker_slug": "twin-city-bible-church",
+    "description": "Sermon recordings from Twin City Bible Church.\n\nTCBC is a non-denominational church in Urbana, IL. Visit us at tcbc.cc, follow us on Facebook and Instagram @mytcbc. \nContact us at office@tcbc.cc or call (217) 344-0641",
+    "artwork_url": "https://images.planningcenterusercontent.com/v1/transform.png?bucket=publishing-production-attachments&disposition=inline&expires_at=1777615199&key=organization_168709_h6ml020m5gw01kll0s6f0tjxf6j6&thumb=3000x&signature=d0ae688fb5ce84d1160683ed8ced95e15e682e6efb757732757155522a3149b1",
+    "website_url": "https://mytcbc.churchcenter.com/channels/23299",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.blubrry.com/feeds/1470671.xml",
     "title": "Unshaken Faith",
     "author": "Alisa Childers & Natasha Crain",
@@ -9585,6 +10893,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/37/99/10/379910ce-e1a3-f761-b7c1-a63c21e1cfc3/mza_11388992545950853578.jpg/600x600bb.jpg",
     "website_url": "https://redcircle.com/shows/the-overcomers-with-matt-chandler",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://www.spreaker.com/show/3490306/episodes/feed",
+    "title": "Daily Preached Principles",
+    "author": "Phil Strongman",
+    "speaker_display": "Phil Strongman",
+    "speaker_slug": "phil-strongman",
+    "description": "Daily preached principles from God's word from Highview Baptist church!",
+    "artwork_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/55c7db6d54596210f159276ca82544f9.jpg",
+    "website_url": "https://www.spreaker.com/show/daily-preached-principles",
+    "tradition": "baptist",
     "theological_lean": "conservative"
   },
   {
@@ -9768,6 +11088,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "http://feeds.feedburner.com/GraceInTheDesertSermons",
+    "title": "Sermons – Grace In the Desert",
+    "author": "Pastor Greg Webster",
+    "speaker_display": "Pastor Greg Webster",
+    "speaker_slug": "pastor-greg-webster",
+    "description": "\"Where no one misses the grace of God\"",
+    "artwork_url": "http://graceinthedesert.org/wp-content/uploads/2017/07/GID-Podcast-Logo-2.jpeg",
+    "website_url": "https://graceinthedesert.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://www.spreaker.com/show/464984/episodes/feed",
     "title": "Pentecostal Holiness Preaching",
     "author": "Pastor Joe Myers",
@@ -9912,6 +11244,30 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/5e660784/podcast/rss",
+    "title": "ECCM Sunday Sermons 2021",
+    "author": "Evangelical Covenant Church Manila",
+    "speaker_display": "Evangelical Covenant Church Manila",
+    "speaker_slug": "evangelical-covenant-church-manila",
+    "description": "Evangelical Covenant Church Manila\nPodcast for Sunday Sermons",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15737449/15737449-1622994012307-1bb16ea8796ab.jpg",
+    "website_url": "https://eccmph.wixsite.com/eccmanila",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "http://mountainviewchristiancenter.net/sermon-podcast?format=rss",
+    "title": "Sermons - Mountain View Christian Center",
+    "author": "Mountain View Christian Center",
+    "speaker_display": "Mountain View Christian Center",
+    "speaker_slug": "mountain-view-christian-center",
+    "description": "<p>This page has only some recent messages. for a complete selection of sermons find our page on YouTube or visit our Facebook page. </p>",
+    "artwork_url": "https://images.squarespace-cdn.com/content/v1/562effc4e4b03bac49f1d676/1446870712647-EBLUHUVATAM9SOWWAOOR/mvcc+podcast.jpg?format=1500w",
+    "website_url": "http://mountainviewchristiancenter.net/sermon-podcast/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://www.bibleteaching.de/podcast.xml",
     "title": "bibleteaching - der Podcast",
     "author": "bibleteaching",
@@ -9936,6 +11292,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://publishing.planningcenteronline.com/373049/podcast_feeds/3856.xml",
+    "title": "Hurricane Baptist: Sunday Sermons",
+    "author": "Hurricane Baptist",
+    "speaker_display": "Hurricane Baptist",
+    "speaker_slug": "hurricane-baptist",
+    "description": "Hurricane Baptist: Sunday Sermons Podcast",
+    "artwork_url": "https://images.planningcenterusercontent.com/v1/transform.png?bucket=publishing-production-attachments&disposition=inline&expires_at=1777615199&key=organization_373049_cbvwz2rq6acyf58k54efem21jlia&thumb=3000x&signature=fd4a89996a6be847c5378f4c3ad12449e6c415210ab466ecfb85dc360c2e744b",
+    "website_url": "https://hurricanebaptistchurch.churchcenter.com/channels/3856",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/110e36960/podcast/rss",
     "title": "The Lisa Bevere Podcast",
     "author": "Lisa Bevere, Messenger International",
@@ -9948,14 +11316,14 @@
     "theological_lean": "conservative"
   },
   {
-    "feed_url": "http://feeds.feedburner.com/ResurrectionLeawoodSermons",
-    "title": "Church of the Resurrection Leawood Sermons",
-    "author": "Church of the Resurrection",
-    "speaker_display": "Church of the Resurrection",
-    "speaker_slug": "church-of-the-resurrection",
-    "description": "Want to worship with us in person? Join us Saturdays at 5 pm or Sundays at 7:30, 9:15, or 11 am or 5 pm. More information at cor.org.",
-    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/db/2f/e6/db2fe663-d9d2-ee6e-ea99-2a27d0d3f500/mza_18342799925628638768.jpg/600x600bb.jpg",
-    "website_url": "https://cor.org/",
+    "feed_url": "https://rchurchsermons.podomatic.com/rss2.xml",
+    "title": "R Church Sermon Podcast",
+    "author": "R Church",
+    "speaker_display": "R Church",
+    "speaker_slug": "r-church",
+    "description": "R Church is a fellowship that recognizes the need for repentance and rest to produce peace and healing for the soul, spirit, and body. Through repentance and rest, we grow in the love of God, are drawn closer to God, and have a desire to share his revelation with each other and our community through relationships.",
+    "artwork_url": "https://assets.podomatic.net/ts/a8/4f/e3/tryrchurchmedia16042/1400x1400_11978670.jpg",
+    "website_url": "https://www.podomatic.com/podcasts/rchurchsermons",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -9969,6 +11337,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/cf/1c/70cf1cb3-24a8-1e81-d3c4-813b74e8295d/mza_11628872599681204057.jpg/600x600bb.jpg",
     "website_url": "http://www.RonaldGabrielsen.com",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/915c60c/podcast/rss",
+    "title": "Sunday Sermons at Hilton Pres",
+    "author": "Hilton Presbyterian Church",
+    "speaker_display": "Hilton Presbyterian Church",
+    "speaker_slug": "hilton-presbyterian-church",
+    "description": "These are the sermons heard at Hilton Presbyterian Church in Newport News, Virginia.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1424219/1424219-1566914563727-3e4a591a43f1e.jpg",
+    "website_url": "hiltonpres.org",
+    "tradition": "reformed",
     "theological_lean": "conservative"
   },
   {
@@ -10017,6 +11397,30 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/18/f0/1718f06a-160e-db12-819d-fed751b27581/mza_16875449492542475728.jpg/600x600bb.jpg",
     "website_url": "https://www.facebook.com/profile.php?id=61574584197197",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://www.landoverbaptist.org/60second.xml",
+    "title": "Landover Baptist 60 Second Sermon Podcasts and More!",
+    "author": "Deacon Fred",
+    "speaker_display": "Deacon Fred",
+    "speaker_slug": "deacon-fred",
+    "description": "From the world's only bullet-proof pulpit, Landover Baptist Pastor, Deacon Fred, delivers uplifting sermons about Hell, and an unprecedented  True Christian perspective on current events and media issues.  His sermons and commentary continue to be a wonderful source of inspiration for the Truly Saved on a daily basis.",
+    "artwork_url": "https://www.landoverbaptist.org/60second/fredpodlarge2018.jpg",
+    "website_url": "https://www.landoverbaptist.org/60second/",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://s3.amazonaws.com/thecloudnetwork/15659/sermons.xml",
+    "title": "Family Baptist Church Sermons",
+    "author": "Family Baptist Church",
+    "speaker_display": "Family Baptist Church",
+    "speaker_slug": "family-baptist-church",
+    "description": "Weekly sermons from Family Baptist Church Toledo,OH. Charles H. McBee Senior Pastor",
+    "artwork_url": "http://1ad321dc9ca0beb7d1ca-6719d1f093845455fe81ee5a8d36be46.r6.cf2.rackcdn.com/uploaded/f/0e4361498_1436612723_fbc-embodiment-possibilities.jpg",
+    "website_url": "http://www.sermoncloud.com",
+    "tradition": "baptist",
     "theological_lean": "conservative"
   },
   {
@@ -10088,6 +11492,18 @@
     "description": "Resources to help expositors be more faithful in preaching God's word",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/88/0c/ca/880cca92-3ff0-3fb1-0569-16e91a631c27/mza_8441973285160874101.jpg/600x600bb.jpg",
     "website_url": "https://goversebyverse.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://stlukeselca.podomatic.com/rss2.xml",
+    "title": "St. Luke's Sunday Sermons",
+    "author": "Jacob Dolan",
+    "speaker_display": "Jacob Dolan",
+    "speaker_slug": "jacob-dolan",
+    "description": "St. Luke's Sermons",
+    "artwork_url": "https://assets.podomatic.net/ts/4f/37/45/dolan21378/3000x3000_12428929.jpg",
+    "website_url": "https://www.podomatic.com/podcasts/stlukeselca",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -10236,6 +11652,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://podcasts.subsplash.com:443/4a8a658/podcast.rss",
+    "title": "Living Word Sermons",
+    "author": "Living Word London",
+    "speaker_display": "Living Word London",
+    "speaker_slug": "living-word-london",
+    "description": "Weekly messages from Living Word Church, London.\n\nBe sure to subscribe to the podcast to never miss an episode..\n\nhttps://livingword.cc",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD1iMGMzODQ5Yi05ODM5LTRjZTEtOTYyMi1hZjA1OTc1MmQ2NWEmdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "http://livingword.cc",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/1085de824/podcast/rss",
     "title": "OLPH Chinese Homily | 永助圣母堂中文讲道播客",
     "author": "OLPHCHINESE",
@@ -10341,6 +11769,30 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/93/8d/14938d54-a7bf-5f99-5d7f-25e4400cf964/mza_10103951263943536327.jpg/600x600bb.jpg",
     "website_url": "https://the-homily-with-chill-will.captivate.fm/listen",
     "tradition": "catholic",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://cmontclair.sermonboss.com/itunes/audio/",
+    "title": "Calvary Montclair Sermon Podcast",
+    "author": "Pastor Joe McTarsney",
+    "speaker_display": "Pastor Joe McTarsney",
+    "speaker_slug": "pastor-joe-mctarsney",
+    "description": "\"Behold, I am doing a new thing..\" Isaiah 43:19",
+    "artwork_url": "http://cmontclair.sermonboss.com/_content/userdata/276/_itunes/podcast_img/CMPocast25cad658715f36.jpg",
+    "website_url": "http://www.cmontclair.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/5270a9c/podcast/rss",
+    "title": "Teach Them Diligently-A Study for Bible Class Teachers",
+    "author": "Teach Them Diligently",
+    "speaker_display": "Teach Them Diligently",
+    "speaker_slug": "teach-them-diligently",
+    "description": "Our mission is to provide support and guidance to Bible Class teachers, to engage in ongoing dialogue focused on student learning, and to create a community of lifelong learners diligently seeking to teach like the Master--Jesus Christ.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/764447/764447-1534209576709-d86054a2d7257.jpg",
+    "website_url": "https://youshallteachthemd.wixsite.com/teachthemdiligently",
+    "tradition": "evangelical",
     "theological_lean": "conservative"
   },
   {
@@ -10524,6 +11976,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://feeds.simplecast.com/tMjUSVpy",
+    "title": "The MacArthur Center Podcast",
+    "author": "The Master's Seminary",
+    "speaker_display": "The Master's Seminary",
+    "speaker_slug": "the-masters-seminary",
+    "description": "As The MacArthur Center for Expository Preaching at The Master’s Seminary opens its doors, season one of its flagship podcast will tell the surprising, providential, compelling story of how John MacArthur became synonymous with expository preaching. From his first sermon at Grace Community Church on February 9, 1969, through his 52 years of relentless, verse-by-verse exposition from the New Testament, John has modeled a simple idea: that the Bible is clear and the preacher’s task is to patiently explain that meaning to his audience. This documentary-style season will look at Grace Community Church, which during John’s 52-year ministry has grown from a small, nondescript church in the middle of the San Fernando Valley into one of the largest, most influential churches in the United States. These eight episodes will tell the story of John’s calling into pastoral ministry and explain why, and how, he preaches the way he does. It will also trace his involvement in controversies and look at how he preaches during cultural upheaval and personal suffering. Don’t miss season one of The MacArthur Center podcast.",
+    "artwork_url": "https://image.simplecastcdn.com/images/eeae96e7-080d-41a0-8062-5260ace4d044/a84ec50c-c59b-49f4-a697-a1988a8297f6/3000x3000/mcep-podcasticon.jpg?aid=rss_feed",
+    "website_url": "https://coming-soon-the-macarthur-center-podcast.simplecast.com",
+    "tradition": "reformed",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://media.rss.com/shereaditherself/feed.xml",
     "title": "She Read it Herself : for the girl who sucks at reading her Bible : daily Christian women podcast",
     "author": "Natasha Elisa",
@@ -10584,6 +12048,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://graymere.com/pwpodcast?format=rss",
+    "title": "Graymere Preaching Workshop",
+    "author": "Graymere Church of Christ",
+    "speaker_display": "Graymere Church of Christ",
+    "speaker_slug": "graymere-church-of-christ",
+    "description": "<p>The Graymere Preaching Workshop Podcast is an archive of audio sessions taught by distinguished professors in February each year at Graymere Church of Christ in Columbia, Tennessee. </p>",
+    "artwork_url": "https://images.squarespace-cdn.com/content/v1/56cb2d9ac6fc08ba86e38170/1740675290952-ZVGA4JND7666VZUXAM6A/pw25_album+art.jpg?format=1500w",
+    "website_url": "https://graymere.com/pwpodcast/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/34573288/podcast/rss",
     "title": "Preaching and Preachers by Martyn Lloyd-Jones",
     "author": "Martyn Lloyd-Jones: Preaching and Preachers",
@@ -10608,6 +12084,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "http://feeds.feedburner.com/cckbrightonarchive",
+    "title": "Clarendon Church, Brighton, Archive Sermons",
+    "author": "Clarendon / Church of Christ the King / BHCF",
+    "speaker_display": "Clarendon / Church of Christ the King / BHCF",
+    "speaker_slug": "clarendon-church-of-christ-the-king-bhcf",
+    "description": "Archive Recordings from <a href=\"http://www.cck.org.uk\">Clarendon Church</a>, Brighton, England",
+    "artwork_url": "https://s3-eu-west-1.amazonaws.com/cckmedia/assets/Clarendon-Villas-2-423x423.jpg",
+    "website_url": "http://clarendonarchive.blogspot.com/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.castos.com/x4681",
     "title": "What it Means To Be Human",
     "author": "Dan Zetterstrom / Double Barrel",
@@ -10620,6 +12108,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://www.forerunner.cc/podcast_sun",
+    "title": "FRCC - Sunday Sermons",
+    "author": "Forerunner Christian Church",
+    "speaker_display": "Forerunner Christian Church",
+    "speaker_slug": "forerunner-christian-church",
+    "description": "Sunday Sermons",
+    "artwork_url": "https://www.frcc.us/assets/templates/webv4/FRCC2014/images/logo-xlarge-square.jpg",
+    "website_url": "https://www.frcc.us/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feeds.feedburner.com/GLCCBridgeportSermons",
     "title": "Gospel Light Sermon Network",
     "author": "Gospel Light Community Church",
@@ -10628,6 +12128,18 @@
     "description": "Sermons delivered at Gospel Light Community Church, Bridgeport, Connecticut Senior Pastor Joshua Miller Visit us online at: www.gospellightcommunitychurch.com/glcc",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/bb/91/f3/bb91f3e3-9e5b-9867-5076-576904038d96/mza_5719654220067844616.png/600x600bb.jpg",
     "website_url": "http://glccsermons.blogspot.com/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://podcasts.subsplash.com/5q9bmsq/podcast.rss",
+    "title": "Calvary Chapel North Texas Teaching Through the Bible",
+    "author": "Grant Barney",
+    "speaker_display": "Grant Barney",
+    "speaker_slug": "grant-barney",
+    "description": "Teaching the word of God, chapter by chapter, verse by verse.\n\nPastor Grant Barney \n\nConnect with us! \nFacebook: https://www.facebook.com/CalvaryFrisco/?ref=bookmarks\nTwitter: https://twitter.com/CalvaryTexas\nInstagram: https://www.instagram.com/calvarychapelnorthtexas/\nWebsite http://calvarynorthtexas.com/\nSubscribe to our channel for weekly studies to help you grow in Christ!",
+    "artwork_url": "https://images.subsplash.com/base64/L2ltYWdlLmpwZz9pZD1hZTI1NDAzYS1mNThlLTQyZjctOGQ2Yi0zMWZkNmVjMTM2YTkmdz0zMDAwJmg9MzAwMCZhbGxvd191cHNjYWxlPXRydWU.jpg",
+    "website_url": "www.calvarynorthtexas.com",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -10676,6 +12188,30 @@
     "description": "Join me each week as I re-record (or share live) the Sunday Sermon I preach each week at Faith United Church of Christ in Dunedin, FL.  Along with the sermon, there will be additional material such as a welcome, centering moment, reflection questions and other material.  Sermons are often best when heard again and they are definitely best when shared to those to hear for the first time.  Check in weekly and share widely!",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/49/9e/b0/499eb0a7-9739-cf7f-b9e7-5400a840316d/mza_16426384845507081656.jpg/600x600bb.jpg",
     "website_url": "http://blubrry.com/3930131/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.feedburner.com/CGCPodcast",
+    "title": "Calvary Gospel Church Sermon Archive",
+    "author": "Rev. Roy H. Grant",
+    "speaker_display": "Rev. Roy H. Grant",
+    "speaker_slug": "rev-roy-h-grant",
+    "description": "Welcome to Calvary Gospel Church in Madison WI.  Pastor Roy Grant welcomes you to listen and hopes that you will find a closer relationship with Jesus.  Service times are Sunday at 10am and 6pm as well as Wednesday at 7pm.  Messages are uploaded shortly after service has ended.",
+    "artwork_url": "http://www.cgcmadison.org/wp-content/uploads/2017/12/CGC_Podcast.jpg",
+    "website_url": "http://www.cgcmadison.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://www.brithadasha.org/sermons/feed/",
+    "title": "Sermons – B'rit Hadasha Messianic Jewish Synagogue",
+    "author": "Sermons – B'rit Hadasha Messianic Jewish Synagogue",
+    "speaker_display": "Sermons – B'rit Hadasha Messianic Jewish Synagogue",
+    "speaker_slug": "sermons-brit-hadasha-messianic-jewish-synagogue",
+    "description": "A Vibrant Messianic Jewish Community",
+    "artwork_url": "http://brithadasha.org/media/feeds/BritPrintLogo_podcast.jpg",
+    "website_url": "https://www.brithadasha.org",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -10736,6 +12272,18 @@
     "description": "Christian Faith",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/b9/32/7c/b9327cc3-a069-ef9c-6017-5e3249eae10b/mza_473781675541004843.jpg/600x600bb.jpg",
     "website_url": "https://podcasters.spotify.com/pod/show/israel-sodipo",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "http://feeds.feedburner.com/LakeviewCommunityChurch-SermonsByJessJessup",
+    "title": "Lakeview Community Church - Sermons by Jess Jessup",
+    "author": "Jess Jessup",
+    "speaker_display": "Jess Jessup",
+    "speaker_slug": "jess-jessup",
+    "description": "Lakeview Community Church - Hamilton Indiana",
+    "artwork_url": "http://www.lakeviewhamilton.com/img/PodcastTile.jpg",
+    "website_url": "http://feeds.feedburner.com/LakeviewCommunityChurch-SermonsByJessJessup",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -10824,6 +12372,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://www.spreaker.com/show/1401670/episodes/feed",
+    "title": "Faith Forges the Victory",
+    "author": "Bible Teaching Ministries",
+    "speaker_display": "Bible Teaching Ministries",
+    "speaker_slug": "bible-teaching-ministries",
+    "description": "Join us as we embark on an incredible journey through the life and times of God's chosen leader for the nation of Israel, the one and only Joshua. He led the people during a time of transition, of war and of peace. God used him in a mighty way to demonstrate His power and to guide His chosen people. Pastor Bob Welch will take us through the entire book of Joshua as we seek to learn the many lessons contained for us in the pages of Scripture.",
+    "artwork_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7dc783c32250a8b6c86be20e784023d9.jpg",
+    "website_url": "https://www.spreaker.com/show/faith-forges-the-victory",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/6c4adc58/podcast/rss",
     "title": "THE WEEKLY BIBLE TEACHING",
     "author": "Sibusiso Tetana",
@@ -10832,6 +12392,30 @@
     "description": "Where the word of God comes alive!\n\nHere you will find a variety of episodes containing the unfiltered and unadulterated teachings on the bible. \n\nThe main aim is to equip the saints for the work of the ministry so that we can effectively win souls over from the dominion of darkness into the kingdom of God’s dearly beloved Son, our Lord Jesus Christ. A new episode is released every Monday and we certainly hope that you will enjoy our 15-20 minute episodes which are power-packed with God’s inspired word. God bless!",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/49/36/d7/4936d758-f5ec-f083-e207-85ddbc9cf29c/mza_14489191726194288723.jpg/600x600bb.jpg",
     "website_url": "https://youtube.com/channel/UCenwKstvtWnUpcZjms--Jzw",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:310590873/sounds.rss",
+    "title": "Bethany Lutheran Church Sermons",
+    "author": "Bethany Lutheran Church Sermons",
+    "speaker_display": "Bethany Lutheran Church Sermons",
+    "speaker_slug": "bethany-lutheran-church-sermons",
+    "description": "Bethany Lutheran Church is a small, friendly, family-oriented ELCA congregation. Our Pastor Megan Filer shares the message of God's love and grace with us each and every week.",
+    "artwork_url": "https://i1.sndcdn.com/avatars-000316021331-e3k247-original.jpg",
+    "website_url": "https://soundcloud.com/user-193814049",
+    "tradition": "lutheran",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "http://www.charisbiblechurch.org.uk/media/SolaAdioTeachingMinistryAudio.xml",
+    "title": "Teaching Ministry of Pastor Sola Adio - Audio Podcast",
+    "author": "Pastor Sola Adio",
+    "speaker_display": "Pastor Sola Adio",
+    "speaker_slug": "pastor-sola-adio",
+    "description": "This is a podcast of teachings by Pastor Sola Adio at various churches and ministries.",
+    "artwork_url": "http://www.charisbiblechurch.org.uk/images/solamoni.jpg",
+    "website_url": "http://www.charisbiblechurch.org.uk",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -10928,6 +12512,18 @@
     "description": "Join the millions who listen to the lively messages of Chuck Swindoll, a down-to-earth pastor who communicates God\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'s truth in understandable and practical terms—with a good dose of humor thrown in. Chuck\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'s messages help you apply the Bible to your own life.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d1/68/b9/d168b909-10e7-da68-16ae-19d97e65c3a5/mza_6023242351663887225.jpg/600x600bb.jpg",
     "website_url": "https://insight.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://www.eastgate.church/message/feed/",
+    "title": "Eastgate Church Sermons - Wilson",
+    "author": "Eastgate Church Sermons",
+    "speaker_display": "Eastgate Church Sermons",
+    "speaker_slug": "eastgate-church-sermons",
+    "description": "Sermons from Gary Combs and the preaching team at Eastgate Church in Wilson, North Carolina.",
+    "artwork_url": "https://www.wccnc.org/wp-content/uploads/2022/03/Eastgate-Blue-Green-Logo-Centered-Square.jpg",
+    "website_url": "https://www.eastgate.church",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -11040,18 +12636,6 @@
     "theological_lean": "conservative"
   },
   {
-    "feed_url": "https://foundationsforfreedom.net/Podcasts/Bible/BFF_Genesis_Bible_Teaching.xml",
-    "title": "BFF Genesis Bible Teaching",
-    "author": "Paul J. Bucknell",
-    "speaker_display": "Paul J. Bucknell",
-    "speaker_slug": "paul-j-bucknell",
-    "description": "Explore Genesis with Paul J. Bucknell through clear, Christ-centered Bible teaching from Biblical Foundations for Freedom. These audio messages trace God's creation, grace, covenant promises, and work through the lives of Abraham, Isaac, Jacob, and Joseph, helping listeners understand Genesis and grow in faith and obedience.",
-    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/7e/c5/057ec55a-0be8-2441-8dec-64dedef3e4b9/mza_10464970693730062638.jpg/600x600bb.jpg",
-    "website_url": "https://www.foundationsforfreedom.net/dl/biot/ot-start.html#Genesis",
-    "tradition": "evangelical",
-    "theological_lean": "conservative"
-  },
-  {
     "feed_url": "https://media.rss.com/the-kyle-lake-center-for-effective-preaching/feed.xml",
     "title": "KLC Preaching Podcast",
     "author": "The Kyle Lake Center for Effective Preaching",
@@ -11061,6 +12645,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/06/28/46062826-921e-fb0c-9a22-cb08a13b75f3/mza_2098387405070839175.png/600x600bb.jpg",
     "website_url": "https://rss.com/podcasts/the-kyle-lake-center-for-effective-preaching",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/256a27d0/podcast/rss",
+    "title": "PREACH FREEDOM",
+    "author": "Alex Umole",
+    "speaker_display": "Alex Umole",
+    "speaker_slug": "alex-umole",
+    "description": "Preach Freedom is a conversation starter featuring ordinary people such as laity, pastors, and professionals in secular workplaces having honest and unfiltered conversations about social justice and the church's role. The ideas and perspectives discussed are then contextualized to South Florida to seek ways local Pentecostal churches can embrace new strategies in social justice to impact the lives of people in society beyond the four walls of the church. Join the Conversation. Write to aumole18@georgefox.edu.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6177140/6177140-1600395413684-504be2c3d4265.jpg",
+    "website_url": "www.preachfreedom.com",
+    "tradition": "charismatic",
     "theological_lean": "conservative"
   },
   {
@@ -11208,6 +12804,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://librivox.org/rss/15377",
+    "title": "Commentary on the Gospel of Luke, Sermons 66-80 by Cyril of Alexandria (c. 376 - 444)",
+    "author": "LibriVox",
+    "speaker_display": "LibriVox",
+    "speaker_slug": "librivox",
+    "description": "Sermons 66 through 80 cover the Gospel According to Luke 10:22 to 11:18. - Summary by the Reader",
+    "artwork_url": "https://archive.org/download/commentaryonlukesermons66-80_2008_librivox/commentary_luke7_2008.jpg",
+    "website_url": "https://librivox.org/commentary-on-the-gospel-of-luke-sermons-66-80-by-cyril-of-alexandria/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://media.rss.com/new-hope-christian-community-sermons/feed.xml",
     "title": "New Hope Christian Community Sermons",
     "author": "New Hope Christian Community",
@@ -11253,6 +12861,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9f/dd/f6/9fddf6d9-9af7-71af-8dc2-a4c0979731ee/mza_12912734023575583998.jpg/600x600bb.jpg",
     "website_url": "https://www.oneplace.com/ministries/thru-the-bible-sunday-sermon/",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feed.sermonaudio.com/135644",
+    "title": "Expository Preaching",
+    "author": "Dr. R. Jay Waggoner",
+    "speaker_display": "Dr. R. Jay Waggoner",
+    "speaker_slug": "dr-r-jay-waggoner",
+    "description": "Expository Preaching Simplified - Dr. R. Jay Waggoner",
+    "artwork_url": "https://media-cloud.sermonaudio.com/images/series/135644.1626823461.jpg",
+    "website_url": "https://www.sermonaudio.com/solo/rjaywaggoner/podcasts/135644/",
+    "tradition": "reformed",
     "theological_lean": "conservative"
   },
   {
@@ -11352,6 +12972,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/2bc2328/podcast/rss",
+    "title": "Sunday Sermons - Tilghman Rd COGOP",
+    "author": "Tilghman Rd COGOP",
+    "speaker_display": "Tilghman Rd COGOP",
+    "speaker_slug": "tilghman-rd-cogop",
+    "description": "Come worship with us!",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/358842/358842-1520814134003-3df239af374ac.jpg",
+    "website_url": "https://podcasters.spotify.com/pod/show/sunday-sermons---tilghman-rd-cogop",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/101703c60/podcast/rss",
     "title": "The Familiar Stranger Podcast",
     "author": "Tyler Staton",
@@ -11385,6 +13017,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/7c/8f/0c/7c8f0c84-af85-9243-f869-dea6c8069038/mza_15120040434163585095.jpg/600x600bb.jpg",
     "website_url": "https://podcasters.spotify.com/pod/show/catholic-dawgs-homily",
     "tradition": "catholic",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feed.podbean.com/learningtopreach/feed.xml",
+    "title": "The Learning to Preach Podcast",
+    "author": "Coram Deo Church",
+    "speaker_display": "Coram Deo Church",
+    "speaker_slug": "coram-deo-church",
+    "description": "Preaching is a craft; and like any craft, it can be learned. The Learning to Preach podcast helps preachers of the Bible learn the tools of the trade, identify key mistakes, and develop skill in preparing and delivering gospel-centered, Christ-exalting sermons.",
+    "artwork_url": "https://pbcdn1.podbean.com/imglogo/image-logo/22150135/2006_iTunes.jpg",
+    "website_url": "https://learningtopreach.podbean.com",
+    "tradition": "evangelical",
     "theological_lean": "conservative"
   },
   {
@@ -11504,6 +13148,18 @@
     "description": "Cell Life Church shares weekly Bible-based teaching that encourages believers to live out their faith in real life. Each message focuses on following Jesus, growing in faith, and sharing hope with others through practical application of Scripture. Whether you are part of a house church, faith community, or listening on your own, our prayer is that these teachings strengthen your walk with Jesus and equip you to live as His witness in everyday life.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/de/45/e8/de45e87f-ee46-3ed7-ae3f-c2163f2c9339/mza_15792760205747550076.jpg/600x600bb.jpg",
     "website_url": "https://www.celllifechurch.org/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://www.dalraida.org/podcasts/2016_summer.xml",
+    "title": "The Greatest Sermon Ever Preached (2016 Summer Series)",
+    "author": "Dalraida church of Christ",
+    "speaker_display": "Dalraida church of Christ",
+    "speaker_slug": "dalraida-church-of-christ",
+    "description": "This podcast is for the 2016 Summer Series presented at the Dalraida church of Christ in Montgomery, AL.",
+    "artwork_url": "http://www.dalraida.org/podcasts/2016_summer.jpg",
+    "website_url": "http://www.dalraida.org",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -11652,6 +13308,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "http://feeds.feedburner.com/tbcfdl-podcast",
+    "title": "Trinity Baptist Church Sermon Audio",
+    "author": "Pastor Dan Leeds",
+    "speaker_display": "Pastor Dan Leeds",
+    "speaker_slug": "pastor-dan-leeds",
+    "description": "Trinity Baptist Church, Fond du Lac, WI strives to promote a healthy church through the regular systematic teaching of the Word of God. Our senior pastor Dan Leeds prioritizes the Scriptures in every aspect of the ministry of Trinity Baptist Church.",
+    "artwork_url": "http://trinityfdl.net/audio/podcast.jpg",
+    "website_url": "http://trinityfdl.net",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "http://feeds.feedburner.com/crossconnectionchurch",
     "title": "Cross Connection Church Sermons",
     "author": "Pastor Miles DeBenedictis",
@@ -11661,6 +13329,42 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/86/59/24/8659248d-0767-b06a-1235-ecc23367226a/mza_16164135330180874106.jpg/600x600bb.jpg",
     "website_url": "https://ccchurch.com/category/sermons/",
     "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://cornerstonebillings.org/sermons/feed/",
+    "title": "Sermons – Cornerstone Community Church",
+    "author": "Pastor Rick Haluszka",
+    "speaker_display": "Pastor Rick Haluszka",
+    "speaker_slug": "pastor-rick-haluszka",
+    "description": "Let's flourish together as we cling to Christ and discover that He is better than everything in every way.",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/de/5a/0e/de5a0ef0-4868-1045-f4cc-7a2122cd3177/mza_4641103021279583158.jpg/600x600bb.jpg",
+    "website_url": "https://cornerstonebillings.org",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://www.podcastyoursermons.com/podcasts/pasto_file_1/RSS_feed.xml",
+    "title": "Pastor Tim's Sermons",
+    "author": "Pastor Tim Vamosi",
+    "speaker_display": "Pastor Tim Vamosi",
+    "speaker_slug": "pastor-tim-vamosi",
+    "description": "I hope you enjoy the sermons below.  Please feel free to contact me if you would like any additional material.  (PPt files or printed copies of material)",
+    "artwork_url": "https://www.podcastyoursermons.com/podcast_logos/pasto_file_1/timlogo.jpg",
+    "website_url": "http://www.podcastyoursermons.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:459976950/sounds.rss",
+    "title": "Peace Lutheran Church Gahanna",
+    "author": "Peace Lutheran Church (Gahanna) - Sermons from Pastors Doug Warburton and Tony Katko.",
+    "speaker_display": "Peace Lutheran Church (Gahanna) - Sermons from Pastors Doug Warburton and Tony Katko.",
+    "speaker_slug": "peace-lutheran-church-gahanna-sermons-from-pastors-doug-warburton-and-tony-katko",
+    "description": "Podcast by Peace Lutheran Church (Gahanna) - Sermons from Pastors Doug Warburton and Tony Katko.",
+    "artwork_url": "https://i1.sndcdn.com/avatars-000711456982-fz3lm4-original.jpg",
+    "website_url": "https://soundcloud.com/user-721358798",
+    "tradition": "lutheran",
     "theological_lean": "conservative"
   },
   {
@@ -11697,6 +13401,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/90/bd/00/90bd0021-4f26-0a2d-86e4-5d22bdcab8b6/mza_4788543431054074347.jpg/600x600bb.jpg",
     "website_url": "https://rosehillpca.org",
     "tradition": "reformed",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "http://feeds.feedburner.com/CalvaryNWSermons",
+    "title": "Calvary Chapel Northwest Sermons",
+    "author": "Senior Pastor: Tom Blumberg",
+    "speaker_display": "Senior Pastor: Tom Blumberg",
+    "speaker_slug": "senior-pastor-tom-blumberg",
+    "description": "Preaching and teaching audio from Calvary Chapel Northwest",
+    "artwork_url": "http://www.calvarynw.com/wp-content/uploads/2014/01/calvarynw_podcast.jpg",
+    "website_url": "http://www.calvarynw.com/sermons",
+    "tradition": "evangelical",
     "theological_lean": "conservative"
   },
   {
@@ -11768,6 +13484,18 @@
     "description": "Equipping churches for conversation and counsel",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/23/fc/7723fc49-bf11-739f-5f76-c2d04cb2d384/mza_17876045980781850735.jpg/600x600bb.jpg",
     "website_url": "https://bcuk.transistor.fm/",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "http://www.loyalbooks.com/book/commentary-on-the-gospel-of-luke-sermons-57-65-by-cyril-of-alexandria/feed",
+    "title": "Commentary on the Gospel of Luke, Sermons 57-65 by Cyril of Alexandria",
+    "author": "Loyal Books",
+    "speaker_display": "Loyal Books",
+    "speaker_slug": "loyal-books",
+    "description": "Sermons 57 through 65 cover the Gospel According to Luke 9:57 to 10:21. - Summary by the Reader",
+    "artwork_url": "http://www.loyalbooks.com/image/ui/default-feed.jpg",
+    "website_url": "http://www.loyalbooks.com/book/commentary-on-the-gospel-of-luke-sermons-57-65-by-cyril-of-alexandria",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -11904,6 +13632,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://anchor.fm/s/8b60078/podcast/rss",
+    "title": "Preaching Pentecostal Truths",
+    "author": "Lorraine Register",
+    "speaker_display": "Lorraine Register",
+    "speaker_slug": "lorraine-register",
+    "description": "We wi be posting and sharing sermons preached by men of old like Missionary/Evangelist A.N Trotter and others . The purpose of this podcast is to give those who have never had the opportunity to hear these great men God. We pray that you will take the time to listen because the messages are just as they were preached in your church this past Sunday. Still so prevalent for today... enjoy and be blessed.",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1361454/1361454-1548126640928-e6c40b69241fe.jpg",
+    "website_url": "https://podcasters.spotify.com/pod/show/lorraine-register",
+    "tradition": "charismatic",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://feed.podbean.com/insightwithkarlfaase/feed.xml",
     "title": "Insight with Karl Faase",
     "author": "Olive Tree Media",
@@ -11940,6 +13680,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://bayoubaptist.podomatic.com/rss2.xml",
+    "title": "Bayou Baptist Pulpit Preaching",
+    "author": "Bayou Drive Baptist Church",
+    "speaker_display": "Bayou Drive Baptist Church",
+    "speaker_slug": "bayou-drive-baptist-church",
+    "description": "A friendly church just 30 minutes south of Houston's downtown emphasizing text-driven Bible preaching.",
+    "artwork_url": "https://bayoubaptist.podomatic.com/images/default/B-1400.png",
+    "website_url": "https://www.podomatic.com/podcasts/bayoubaptist",
+    "tradition": "baptist",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://www.spreaker.com/show/4865312/episodes/feed",
     "title": "EASTER SERMONS",
     "author": "Pastor Robert Griffith",
@@ -11960,6 +13712,30 @@
     "description": "<p>The Preaching Magazine Podcast is where preaching and practice meet. Each episode features conversations with pastors, scholars, and ministry leaders who share insights on the craft of preaching, the challenges facing today’s church, and the timeless power of God’s Word. Whether you’re stepping into the pulpit for the first time or have decades of ministry experience, this podcast will equip, encourage, and inspire you to preach with clarity, conviction, and creativity.</p>",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/67/ba/bc/67babcef-759b-af83-8dcd-1398c2bcf779/mza_384206045232525771.jpg/600x600bb.jpg",
     "website_url": "https://preachingmagazine.podbean.com",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:322963244/sounds.rss",
+    "title": "Christ Covenant PC Sunday Sermons",
+    "author": "Christ Covenant Presbyterian Church",
+    "speaker_display": "Christ Covenant Presbyterian Church",
+    "speaker_slug": "christ-covenant-presbyterian-church",
+    "description": "Christ Covenant Presbyterian Church of the Greater Atlanta area currently worships and serves in Peachtree Corners, GA. We are part of the Presbyterian Church in America.",
+    "artwork_url": "https://i1.sndcdn.com/avatars-jhsRHfnvQPUOwMGW-aLxygA-original.jpg",
+    "website_url": "https://soundcloud.com/christ-covenant-presbyterian-church",
+    "tradition": "reformed",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://anchor.fm/s/2531c958/podcast/rss",
+    "title": "Preach!",
+    "author": "Cristiano Goncalves",
+    "speaker_display": "Cristiano Goncalves",
+    "speaker_slug": "cristiano-goncalves",
+    "description": "Aqui é pra ouvir sermão mesmo :) dos que prego por aí e acabam gravando. Espero que o Senhor fale contigo!\n\nMas se você quiser ouvir um podcast legítmo, procura o \"Na Porta da Igreja\" que faço com amigos conversando sobre teologia! \n\n@cristianofgoncalves",
+    "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/6140198/6140198-1591498820355-7c8f8e0a0f974.jpg",
+    "website_url": "https://podcasters.spotify.com/pod/show/preach-cristiano",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -11988,6 +13764,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://jilchurch.podomatic.com/rss2.xml",
+    "title": "Jesus Is Lord (live Preaching)",
+    "author": "Jesus Is Lord Church",
+    "speaker_display": "Jesus Is Lord Church",
+    "speaker_slug": "jesus-is-lord-church",
+    "description": "Faith Comes by hearing, and hearing by the word of God. Romans 10:17",
+    "artwork_url": "https://assets.podomatic.net/ts/74/40/24/dailyfaith2017/3000x3000_11906098.jpg",
+    "website_url": "https://www.podomatic.com/podcasts/jilchurch",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://telugumessages.podomatic.com/rss2.xml",
     "title": "Telugu Christian Sermons",
     "author": "John Vunnamatla",
@@ -12008,6 +13796,18 @@
     "description": "Mini sermons for the disillusioned, the deconstructed, the tired-of-church, or those who’ve never stepped inside one, but still feel drawn to explore Christian spirituality through God’s Word. No matter how you arrive, this space is for you.",
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/cd/02/51cd0215-9ed9-5229-2466-865d6a5ee5b8/mza_14355075438382752514.jpg/600x600bb.jpg",
     "website_url": "https://podcasters.spotify.com/pod/show/just-homilies",
+    "tradition": "evangelical",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:117367829/sounds.rss",
+    "title": "Pastor Kenny's Sermons",
+    "author": "Ken Campbell",
+    "speaker_display": "Ken Campbell",
+    "speaker_slug": "ken-campbell",
+    "description": "Podcast by Ken Campbell",
+    "artwork_url": "https://i1.sndcdn.com/avatars-000211430834-a4w870-original.jpg",
+    "website_url": "https://soundcloud.com/kenneth-gerald-campbell",
     "tradition": "evangelical",
     "theological_lean": "conservative"
   },
@@ -12036,6 +13836,18 @@
     "theological_lean": "conservative"
   },
   {
+    "feed_url": "https://rss.buzzsprout.com/56725.rss",
+    "title": "Sermons Out of Rural Ministry",
+    "author": "Pastor Josh Ehrler",
+    "speaker_display": "Pastor Josh Ehrler",
+    "speaker_slug": "pastor-josh-ehrler",
+    "description": "Dynamic, contextual sermons from Pastor Josh Ehrler, who serves a small town ELCA Lutheran congregation in Northern Illinois. Sermons are rooted in scripture and reflect the local community, as well as the movements of the wider world. He and his congregation are affirming of LGBTQ+ personhood and live out their baptismal promise to seek (racial, economic, identity, environmental) justice and peace.",
+    "artwork_url": "https://storage.buzzsprout.com/q5zjymvfvwvy4221qunl4xjlewys?.jpg",
+    "website_url": "http://trustngrace.wordpress.com/",
+    "tradition": "lutheran",
+    "theological_lean": "conservative"
+  },
+  {
     "feed_url": "https://anchor.fm/s/5b52f73c/podcast/rss",
     "title": "HOELY HOMILY",
     "author": "Rae Izah",
@@ -12045,6 +13857,18 @@
     "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a3/e9/53/a3e95364-6d7f-7f43-080a-1bed08230c13/mza_13009827751501830431.jpg/600x600bb.jpg",
     "website_url": "https://podcasters.spotify.com/pod/show/rae-izah",
     "tradition": "catholic",
+    "theological_lean": "conservative"
+  },
+  {
+    "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:248463455/sounds.rss",
+    "title": "EG Sunday Sermon",
+    "author": "Sheldon Williams",
+    "speaker_display": "Sheldon Williams",
+    "speaker_slug": "sheldon-williams",
+    "description": "Podcast by Sheldon Williams",
+    "artwork_url": "https://i1.sndcdn.com/avatars-000548537571-qrr1m0-original.jpg",
+    "website_url": "https://soundcloud.com/user-927650529",
+    "tradition": "evangelical",
     "theological_lean": "conservative"
   },
   {
