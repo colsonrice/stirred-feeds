@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-04-16T20:38:25.397199+00:00",
-  "feed_count": 1157,
-  "version": 1776371905,
+  "generated_at": "2026-04-20T08:27:36.941552+00:00",
+  "feed_count": 1175,
+  "version": 1776673656,
   "traditions": {
-    "evangelical": 855,
-    "catholic": 86,
-    "baptist": 82,
-    "reformed": 50,
-    "charismatic": 24,
+    "evangelical": 870,
+    "baptist": 87,
+    "catholic": 85,
+    "reformed": 56,
+    "charismatic": 27,
     "lutheran": 20,
-    "methodist": 19,
-    "episcopal": 12,
-    "orthodox": 9
+    "methodist": 14,
+    "episcopal": 10,
+    "orthodox": 6
   },
   "sources": {
-    "itunes-search": 662,
-    "itunes-chart": 348,
-    "podcast-index": 147
+    "itunes-search": 664,
+    "itunes-chart": 363,
+    "podcast-index": 148
   },
   "popularity": {
-    "feeds_with_signal": 470,
-    "feeds_without_signal": 687,
+    "feeds_with_signal": 469,
+    "feeds_without_signal": 706,
     "top20": [
       {
-        "speaker": "Lakepointe Church",
+        "speaker": "Ascension",
         "popularity": 1000
       },
       {
-        "speaker": "Ascension",
+        "speaker": "Lakepointe Church",
         "popularity": 995
       },
       {
@@ -36,71 +36,71 @@
       },
       {
         "speaker": "Hank Smith & John Bytheway",
-        "popularity": 980
+        "popularity": 985
       },
       {
-        "speaker": "2819 Church",
-        "popularity": 965
+        "speaker": "Tim Keller",
+        "popularity": 975
+      },
+      {
+        "speaker": "Blaze Podcast Network",
+        "popularity": 970
       },
       {
         "speaker": "BibleProject Podcast",
         "popularity": 960
       },
       {
-        "speaker": "Blaze Podcast Network",
+        "speaker": "The Robertson Family",
         "popularity": 955
       },
       {
-        "speaker": "The Robertson Family",
+        "speaker": "2819 Church",
         "popularity": 950
       },
       {
-        "speaker": "Tim Keller",
+        "speaker": "Messenger International, John Bevere",
         "popularity": 940
-      },
-      {
-        "speaker": "Ryan Miller",
-        "popularity": 935
       },
       {
         "speaker": "Matt Fradd",
         "popularity": 930
       },
       {
-        "speaker": "Messenger International, John Bevere",
-        "popularity": 925
-      },
-      {
-        "speaker": "Bryce Crawford",
-        "popularity": 920
-      },
-      {
-        "speaker": "The Perrys",
+        "speaker": "BEMA Discipleship",
         "popularity": 915
       },
       {
-        "speaker": "BEMA Discipleship",
+        "speaker": "Ryan Miller",
+        "popularity": 910
+      },
+      {
+        "speaker": "Bryce Crawford",
         "popularity": 905
       },
       {
-        "speaker": "PastorRick.com",
-        "popularity": 895
-      },
-      {
-        "speaker": "Girls Gone Bible",
-        "popularity": 895
-      },
-      {
-        "speaker": "Joby Martin & Kyle Thompson",
-        "popularity": 890
+        "speaker": "iHeartPodcasts",
+        "popularity": 900
       },
       {
         "speaker": "Ally Yost",
+        "popularity": 895
+      },
+      {
+        "speaker": "PROCLAIM x BIBLEin365",
         "popularity": 885
+      },
+      {
+        "speaker": "Tara Brach",
+        "popularity": 880
       },
       {
         "speaker": "Keeping Families Connected",
         "popularity": 875
+      },
+      {
+        "speaker": "The Perrys",
+        "popularity": 870
       }
     ]
   },
