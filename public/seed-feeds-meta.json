@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-04-27T08:41:37.733205+00:00",
-  "feed_count": 1160,
-  "version": 1777279297,
+  "generated_at": "2026-05-04T08:43:01.599177+00:00",
+  "feed_count": 1176,
+  "version": 1777884181,
   "traditions": {
-    "evangelical": 860,
-    "baptist": 96,
-    "catholic": 84,
-    "reformed": 45,
-    "charismatic": 25,
-    "lutheran": 22,
-    "methodist": 14,
-    "episcopal": 8,
-    "orthodox": 6
+    "evangelical": 875,
+    "baptist": 89,
+    "catholic": 81,
+    "reformed": 53,
+    "lutheran": 26,
+    "charismatic": 24,
+    "methodist": 15,
+    "episcopal": 9,
+    "orthodox": 4
   },
   "sources": {
-    "itunes-search": 664,
-    "itunes-chart": 354,
-    "podcast-index": 142
+    "itunes-search": 676,
+    "itunes-chart": 359,
+    "podcast-index": 141
   },
   "popularity": {
-    "feeds_with_signal": 465,
-    "feeds_without_signal": 695,
+    "feeds_with_signal": 463,
+    "feeds_without_signal": 713,
     "top20": [
       {
         "speaker": "Ascension",
@@ -39,68 +39,68 @@
         "popularity": 985
       },
       {
+        "speaker": "Blaze Podcast Network",
+        "popularity": 980
+      },
+      {
         "speaker": "Tim Keller",
         "popularity": 975
       },
       {
-        "speaker": "The Robertson Family",
-        "popularity": 970
-      },
-      {
-        "speaker": "BibleProject Podcast",
+        "speaker": "2819 Church",
         "popularity": 965
       },
       {
-        "speaker": "Blaze Podcast Network",
+        "speaker": "BibleProject Podcast",
         "popularity": 960
       },
       {
-        "speaker": "2819 Church",
+        "speaker": "The Robertson Family",
         "popularity": 955
       },
       {
+        "speaker": "Bryce Crawford",
+        "popularity": 950
+      },
+      {
+        "speaker": "Dr. David Jeremiah",
+        "popularity": 935
+      },
+      {
         "speaker": "Matt Fradd",
-        "popularity": 930
+        "popularity": 925
       },
       {
         "speaker": "BEMA Discipleship",
-        "popularity": 920
-      },
-      {
-        "speaker": "Messenger International, John Bevere",
-        "popularity": 915
-      },
-      {
-        "speaker": "Dr. John Dehlin",
-        "popularity": 905
+        "popularity": 910
       },
       {
         "speaker": "Tara Brach",
         "popularity": 900
       },
       {
-        "speaker": "CandyRock",
-        "popularity": 900
-      },
-      {
-        "speaker": "Bryce Crawford",
+        "speaker": "Ally Yost",
         "popularity": 890
       },
       {
-        "speaker": "Ally Yost",
+        "speaker": "Ryan Miller",
         "popularity": 885
       },
       {
-        "speaker": "Ryan Miller",
+        "speaker": "PROCLAIM x BIBLEin365",
         "popularity": 880
       },
       {
-        "speaker": "PROCLAIM x BIBLEin365",
+        "speaker": "Dr. John Dehlin",
+        "popularity": 875
+      },
+      {
+        "speaker": "Keeping Families Connected",
         "popularity": 875
       },
       {
         "speaker": "PastorRick.com",
-        "popularity": 865
+        "popularity": 870
       }
     ]
   },
