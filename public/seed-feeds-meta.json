@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-05-11T09:59:52.479615+00:00",
-  "feed_count": 1163,
-  "version": 1778493592,
+  "generated_at": "2026-05-18T10:40:48.721477+00:00",
+  "feed_count": 1188,
+  "version": 1779100848,
   "traditions": {
-    "evangelical": 869,
-    "baptist": 91,
-    "catholic": 78,
+    "evangelical": 892,
+    "baptist": 86,
+    "catholic": 84,
     "reformed": 47,
-    "lutheran": 24,
-    "charismatic": 24,
-    "methodist": 16,
-    "episcopal": 9,
-    "orthodox": 5
+    "lutheran": 25,
+    "charismatic": 21,
+    "methodist": 19,
+    "episcopal": 10,
+    "orthodox": 4
   },
   "sources": {
-    "itunes-search": 685,
-    "itunes-chart": 338,
-    "podcast-index": 140
+    "itunes-search": 663,
+    "itunes-chart": 379,
+    "podcast-index": 146
   },
   "popularity": {
-    "feeds_with_signal": 451,
-    "feeds_without_signal": 712,
+    "feeds_with_signal": 479,
+    "feeds_without_signal": 709,
     "top20": [
       {
         "speaker": "Ascension",
@@ -44,42 +44,50 @@
       },
       {
         "speaker": "The Robertson Family",
-        "popularity": 975
+        "popularity": 970
       },
       {
         "speaker": "BibleProject Podcast",
         "popularity": 965
       },
       {
-        "speaker": "2819 Church",
+        "speaker": "Blaze Podcast Network",
         "popularity": 960
       },
       {
-        "speaker": "Blaze Podcast Network",
+        "speaker": "2819 Church",
         "popularity": 955
       },
       {
-        "speaker": "Matt Fradd",
+        "speaker": "BEMA Discipleship",
         "popularity": 925
       },
       {
-        "speaker": "Bryce Crawford",
+        "speaker": "Matt Fradd",
         "popularity": 920
       },
       {
-        "speaker": "BEMA Discipleship",
-        "popularity": 910
-      },
-      {
-        "speaker": "Tara Brach",
+        "speaker": "PastorRick.com",
         "popularity": 905
       },
       {
-        "speaker": "PROCLAIM x BIBLEin365",
-        "popularity": 900
+        "speaker": "Bryce Crawford",
+        "popularity": 905
       },
       {
-        "speaker": "PastorRick.com",
+        "speaker": "Tara Brach",
+        "popularity": 890
+      },
+      {
+        "speaker": "PROCLAIM x BIBLEin365",
+        "popularity": 890
+      },
+      {
+        "speaker": "The Perrys",
+        "popularity": 885
+      },
+      {
+        "speaker": "Dr. John Dehlin",
         "popularity": 880
       },
       {
@@ -87,20 +95,12 @@
         "popularity": 880
       },
       {
-        "speaker": "Bishop Robert Barron",
+        "speaker": "Keeping Families Connected",
         "popularity": 870
       },
       {
-        "speaker": "The Perrys",
+        "speaker": "Bishop Robert Barron",
         "popularity": 865
-      },
-      {
-        "speaker": "Dr. Frank Turek",
-        "popularity": 855
-      },
-      {
-        "speaker": "Ryan Bethea, Fr. Carlos Martins",
-        "popularity": 855
       }
     ]
   },
