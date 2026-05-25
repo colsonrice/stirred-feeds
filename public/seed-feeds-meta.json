@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-05-18T10:40:48.721477+00:00",
-  "feed_count": 1188,
-  "version": 1779100848,
+  "generated_at": "2026-05-25T10:47:38.458095+00:00",
+  "feed_count": 1175,
+  "version": 1779706058,
   "traditions": {
-    "evangelical": 892,
-    "baptist": 86,
-    "catholic": 84,
-    "reformed": 47,
+    "evangelical": 869,
+    "baptist": 89,
+    "catholic": 87,
+    "reformed": 44,
+    "charismatic": 27,
     "lutheran": 25,
-    "charismatic": 21,
-    "methodist": 19,
-    "episcopal": 10,
-    "orthodox": 4
+    "methodist": 16,
+    "episcopal": 13,
+    "orthodox": 5
   },
   "sources": {
     "itunes-search": 663,
-    "itunes-chart": 379,
-    "podcast-index": 146
+    "itunes-chart": 374,
+    "podcast-index": 138
   },
   "popularity": {
-    "feeds_with_signal": 479,
-    "feeds_without_signal": 709,
+    "feeds_with_signal": 478,
+    "feeds_without_signal": 697,
     "top20": [
       {
         "speaker": "Ascension",
         "popularity": 1000
       },
       {
-        "speaker": "Lakepointe Church",
+        "speaker": "Tara-Leigh Cobble",
         "popularity": 995
       },
       {
-        "speaker": "Tara-Leigh Cobble",
+        "speaker": "Hank Smith & John Bytheway",
         "popularity": 990
       },
       {
-        "speaker": "Hank Smith & John Bytheway",
+        "speaker": "Lakepointe Church",
         "popularity": 985
       },
       {
@@ -48,58 +48,58 @@
       },
       {
         "speaker": "BibleProject Podcast",
-        "popularity": 965
-      },
-      {
-        "speaker": "Blaze Podcast Network",
         "popularity": 960
       },
       {
-        "speaker": "2819 Church",
+        "speaker": "Bryce Crawford",
         "popularity": 955
       },
       {
-        "speaker": "BEMA Discipleship",
-        "popularity": 925
+        "speaker": "2819 Church",
+        "popularity": 950
       },
       {
         "speaker": "Matt Fradd",
-        "popularity": 920
+        "popularity": 945
       },
       {
-        "speaker": "PastorRick.com",
-        "popularity": 905
+        "speaker": "Blaze Podcast Network",
+        "popularity": 940
       },
       {
-        "speaker": "Bryce Crawford",
+        "speaker": "BEMA Discipleship",
         "popularity": 905
       },
       {
         "speaker": "Tara Brach",
-        "popularity": 890
+        "popularity": 900
       },
       {
         "speaker": "PROCLAIM x BIBLEin365",
+        "popularity": 900
+      },
+      {
+        "speaker": "Mike Winger",
+        "popularity": 895
+      },
+      {
+        "speaker": "PastorRick.com",
         "popularity": 890
       },
       {
-        "speaker": "The Perrys",
+        "speaker": "Dr. John Dehlin",
         "popularity": 885
       },
       {
-        "speaker": "Dr. John Dehlin",
-        "popularity": 880
+        "speaker": "Bishop Robert Barron",
+        "popularity": 885
       },
       {
         "speaker": "Life.Church",
-        "popularity": 880
+        "popularity": 875
       },
       {
-        "speaker": "Keeping Families Connected",
-        "popularity": 870
-      },
-      {
-        "speaker": "Bishop Robert Barron",
+        "speaker": "Ryan Miller",
         "popularity": 865
       }
     ]
