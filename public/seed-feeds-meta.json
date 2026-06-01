@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-05-25T10:47:38.458095+00:00",
-  "feed_count": 1175,
-  "version": 1779706058,
+  "generated_at": "2026-06-01T12:09:04.825577+00:00",
+  "feed_count": 1159,
+  "version": 1780315744,
   "traditions": {
-    "evangelical": 869,
-    "baptist": 89,
-    "catholic": 87,
-    "reformed": 44,
-    "charismatic": 27,
-    "lutheran": 25,
-    "methodist": 16,
-    "episcopal": 13,
+    "evangelical": 863,
+    "baptist": 92,
+    "catholic": 79,
+    "reformed": 47,
+    "lutheran": 23,
+    "charismatic": 23,
+    "methodist": 18,
+    "episcopal": 9,
     "orthodox": 5
   },
   "sources": {
-    "itunes-search": 663,
-    "itunes-chart": 374,
-    "podcast-index": 138
+    "itunes-search": 658,
+    "itunes-chart": 362,
+    "podcast-index": 139
   },
   "popularity": {
-    "feeds_with_signal": 478,
-    "feeds_without_signal": 697,
+    "feeds_with_signal": 461,
+    "feeds_without_signal": 698,
     "top20": [
       {
         "speaker": "Ascension",
@@ -47,7 +47,7 @@
         "popularity": 970
       },
       {
-        "speaker": "BibleProject Podcast",
+        "speaker": "Blaze Podcast Network",
         "popularity": 960
       },
       {
@@ -55,52 +55,52 @@
         "popularity": 955
       },
       {
-        "speaker": "2819 Church",
+        "speaker": "BibleProject Podcast",
         "popularity": 950
       },
       {
-        "speaker": "Matt Fradd",
-        "popularity": 945
+        "speaker": "2819 Church",
+        "popularity": 930
       },
       {
-        "speaker": "Blaze Podcast Network",
-        "popularity": 940
+        "speaker": "Matt Fradd",
+        "popularity": 925
       },
       {
         "speaker": "BEMA Discipleship",
+        "popularity": 910
+      },
+      {
+        "speaker": "Fr. Andrew Stephen Damick, Fr. Stephen De Young, and Ancient Faith Ministries",
         "popularity": 905
       },
       {
         "speaker": "Tara Brach",
-        "popularity": 900
-      },
-      {
-        "speaker": "PROCLAIM x BIBLEin365",
-        "popularity": 900
-      },
-      {
-        "speaker": "Mike Winger",
         "popularity": 895
       },
       {
-        "speaker": "PastorRick.com",
+        "speaker": "PROCLAIM x BIBLEin365",
+        "popularity": 895
+      },
+      {
+        "speaker": "Fr. Stephen De Young, and Ancient Faith Ministries",
         "popularity": 890
       },
       {
-        "speaker": "Dr. John Dehlin",
-        "popularity": 885
-      },
-      {
-        "speaker": "Bishop Robert Barron",
+        "speaker": "PastorRick.com",
         "popularity": 885
       },
       {
         "speaker": "Life.Church",
-        "popularity": 875
+        "popularity": 885
       },
       {
-        "speaker": "Ryan Miller",
-        "popularity": 865
+        "speaker": "Dr. John Dehlin",
+        "popularity": 880
+      },
+      {
+        "speaker": "Mike Winger",
+        "popularity": 875
       }
     ]
   },
