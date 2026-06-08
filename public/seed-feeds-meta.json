@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-06-01T12:09:04.825577+00:00",
-  "feed_count": 1159,
-  "version": 1780315744,
+  "generated_at": "2026-06-08T11:20:41.920723+00:00",
+  "feed_count": 1144,
+  "version": 1780917641,
   "traditions": {
-    "evangelical": 863,
-    "baptist": 92,
-    "catholic": 79,
-    "reformed": 47,
+    "evangelical": 852,
+    "baptist": 94,
+    "catholic": 84,
+    "reformed": 42,
     "lutheran": 23,
-    "charismatic": 23,
-    "methodist": 18,
-    "episcopal": 9,
-    "orthodox": 5
+    "charismatic": 20,
+    "methodist": 16,
+    "episcopal": 7,
+    "orthodox": 6
   },
   "sources": {
-    "itunes-search": 658,
-    "itunes-chart": 362,
-    "podcast-index": 139
+    "itunes-search": 650,
+    "itunes-chart": 354,
+    "podcast-index": 140
   },
   "popularity": {
-    "feeds_with_signal": 461,
-    "feeds_without_signal": 698,
+    "feeds_with_signal": 448,
+    "feeds_without_signal": 696,
     "top20": [
       {
         "speaker": "Ascension",
         "popularity": 1000
       },
       {
-        "speaker": "Tara-Leigh Cobble",
+        "speaker": "Hank Smith & John Bytheway",
         "popularity": 995
       },
       {
-        "speaker": "Hank Smith & John Bytheway",
+        "speaker": "Lakepointe Church",
         "popularity": 990
       },
       {
-        "speaker": "Lakepointe Church",
+        "speaker": "Tara-Leigh Cobble",
         "popularity": 985
       },
       {
         "speaker": "Tim Keller",
-        "popularity": 980
+        "popularity": 975
       },
       {
         "speaker": "The Robertson Family",
@@ -51,56 +51,56 @@
         "popularity": 960
       },
       {
-        "speaker": "Bryce Crawford",
+        "speaker": "BibleProject Podcast",
         "popularity": 955
       },
       {
-        "speaker": "BibleProject Podcast",
+        "speaker": "Bryce Crawford",
         "popularity": 950
       },
       {
         "speaker": "2819 Church",
-        "popularity": 930
+        "popularity": 940
       },
       {
         "speaker": "Matt Fradd",
-        "popularity": 925
-      },
-      {
-        "speaker": "BEMA Discipleship",
-        "popularity": 910
-      },
-      {
-        "speaker": "Fr. Andrew Stephen Damick, Fr. Stephen De Young, and Ancient Faith Ministries",
-        "popularity": 905
+        "popularity": 920
       },
       {
         "speaker": "Tara Brach",
-        "popularity": 895
+        "popularity": 900
+      },
+      {
+        "speaker": "BEMA Discipleship",
+        "popularity": 900
       },
       {
         "speaker": "PROCLAIM x BIBLEin365",
         "popularity": 895
       },
       {
-        "speaker": "Fr. Stephen De Young, and Ancient Faith Ministries",
-        "popularity": 890
-      },
-      {
-        "speaker": "PastorRick.com",
-        "popularity": 885
-      },
-      {
         "speaker": "Life.Church",
         "popularity": 885
       },
       {
-        "speaker": "Dr. John Dehlin",
+        "speaker": "The Perrys",
         "popularity": 880
       },
       {
-        "speaker": "Mike Winger",
-        "popularity": 875
+        "speaker": "PastorRick.com",
+        "popularity": 870
+      },
+      {
+        "speaker": "Ryan Bethea, Fr. Carlos Martins",
+        "popularity": 865
+      },
+      {
+        "speaker": "Keeping Families Connected",
+        "popularity": 865
+      },
+      {
+        "speaker": "Ally Yost",
+        "popularity": 860
       }
     ]
   },
