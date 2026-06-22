@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-15T12:42:17.349828+00:00",
-  "feed_count": 1165,
-  "version": 1781527337,
+  "generated_at": "2026-06-22T12:25:05.678305+00:00",
+  "feed_count": 1189,
+  "version": 1782131105,
   "traditions": {
-    "evangelical": 861,
-    "baptist": 101,
-    "catholic": 82,
-    "reformed": 44,
-    "lutheran": 24,
-    "charismatic": 23,
+    "evangelical": 883,
+    "baptist": 92,
+    "catholic": 90,
+    "reformed": 48,
+    "charismatic": 24,
+    "lutheran": 23,
     "methodist": 17,
-    "episcopal": 8,
+    "episcopal": 7,
     "orthodox": 5
   },
   "sources": {
-    "itunes-search": 651,
-    "itunes-chart": 364,
-    "podcast-index": 150
+    "itunes-search": 657,
+    "itunes-chart": 384,
+    "podcast-index": 148
   },
   "popularity": {
-    "feeds_with_signal": 476,
-    "feeds_without_signal": 689,
+    "feeds_with_signal": 490,
+    "feeds_without_signal": 699,
     "top20": [
       {
         "speaker": "Ascension",
@@ -31,11 +31,11 @@
         "popularity": 995
       },
       {
-        "speaker": "Tara-Leigh Cobble",
+        "speaker": "Lakepointe Church",
         "popularity": 990
       },
       {
-        "speaker": "Lakepointe Church",
+        "speaker": "Tara-Leigh Cobble",
         "popularity": 985
       },
       {
@@ -47,20 +47,16 @@
         "popularity": 975
       },
       {
-        "speaker": "We Need To Talk Podcast",
-        "popularity": 960
+        "speaker": "The Robertson Family",
+        "popularity": 965
       },
       {
-        "speaker": "The Robertson Family",
-        "popularity": 955
+        "speaker": "BibleProject Podcast",
+        "popularity": 960
       },
       {
         "speaker": "Bryce Crawford",
         "popularity": 950
-      },
-      {
-        "speaker": "BibleProject Podcast",
-        "popularity": 945
       },
       {
         "speaker": "2819 Church",
@@ -68,39 +64,43 @@
       },
       {
         "speaker": "Matt Fradd",
-        "popularity": 915
-      },
-      {
-        "speaker": "Tara Brach",
-        "popularity": 905
+        "popularity": 925
       },
       {
         "speaker": "BEMA Discipleship",
+        "popularity": 905
+      },
+      {
+        "speaker": "We Need To Talk Podcast",
+        "popularity": 900
+      },
+      {
+        "speaker": "Tara Brach",
         "popularity": 895
       },
       {
-        "speaker": "Openlight Media",
+        "speaker": "PROCLAIM x BIBLEin365",
+        "popularity": 895
+      },
+      {
+        "speaker": "Bishop Robert Barron",
         "popularity": 890
       },
       {
-        "speaker": "PROCLAIM x BIBLEin365",
+        "speaker": "PastorRick.com",
         "popularity": 880
       },
       {
-        "speaker": "PastorRick.com",
-        "popularity": 875
-      },
-      {
-        "speaker": "Life.Church",
-        "popularity": 875
-      },
-      {
-        "speaker": "Phillip Anthony Mitchell & Tim Timberlake",
+        "speaker": "Greg Laurie",
         "popularity": 870
       },
       {
-        "speaker": "The Perrys",
+        "speaker": "Life.Church",
         "popularity": 860
+      },
+      {
+        "speaker": "Phillip Anthony Mitchell & Tim Timberlake",
+        "popularity": 855
       }
     ]
   },
