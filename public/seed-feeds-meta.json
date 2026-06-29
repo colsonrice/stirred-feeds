@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-22T12:25:05.678305+00:00",
-  "feed_count": 1189,
-  "version": 1782131105,
+  "generated_at": "2026-06-29T11:23:07.207743+00:00",
+  "feed_count": 1147,
+  "version": 1782732187,
   "traditions": {
-    "evangelical": 883,
-    "baptist": 92,
-    "catholic": 90,
-    "reformed": 48,
-    "charismatic": 24,
-    "lutheran": 23,
-    "methodist": 17,
-    "episcopal": 7,
+    "evangelical": 838,
+    "catholic": 86,
+    "baptist": 86,
+    "reformed": 52,
+    "charismatic": 26,
+    "lutheran": 25,
+    "methodist": 20,
+    "episcopal": 9,
     "orthodox": 5
   },
   "sources": {
-    "itunes-search": 657,
-    "itunes-chart": 384,
-    "podcast-index": 148
+    "itunes-search": 660,
+    "itunes-chart": 341,
+    "podcast-index": 146
   },
   "popularity": {
-    "feeds_with_signal": 490,
-    "feeds_without_signal": 699,
+    "feeds_with_signal": 454,
+    "feeds_without_signal": 693,
     "top20": [
       {
         "speaker": "Ascension",
@@ -31,11 +31,11 @@
         "popularity": 995
       },
       {
-        "speaker": "Lakepointe Church",
+        "speaker": "Tara-Leigh Cobble",
         "popularity": 990
       },
       {
-        "speaker": "Tara-Leigh Cobble",
+        "speaker": "Lakepointe Church",
         "popularity": 985
       },
       {
@@ -44,7 +44,7 @@
       },
       {
         "speaker": "Blaze Podcast Network",
-        "popularity": 975
+        "popularity": 970
       },
       {
         "speaker": "The Robertson Family",
@@ -56,51 +56,51 @@
       },
       {
         "speaker": "Bryce Crawford",
-        "popularity": 950
+        "popularity": 945
       },
       {
         "speaker": "2819 Church",
-        "popularity": 930
+        "popularity": 925
+      },
+      {
+        "speaker": "Hayden Tank",
+        "popularity": 925
       },
       {
         "speaker": "Matt Fradd",
-        "popularity": 925
+        "popularity": 910
+      },
+      {
+        "speaker": "Tara Brach",
+        "popularity": 905
       },
       {
         "speaker": "BEMA Discipleship",
         "popularity": 905
       },
       {
-        "speaker": "We Need To Talk Podcast",
+        "speaker": "PROCLAIM x BIBLEin365",
         "popularity": 900
       },
       {
-        "speaker": "Tara Brach",
-        "popularity": 895
-      },
-      {
-        "speaker": "PROCLAIM x BIBLEin365",
-        "popularity": 895
-      },
-      {
-        "speaker": "Bishop Robert Barron",
+        "speaker": "Life.Church",
         "popularity": 890
       },
       {
-        "speaker": "PastorRick.com",
+        "speaker": "Ally Yost",
         "popularity": 880
       },
       {
-        "speaker": "Greg Laurie",
+        "speaker": "PastorRick.com",
+        "popularity": 875
+      },
+      {
+        "speaker": "Openlight Media",
+        "popularity": 875
+      },
+      {
+        "speaker": "Bishop Robert Barron",
         "popularity": 870
-      },
-      {
-        "speaker": "Life.Church",
-        "popularity": 860
-      },
-      {
-        "speaker": "Phillip Anthony Mitchell & Tim Timberlake",
-        "popularity": 855
       }
     ]
   },
