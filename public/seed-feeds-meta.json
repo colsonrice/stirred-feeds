@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-29T11:23:07.207743+00:00",
-  "feed_count": 1147,
-  "version": 1782732187,
+  "generated_at": "2026-07-06T11:01:13.110736+00:00",
+  "feed_count": 1156,
+  "version": 1783335673,
   "traditions": {
-    "evangelical": 838,
-    "catholic": 86,
-    "baptist": 86,
-    "reformed": 52,
-    "charismatic": 26,
-    "lutheran": 25,
-    "methodist": 20,
-    "episcopal": 9,
-    "orthodox": 5
+    "evangelical": 850,
+    "catholic": 87,
+    "baptist": 84,
+    "reformed": 53,
+    "lutheran": 26,
+    "charismatic": 23,
+    "methodist": 19,
+    "orthodox": 8,
+    "episcopal": 6
   },
   "sources": {
-    "itunes-search": 660,
-    "itunes-chart": 341,
-    "podcast-index": 146
+    "itunes-search": 659,
+    "itunes-chart": 354,
+    "podcast-index": 143
   },
   "popularity": {
-    "feeds_with_signal": 454,
-    "feeds_without_signal": 693,
+    "feeds_with_signal": 451,
+    "feeds_without_signal": 705,
     "top20": [
       {
         "speaker": "Ascension",
@@ -43,43 +43,43 @@
         "popularity": 980
       },
       {
-        "speaker": "Blaze Podcast Network",
+        "speaker": "The Robertson Family",
         "popularity": 970
       },
       {
-        "speaker": "The Robertson Family",
+        "speaker": "BibleProject Podcast",
         "popularity": 965
       },
       {
-        "speaker": "BibleProject Podcast",
-        "popularity": 960
-      },
-      {
         "speaker": "Bryce Crawford",
-        "popularity": 945
-      },
-      {
-        "speaker": "2819 Church",
-        "popularity": 925
-      },
-      {
-        "speaker": "Hayden Tank",
-        "popularity": 925
+        "popularity": 950
       },
       {
         "speaker": "Matt Fradd",
-        "popularity": 910
+        "popularity": 930
       },
       {
         "speaker": "Tara Brach",
-        "popularity": 905
+        "popularity": 925
+      },
+      {
+        "speaker": "Blaze Podcast Network",
+        "popularity": 925
+      },
+      {
+        "speaker": "2819 Church",
+        "popularity": 915
+      },
+      {
+        "speaker": "PROCLAIM x BIBLEin365",
+        "popularity": 910
       },
       {
         "speaker": "BEMA Discipleship",
         "popularity": 905
       },
       {
-        "speaker": "PROCLAIM x BIBLEin365",
+        "speaker": "PastorRick.com",
         "popularity": 900
       },
       {
@@ -87,20 +87,20 @@
         "popularity": 890
       },
       {
-        "speaker": "Ally Yost",
+        "speaker": "Greg Laurie",
         "popularity": 880
       },
       {
-        "speaker": "PastorRick.com",
+        "speaker": "Dr. John Dehlin",
         "popularity": 875
       },
       {
-        "speaker": "Openlight Media",
+        "speaker": "Dr. Frank Turek",
         "popularity": 875
       },
       {
-        "speaker": "Bishop Robert Barron",
-        "popularity": 870
+        "speaker": "The Perrys",
+        "popularity": 865
       }
     ]
   },
