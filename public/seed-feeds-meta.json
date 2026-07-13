@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-07-06T11:01:13.110736+00:00",
-  "feed_count": 1156,
-  "version": 1783335673,
+  "generated_at": "2026-07-13T09:46:55.464167+00:00",
+  "feed_count": 1161,
+  "version": 1783936015,
   "traditions": {
-    "evangelical": 850,
-    "catholic": 87,
-    "baptist": 84,
-    "reformed": 53,
-    "lutheran": 26,
+    "evangelical": 856,
+    "baptist": 92,
+    "catholic": 86,
+    "reformed": 49,
     "charismatic": 23,
-    "methodist": 19,
-    "orthodox": 8,
-    "episcopal": 6
+    "lutheran": 22,
+    "methodist": 18,
+    "episcopal": 9,
+    "orthodox": 6
   },
   "sources": {
-    "itunes-search": 659,
-    "itunes-chart": 354,
-    "podcast-index": 143
+    "itunes-search": 669,
+    "itunes-chart": 352,
+    "podcast-index": 140
   },
   "popularity": {
-    "feeds_with_signal": 451,
-    "feeds_without_signal": 705,
+    "feeds_with_signal": 460,
+    "feeds_without_signal": 701,
     "top20": [
       {
         "speaker": "Ascension",
         "popularity": 1000
       },
       {
-        "speaker": "Hank Smith & John Bytheway",
+        "speaker": "Tara-Leigh Cobble",
         "popularity": 995
       },
       {
-        "speaker": "Tara-Leigh Cobble",
+        "speaker": "Lakepointe Church",
         "popularity": 990
       },
       {
-        "speaker": "Lakepointe Church",
+        "speaker": "Hank Smith & John Bytheway",
         "popularity": 985
       },
       {
@@ -55,52 +55,52 @@
         "popularity": 950
       },
       {
-        "speaker": "Matt Fradd",
-        "popularity": 930
-      },
-      {
-        "speaker": "Tara Brach",
-        "popularity": 925
-      },
-      {
         "speaker": "Blaze Podcast Network",
-        "popularity": 925
+        "popularity": 945
       },
       {
         "speaker": "2819 Church",
+        "popularity": 935
+      },
+      {
+        "speaker": "Matt Fradd",
+        "popularity": 925
+      },
+      {
+        "speaker": "Tara Brach",
         "popularity": 915
       },
       {
-        "speaker": "PROCLAIM x BIBLEin365",
-        "popularity": 910
-      },
-      {
         "speaker": "BEMA Discipleship",
-        "popularity": 905
+        "popularity": 910
       },
       {
         "speaker": "PastorRick.com",
         "popularity": 900
       },
       {
-        "speaker": "Life.Church",
-        "popularity": 890
-      },
-      {
-        "speaker": "Greg Laurie",
-        "popularity": 880
-      },
-      {
-        "speaker": "Dr. John Dehlin",
-        "popularity": 875
+        "speaker": "PROCLAIM x BIBLEin365",
+        "popularity": 895
       },
       {
         "speaker": "Dr. Frank Turek",
+        "popularity": 880
+      },
+      {
+        "speaker": "Ally Yost",
         "popularity": 875
       },
       {
-        "speaker": "The Perrys",
+        "speaker": "Alisa Childers",
+        "popularity": 870
+      },
+      {
+        "speaker": "Life.Church",
         "popularity": 865
+      },
+      {
+        "speaker": "Girls Gone Bible",
+        "popularity": 860
       }
     ]
   },
