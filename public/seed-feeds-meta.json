@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-20T09:32:48.262392+00:00",
-  "feed_count": 1155,
-  "version": 1784539968,
+  "generated_at": "2026-07-27T10:07:28.727781+00:00",
+  "feed_count": 1145,
+  "version": 1785146848,
   "traditions": {
-    "evangelical": 848,
-    "baptist": 89,
-    "catholic": 80,
-    "reformed": 54,
-    "lutheran": 26,
-    "charismatic": 25,
-    "methodist": 19,
-    "episcopal": 9,
-    "orthodox": 5
+    "evangelical": 853,
+    "baptist": 84,
+    "catholic": 81,
+    "reformed": 46,
+    "lutheran": 23,
+    "charismatic": 22,
+    "methodist": 20,
+    "orthodox": 9,
+    "episcopal": 7
   },
   "sources": {
-    "itunes-search": 655,
-    "itunes-chart": 357,
-    "podcast-index": 143
+    "itunes-search": 637,
+    "itunes-chart": 370,
+    "podcast-index": 138
   },
   "popularity": {
-    "feeds_with_signal": 460,
-    "feeds_without_signal": 695,
+    "feeds_with_signal": 477,
+    "feeds_without_signal": 668,
     "top20": [
       {
         "speaker": "Ascension",
         "popularity": 1000
       },
       {
-        "speaker": "Lakepointe Church",
+        "speaker": "Tara-Leigh Cobble",
         "popularity": 995
       },
       {
@@ -35,7 +35,7 @@
         "popularity": 990
       },
       {
-        "speaker": "Tara-Leigh Cobble",
+        "speaker": "Lakepointe Church",
         "popularity": 985
       },
       {
@@ -43,11 +43,15 @@
         "popularity": 980
       },
       {
-        "speaker": "Openlight Media",
+        "speaker": "The Robertson Family",
         "popularity": 970
       },
       {
-        "speaker": "The Robertson Family",
+        "speaker": "Blaze Podcast Network",
+        "popularity": 965
+      },
+      {
+        "speaker": "Jim Alstott",
         "popularity": 965
       },
       {
@@ -59,48 +63,44 @@
         "popularity": 955
       },
       {
-        "speaker": "Blaze Podcast Network",
-        "popularity": 945
-      },
-      {
         "speaker": "Bryce Crawford",
-        "popularity": 940
+        "popularity": 935
       },
       {
         "speaker": "2819 Church",
         "popularity": 920
       },
       {
+        "speaker": "Tara Brach",
+        "popularity": 910
+      },
+      {
         "speaker": "PastorRick.com",
-        "popularity": 900
+        "popularity": 905
+      },
+      {
+        "speaker": "BEMA Discipleship",
+        "popularity": 905
       },
       {
         "speaker": "PROCLAIM x BIBLEin365",
         "popularity": 900
       },
       {
-        "speaker": "BEMA Discipleship",
+        "speaker": "Girls Gone Bible",
         "popularity": 895
       },
       {
-        "speaker": "Mike Day & Bryce Dunford",
-        "popularity": 895
-      },
-      {
-        "speaker": "Tara Brach",
-        "popularity": 885
+        "speaker": "Bishop Robert Barron",
+        "popularity": 890
       },
       {
         "speaker": "Ally Yost",
         "popularity": 885
       },
       {
-        "speaker": "The Perrys",
+        "speaker": "Life.Church",
         "popularity": 880
-      },
-      {
-        "speaker": "Bishop Robert Barron",
-        "popularity": 875
       }
     ]
   },
