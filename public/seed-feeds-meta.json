@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-07-27T10:07:28.727781+00:00",
-  "feed_count": 1145,
-  "version": 1785146848,
+  "generated_at": "2026-08-03T10:04:20.940919+00:00",
+  "feed_count": 1163,
+  "version": 1785751460,
   "traditions": {
-    "evangelical": 853,
-    "baptist": 84,
-    "catholic": 81,
-    "reformed": 46,
-    "lutheran": 23,
-    "charismatic": 22,
-    "methodist": 20,
-    "orthodox": 9,
-    "episcopal": 7
+    "evangelical": 866,
+    "baptist": 85,
+    "catholic": 84,
+    "reformed": 50,
+    "lutheran": 24,
+    "charismatic": 21,
+    "methodist": 19,
+    "episcopal": 8,
+    "orthodox": 6
   },
   "sources": {
-    "itunes-search": 637,
-    "itunes-chart": 370,
+    "itunes-search": 657,
+    "itunes-chart": 368,
     "podcast-index": 138
   },
   "popularity": {
     "feeds_with_signal": 477,
-    "feeds_without_signal": 668,
+    "feeds_without_signal": 686,
     "top20": [
       {
         "speaker": "Ascension",
@@ -51,56 +51,56 @@
         "popularity": 965
       },
       {
-        "speaker": "Jim Alstott",
-        "popularity": 965
-      },
-      {
         "speaker": "BibleProject Podcast",
         "popularity": 960
       },
       {
-        "speaker": "Matt Fradd",
+        "speaker": "Jim Alstott",
         "popularity": 955
+      },
+      {
+        "speaker": "Matt Fradd",
+        "popularity": 945
       },
       {
         "speaker": "Bryce Crawford",
         "popularity": 935
       },
       {
-        "speaker": "2819 Church",
-        "popularity": 920
-      },
-      {
         "speaker": "Tara Brach",
-        "popularity": 910
+        "popularity": 915
       },
       {
-        "speaker": "PastorRick.com",
-        "popularity": 905
+        "speaker": "2819 Church",
+        "popularity": 915
       },
       {
         "speaker": "BEMA Discipleship",
-        "popularity": 905
+        "popularity": 910
       },
       {
         "speaker": "PROCLAIM x BIBLEin365",
-        "popularity": 900
-      },
-      {
-        "speaker": "Girls Gone Bible",
-        "popularity": 895
-      },
-      {
-        "speaker": "Bishop Robert Barron",
-        "popularity": 890
+        "popularity": 905
       },
       {
         "speaker": "Ally Yost",
-        "popularity": 885
+        "popularity": 900
       },
       {
-        "speaker": "Life.Church",
-        "popularity": 880
+        "speaker": "Bishop Robert Barron",
+        "popularity": 895
+      },
+      {
+        "speaker": "PastorRick.com",
+        "popularity": 895
+      },
+      {
+        "speaker": "Dr. John Dehlin",
+        "popularity": 890
+      },
+      {
+        "speaker": "Colson Center",
+        "popularity": 885
       }
     ]
   },
