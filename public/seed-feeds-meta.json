@@ -1,106 +1,106 @@
 {
-  "generated_at": "2026-08-03T10:04:20.940919+00:00",
-  "feed_count": 1163,
-  "version": 1785751460,
+  "generated_at": "2026-08-10T08:02:59.458008+00:00",
+  "feed_count": 1170,
+  "version": 1786348979,
   "traditions": {
-    "evangelical": 866,
-    "baptist": 85,
-    "catholic": 84,
-    "reformed": 50,
+    "evangelical": 868,
+    "catholic": 87,
+    "baptist": 84,
+    "reformed": 54,
     "lutheran": 24,
-    "charismatic": 21,
-    "methodist": 19,
-    "episcopal": 8,
-    "orthodox": 6
+    "charismatic": 22,
+    "methodist": 16,
+    "orthodox": 8,
+    "episcopal": 7
   },
   "sources": {
-    "itunes-search": 657,
-    "itunes-chart": 368,
-    "podcast-index": 138
+    "itunes-search": 655,
+    "itunes-chart": 378,
+    "podcast-index": 137
   },
   "popularity": {
-    "feeds_with_signal": 477,
-    "feeds_without_signal": 686,
+    "feeds_with_signal": 479,
+    "feeds_without_signal": 691,
     "top20": [
       {
         "speaker": "Ascension",
         "popularity": 1000
       },
       {
-        "speaker": "Tara-Leigh Cobble",
+        "speaker": "Lakepointe Church",
         "popularity": 995
       },
       {
-        "speaker": "Hank Smith & John Bytheway",
+        "speaker": "Tara-Leigh Cobble",
         "popularity": 990
       },
       {
-        "speaker": "Lakepointe Church",
+        "speaker": "Hank Smith & John Bytheway",
         "popularity": 985
       },
       {
-        "speaker": "Tim Keller",
+        "speaker": "BibleProject Podcast",
         "popularity": 980
       },
       {
+        "speaker": "Tim Keller",
+        "popularity": 975
+      },
+      {
         "speaker": "The Robertson Family",
-        "popularity": 970
-      },
-      {
-        "speaker": "Blaze Podcast Network",
-        "popularity": 965
-      },
-      {
-        "speaker": "BibleProject Podcast",
         "popularity": 960
       },
       {
-        "speaker": "Jim Alstott",
+        "speaker": "Blaze Podcast Network",
         "popularity": 955
       },
       {
-        "speaker": "Matt Fradd",
-        "popularity": 945
+        "speaker": "BEMA Discipleship",
+        "popularity": 950
+      },
+      {
+        "speaker": "Jim Alstott",
+        "popularity": 940
       },
       {
         "speaker": "Bryce Crawford",
-        "popularity": 935
-      },
-      {
-        "speaker": "Tara Brach",
-        "popularity": 915
+        "popularity": 930
       },
       {
         "speaker": "2819 Church",
+        "popularity": 920
+      },
+      {
+        "speaker": "Matt Fradd",
         "popularity": 915
-      },
-      {
-        "speaker": "BEMA Discipleship",
-        "popularity": 910
-      },
-      {
-        "speaker": "PROCLAIM x BIBLEin365",
-        "popularity": 905
       },
       {
         "speaker": "Ally Yost",
         "popularity": 900
       },
       {
-        "speaker": "Bishop Robert Barron",
+        "speaker": "PROCLAIM x BIBLEin365",
         "popularity": 895
       },
       {
-        "speaker": "PastorRick.com",
-        "popularity": 895
-      },
-      {
-        "speaker": "Dr. John Dehlin",
+        "speaker": "Tara Brach",
         "popularity": 890
       },
       {
-        "speaker": "Colson Center",
+        "speaker": "Life.Church",
+        "popularity": 890
+      },
+      {
+        "speaker": "Denny Thompson and Joby Martin",
         "popularity": 885
+      },
+      {
+        "speaker": "Pastor Joby Martin",
+        "popularity": 880
+      },
+      {
+        "speaker": "PastorRick.com",
+        "popularity": 875
       }
     ]
   },
