@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-08-24T07:19:02.990859+00:00",
-  "feed_count": 1156,
-  "version": 1787555942,
+  "generated_at": "2026-08-31T13:43:37.822333+00:00",
+  "feed_count": 1175,
+  "version": 1788183817,
   "traditions": {
-    "evangelical": 852,
-    "baptist": 87,
-    "catholic": 85,
-    "reformed": 57,
-    "lutheran": 26,
-    "charismatic": 20,
-    "methodist": 15,
-    "episcopal": 7,
+    "evangelical": 856,
+    "baptist": 93,
+    "catholic": 80,
+    "reformed": 60,
+    "charismatic": 29,
+    "lutheran": 25,
+    "methodist": 17,
+    "episcopal": 8,
     "orthodox": 7
   },
   "sources": {
-    "itunes-search": 658,
-    "itunes-chart": 357,
-    "podcast-index": 141
+    "itunes-search": 661,
+    "itunes-chart": 372,
+    "podcast-index": 142
   },
   "popularity": {
-    "feeds_with_signal": 455,
-    "feeds_without_signal": 701,
+    "feeds_with_signal": 465,
+    "feeds_without_signal": 710,
     "top20": [
       {
         "speaker": "Ascension",
@@ -31,11 +31,11 @@
         "popularity": 995
       },
       {
-        "speaker": "Hank Smith & John Bytheway",
+        "speaker": "Tara-Leigh Cobble",
         "popularity": 990
       },
       {
-        "speaker": "Tara-Leigh Cobble",
+        "speaker": "Hank Smith & John Bytheway",
         "popularity": 985
       },
       {
@@ -47,43 +47,47 @@
         "popularity": 975
       },
       {
-        "speaker": "The Robertson Family",
+        "speaker": "Phillip Anthony Mitchell & Tim Timberlake",
+        "popularity": 970
+      },
+      {
+        "speaker": "Openlight Media",
         "popularity": 965
       },
       {
-        "speaker": "Blaze Podcast Network",
+        "speaker": "The Robertson Family",
         "popularity": 960
       },
       {
         "speaker": "BibleProject Podcast",
-        "popularity": 955
-      },
-      {
-        "speaker": "Matt Fradd",
         "popularity": 950
       },
       {
-        "speaker": "Phillip Anthony Mitchell & Tim Timberlake",
-        "popularity": 930
-      },
-      {
         "speaker": "2819 Church",
-        "popularity": 925
+        "popularity": 945
       },
       {
-        "speaker": "BEMA Discipleship",
-        "popularity": 915
+        "speaker": "Blaze Podcast Network",
+        "popularity": 940
       },
       {
         "speaker": "Bryce Crawford",
-        "popularity": 905
+        "popularity": 930
       },
       {
-        "speaker": "Ally Yost",
+        "speaker": "Matt Fradd",
+        "popularity": 910
+      },
+      {
+        "speaker": "Bryan Smith and Kellen Cowan",
+        "popularity": 900
+      },
+      {
+        "speaker": "BEMA Discipleship",
         "popularity": 895
       },
       {
-        "speaker": "PastorRick.com",
+        "speaker": "Tara Brach",
         "popularity": 890
       },
       {
@@ -91,15 +95,11 @@
         "popularity": 890
       },
       {
-        "speaker": "Tara Brach",
-        "popularity": 885
-      },
-      {
         "speaker": "Life.Church",
         "popularity": 885
       },
       {
-        "speaker": "Keeping Families Connected",
+        "speaker": "CandyRock",
         "popularity": 880
       }
     ]
