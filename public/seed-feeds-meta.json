@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-31T13:43:37.822333+00:00",
-  "feed_count": 1175,
-  "version": 1788183817,
+  "generated_at": "2026-09-07T12:26:43.904093+00:00",
+  "feed_count": 1176,
+  "version": 1788784003,
   "traditions": {
-    "evangelical": 856,
-    "baptist": 93,
+    "evangelical": 866,
+    "baptist": 95,
     "catholic": 80,
-    "reformed": 60,
-    "charismatic": 29,
-    "lutheran": 25,
-    "methodist": 17,
-    "episcopal": 8,
-    "orthodox": 7
+    "reformed": 54,
+    "lutheran": 24,
+    "charismatic": 24,
+    "methodist": 18,
+    "episcopal": 10,
+    "orthodox": 5
   },
   "sources": {
-    "itunes-search": 661,
-    "itunes-chart": 372,
-    "podcast-index": 142
+    "itunes-search": 669,
+    "itunes-chart": 368,
+    "podcast-index": 139
   },
   "popularity": {
-    "feeds_with_signal": 465,
+    "feeds_with_signal": 466,
     "feeds_without_signal": 710,
     "top20": [
       {
@@ -31,11 +31,11 @@
         "popularity": 995
       },
       {
-        "speaker": "Tara-Leigh Cobble",
+        "speaker": "Hank Smith & John Bytheway",
         "popularity": 990
       },
       {
-        "speaker": "Hank Smith & John Bytheway",
+        "speaker": "Tara-Leigh Cobble",
         "popularity": 985
       },
       {
@@ -43,15 +43,15 @@
         "popularity": 980
       },
       {
-        "speaker": "Jim Alstott",
+        "speaker": "Bryce Crawford",
         "popularity": 975
       },
       {
-        "speaker": "Phillip Anthony Mitchell & Tim Timberlake",
-        "popularity": 970
+        "speaker": "Blaze Podcast Network",
+        "popularity": 965
       },
       {
-        "speaker": "Openlight Media",
+        "speaker": "Jim Alstott",
         "popularity": 965
       },
       {
@@ -63,44 +63,44 @@
         "popularity": 950
       },
       {
-        "speaker": "2819 Church",
-        "popularity": 945
-      },
-      {
-        "speaker": "Blaze Podcast Network",
+        "speaker": "Phillip Anthony Mitchell & Tim Timberlake",
         "popularity": 940
       },
       {
-        "speaker": "Bryce Crawford",
+        "speaker": "2819 Church",
         "popularity": 930
       },
       {
-        "speaker": "Matt Fradd",
-        "popularity": 910
+        "speaker": "Alisa Childers",
+        "popularity": 920
       },
       {
-        "speaker": "Bryan Smith and Kellen Cowan",
+        "speaker": "Tara Brach",
+        "popularity": 905
+      },
+      {
+        "speaker": "Pastor Joby Martin",
+        "popularity": 905
+      },
+      {
+        "speaker": "Matt Fradd",
         "popularity": 900
       },
       {
         "speaker": "BEMA Discipleship",
-        "popularity": 895
-      },
-      {
-        "speaker": "Tara Brach",
         "popularity": 890
       },
       {
         "speaker": "PROCLAIM x BIBLEin365",
-        "popularity": 890
-      },
-      {
-        "speaker": "Life.Church",
         "popularity": 885
       },
       {
-        "speaker": "CandyRock",
-        "popularity": 880
+        "speaker": "Bryan Smith and Kellen Cowan",
+        "popularity": 875
+      },
+      {
+        "speaker": "PastorRick.com",
+        "popularity": 865
       }
     ]
   },
