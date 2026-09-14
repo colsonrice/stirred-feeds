@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-07T12:26:43.904093+00:00",
-  "feed_count": 1176,
-  "version": 1788784003,
+  "generated_at": "2026-09-14T12:40:58.331408+00:00",
+  "feed_count": 1166,
+  "version": 1789389658,
   "traditions": {
-    "evangelical": 866,
-    "baptist": 95,
+    "evangelical": 849,
+    "baptist": 96,
     "catholic": 80,
-    "reformed": 54,
+    "reformed": 60,
+    "charismatic": 28,
     "lutheran": 24,
-    "charismatic": 24,
-    "methodist": 18,
-    "episcopal": 10,
-    "orthodox": 5
+    "methodist": 17,
+    "orthodox": 6,
+    "episcopal": 6
   },
   "sources": {
-    "itunes-search": 669,
-    "itunes-chart": 368,
+    "itunes-search": 677,
+    "itunes-chart": 350,
     "podcast-index": 139
   },
   "popularity": {
-    "feeds_with_signal": 466,
-    "feeds_without_signal": 710,
+    "feeds_with_signal": 453,
+    "feeds_without_signal": 713,
     "top20": [
       {
         "speaker": "Ascension",
@@ -31,11 +31,11 @@
         "popularity": 995
       },
       {
-        "speaker": "Hank Smith & John Bytheway",
+        "speaker": "Tara-Leigh Cobble",
         "popularity": 990
       },
       {
-        "speaker": "Tara-Leigh Cobble",
+        "speaker": "Hank Smith & John Bytheway",
         "popularity": 985
       },
       {
@@ -43,20 +43,20 @@
         "popularity": 980
       },
       {
-        "speaker": "Bryce Crawford",
+        "speaker": "Jim Alstott",
         "popularity": 975
+      },
+      {
+        "speaker": "Bryce Crawford",
+        "popularity": 970
       },
       {
         "speaker": "Blaze Podcast Network",
         "popularity": 965
       },
       {
-        "speaker": "Jim Alstott",
-        "popularity": 965
-      },
-      {
         "speaker": "The Robertson Family",
-        "popularity": 960
+        "popularity": 955
       },
       {
         "speaker": "BibleProject Podcast",
@@ -67,40 +67,40 @@
         "popularity": 940
       },
       {
-        "speaker": "2819 Church",
+        "speaker": "Alisa Childers",
         "popularity": 930
       },
       {
-        "speaker": "Alisa Childers",
+        "speaker": "2819 Church",
         "popularity": 920
       },
       {
-        "speaker": "Tara Brach",
-        "popularity": 905
-      },
-      {
-        "speaker": "Pastor Joby Martin",
-        "popularity": 905
+        "speaker": "BEMA Discipleship",
+        "popularity": 915
       },
       {
         "speaker": "Matt Fradd",
         "popularity": 900
       },
       {
-        "speaker": "BEMA Discipleship",
+        "speaker": "Tara Brach",
+        "popularity": 895
+      },
+      {
+        "speaker": "CandyRock",
         "popularity": 890
       },
       {
-        "speaker": "PROCLAIM x BIBLEin365",
+        "speaker": "Pastor Joby Martin",
         "popularity": 885
       },
       {
-        "speaker": "Bryan Smith and Kellen Cowan",
-        "popularity": 875
+        "speaker": "Dr. Frank Turek",
+        "popularity": 880
       },
       {
-        "speaker": "PastorRick.com",
-        "popularity": 865
+        "speaker": "Bishop Robert Barron",
+        "popularity": 875
       }
     ]
   },
