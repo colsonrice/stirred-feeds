@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-14T12:40:58.331408+00:00",
-  "feed_count": 1166,
-  "version": 1789389658,
+  "generated_at": "2026-09-21T12:44:03.179432+00:00",
+  "feed_count": 1151,
+  "version": 1789994643,
   "traditions": {
-    "evangelical": 849,
-    "baptist": 96,
-    "catholic": 80,
-    "reformed": 60,
-    "charismatic": 28,
-    "lutheran": 24,
-    "methodist": 17,
-    "orthodox": 6,
-    "episcopal": 6
+    "evangelical": 837,
+    "baptist": 94,
+    "catholic": 89,
+    "reformed": 50,
+    "lutheran": 25,
+    "charismatic": 23,
+    "methodist": 18,
+    "episcopal": 8,
+    "orthodox": 7
   },
   "sources": {
-    "itunes-search": 677,
-    "itunes-chart": 350,
-    "podcast-index": 139
+    "itunes-search": 672,
+    "itunes-chart": 337,
+    "podcast-index": 142
   },
   "popularity": {
-    "feeds_with_signal": 453,
-    "feeds_without_signal": 713,
+    "feeds_with_signal": 451,
+    "feeds_without_signal": 700,
     "top20": [
       {
         "speaker": "Ascension",
@@ -39,27 +39,27 @@
         "popularity": 985
       },
       {
+        "speaker": "Jim Alstott",
+        "popularity": 985
+      },
+      {
         "speaker": "Tim Keller",
         "popularity": 980
       },
       {
-        "speaker": "Jim Alstott",
+        "speaker": "Bryce Crawford",
         "popularity": 975
       },
       {
-        "speaker": "Bryce Crawford",
-        "popularity": 970
-      },
-      {
         "speaker": "Blaze Podcast Network",
-        "popularity": 965
-      },
-      {
-        "speaker": "The Robertson Family",
-        "popularity": 955
+        "popularity": 960
       },
       {
         "speaker": "BibleProject Podcast",
+        "popularity": 955
+      },
+      {
+        "speaker": "The Robertson Family",
         "popularity": 950
       },
       {
@@ -67,7 +67,11 @@
         "popularity": 940
       },
       {
-        "speaker": "Alisa Childers",
+        "speaker": "Pastor Joby Martin",
+        "popularity": 930
+      },
+      {
+        "speaker": "Bryan Smith and Kellen Cowan",
         "popularity": 930
       },
       {
@@ -76,30 +80,26 @@
       },
       {
         "speaker": "BEMA Discipleship",
-        "popularity": 915
+        "popularity": 910
+      },
+      {
+        "speaker": "Alisa Childers",
+        "popularity": 905
+      },
+      {
+        "speaker": "Tara Brach",
+        "popularity": 900
       },
       {
         "speaker": "Matt Fradd",
         "popularity": 900
       },
       {
-        "speaker": "Tara Brach",
-        "popularity": 895
-      },
-      {
-        "speaker": "CandyRock",
-        "popularity": 890
-      },
-      {
-        "speaker": "Pastor Joby Martin",
-        "popularity": 885
-      },
-      {
-        "speaker": "Dr. Frank Turek",
+        "speaker": "PastorRick.com",
         "popularity": 880
       },
       {
-        "speaker": "Bishop Robert Barron",
+        "speaker": "Life.Church",
         "popularity": 875
       }
     ]
