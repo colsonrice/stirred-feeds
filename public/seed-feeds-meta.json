@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-12T15:16:58.210797+00:00",
-  "feed_count": 1182,
-  "version": 1791818218,
+  "generated_at": "2026-10-19T13:05:57.081015+00:00",
+  "feed_count": 1198,
+  "version": 1792415157,
   "traditions": {
-    "evangelical": 851,
-    "baptist": 94,
-    "catholic": 89,
-    "reformed": 59,
-    "lutheran": 30,
-    "charismatic": 23,
-    "methodist": 17,
-    "episcopal": 12,
+    "evangelical": 877,
+    "catholic": 93,
+    "baptist": 89,
+    "reformed": 54,
+    "lutheran": 28,
+    "charismatic": 24,
+    "methodist": 15,
+    "episcopal": 11,
     "orthodox": 7
   },
   "sources": {
-    "itunes-search": 687,
-    "itunes-chart": 354,
-    "podcast-index": 141
+    "itunes-search": 673,
+    "itunes-chart": 390,
+    "podcast-index": 135
   },
   "popularity": {
-    "feeds_with_signal": 456,
-    "feeds_without_signal": 726,
+    "feeds_with_signal": 470,
+    "feeds_without_signal": 728,
     "top20": [
       {
         "speaker": "Ascension",
@@ -35,72 +35,72 @@
         "popularity": 990
       },
       {
+        "speaker": "Jim Alstott",
+        "popularity": 990
+      },
+      {
         "speaker": "2819 Church",
         "popularity": 985
       },
       {
-        "speaker": "Hank Smith & John Bytheway",
+        "speaker": "Pastor Joby Martin",
         "popularity": 980
       },
       {
-        "speaker": "Tim Keller",
+        "speaker": "Bryce Crawford",
         "popularity": 975
       },
       {
-        "speaker": "Bryce Crawford",
-        "popularity": 965
-      },
-      {
-        "speaker": "The Robertson Family",
-        "popularity": 955
-      },
-      {
-        "speaker": "Blaze Podcast Network",
-        "popularity": 950
-      },
-      {
-        "speaker": "Jim Alstott",
-        "popularity": 950
-      },
-      {
-        "speaker": "BibleProject Podcast",
-        "popularity": 945
+        "speaker": "Denny Thompson and Joby Martin",
+        "popularity": 970
       },
       {
         "speaker": "Phillip Anthony Mitchell & Tim Timberlake",
+        "popularity": 965
+      },
+      {
+        "speaker": "Hank Smith & John Bytheway",
+        "popularity": 960
+      },
+      {
+        "speaker": "Tim Keller",
+        "popularity": 950
+      },
+      {
+        "speaker": "Blaze Podcast Network",
+        "popularity": 945
+      },
+      {
+        "speaker": "The Church of Eleven22",
         "popularity": 940
       },
       {
-        "speaker": "Blurry Creatures",
+        "speaker": "BibleProject Podcast",
         "popularity": 935
       },
       {
-        "speaker": "Ryan Bethea, Fr. Carlos Martins",
-        "popularity": 925
+        "speaker": "The Robertson Family",
+        "popularity": 930
       },
       {
-        "speaker": "Pastor Joby Martin",
-        "popularity": 910
-      },
-      {
-        "speaker": "Matt Fradd",
+        "speaker": "Blurry Creatures",
         "popularity": 905
       },
       {
-        "speaker": "PastorRick.com",
+        "speaker": "Matt Fradd",
         "popularity": 900
       },
       {
+        "speaker": "Alisa Childers",
+        "popularity": 885
+      },
+      {
         "speaker": "BEMA Discipleship",
-        "popularity": 895
+        "popularity": 880
       },
       {
-        "speaker": "Tara Brach",
-        "popularity": 890
-      },
-      {
-        "speaker": "Ryan Miller",
-        "popularity": 890
+        "speaker": "PastorRick.com",
+        "popularity": 875
       }
     ]
   },
