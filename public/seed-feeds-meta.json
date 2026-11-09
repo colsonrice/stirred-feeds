@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-02T15:42:41.267395+00:00",
-  "feed_count": 1157,
-  "version": 1793634161,
+  "generated_at": "2026-11-09T16:09:25.186803+00:00",
+  "feed_count": 1171,
+  "version": 1794240565,
   "traditions": {
-    "evangelical": 847,
-    "catholic": 89,
-    "baptist": 87,
+    "evangelical": 858,
+    "baptist": 94,
+    "catholic": 81,
     "reformed": 54,
-    "lutheran": 27,
-    "charismatic": 21,
-    "methodist": 16,
-    "episcopal": 10,
-    "orthodox": 6
+    "lutheran": 32,
+    "charismatic": 28,
+    "methodist": 14,
+    "episcopal": 8,
+    "orthodox": 2
   },
   "sources": {
-    "itunes-search": 683,
-    "itunes-chart": 337,
-    "podcast-index": 137
+    "itunes-search": 685,
+    "itunes-chart": 329,
+    "podcast-index": 157
   },
   "popularity": {
-    "feeds_with_signal": 443,
+    "feeds_with_signal": 457,
     "feeds_without_signal": 714,
     "top20": [
       {
@@ -27,80 +27,80 @@
         "popularity": 1000
       },
       {
-        "speaker": "Lakepointe Church",
+        "speaker": "Tara-Leigh Cobble",
         "popularity": 995
       },
       {
-        "speaker": "Tara-Leigh Cobble",
+        "speaker": "Lakepointe Church",
         "popularity": 990
-      },
-      {
-        "speaker": "Jim Alstott",
-        "popularity": 990
-      },
-      {
-        "speaker": "Ten Minute Bible Talks",
-        "popularity": 985
-      },
-      {
-        "speaker": "Joby Martin & Kyle Thompson",
-        "popularity": 980
       },
       {
         "speaker": "Hank Smith & John Bytheway",
-        "popularity": 975
-      },
-      {
-        "speaker": "2819 Church",
-        "popularity": 970
-      },
-      {
-        "speaker": "Denny Thompson and Joby Martin",
-        "popularity": 960
+        "popularity": 985
       },
       {
         "speaker": "Tim Keller",
-        "popularity": 955
-      },
-      {
-        "speaker": "Bryce Crawford",
-        "popularity": 950
+        "popularity": 980
       },
       {
         "speaker": "The Robertson Family",
-        "popularity": 935
-      },
-      {
-        "speaker": "Matt Chandler & Lauren Chandler",
-        "popularity": 930
-      },
-      {
-        "speaker": "Phillip Anthony Mitchell & Tim Timberlake",
-        "popularity": 925
-      },
-      {
-        "speaker": "BibleProject Podcast",
-        "popularity": 920
+        "popularity": 970
       },
       {
         "speaker": "Blaze Podcast Network",
+        "popularity": 955
+      },
+      {
+        "speaker": "BibleProject Podcast",
+        "popularity": 945
+      },
+      {
+        "speaker": "Bryce Crawford",
+        "popularity": 925
+      },
+      {
+        "speaker": "Bishop Robert Barron",
+        "popularity": 920
+      },
+      {
+        "speaker": "PastorRick.com",
+        "popularity": 920
+      },
+      {
+        "speaker": "Tara Brach",
+        "popularity": 915
+      },
+      {
+        "speaker": "Life.Church",
+        "popularity": 915
+      },
+      {
+        "speaker": "Greg Laurie",
         "popularity": 910
       },
       {
-        "speaker": "Pastor Joby Martin",
+        "speaker": "Dr. John Dehlin",
+        "popularity": 905
+      },
+      {
+        "speaker": "BEMA Discipleship",
         "popularity": 900
       },
       {
-        "speaker": "Ruslan KD",
+        "speaker": "Matt Fradd",
+        "popularity": 895
+      },
+      {
+        "speaker": "PROCLAIM x BIBLEin365",
+        "popularity": 890
+      },
+      {
+        "speaker": "Ryan Bethea, Fr. Carlos Martins",
         "popularity": 885
       },
       {
-        "speaker": "Blurry Creatures",
-        "popularity": 880
-      },
-      {
-        "speaker": "Undaunted.Life",
-        "popularity": 870
+        "speaker": "2819 Church",
+        "popularity": 885
       }
     ]
   },
