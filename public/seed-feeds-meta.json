@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-09T16:09:25.186803+00:00",
-  "feed_count": 1171,
-  "version": 1794240565,
+  "generated_at": "2026-11-16T15:37:39.623461+00:00",
+  "feed_count": 1180,
+  "version": 1794843459,
   "traditions": {
-    "evangelical": 858,
-    "baptist": 94,
-    "catholic": 81,
+    "evangelical": 867,
+    "baptist": 97,
+    "catholic": 78,
     "reformed": 54,
     "lutheran": 32,
-    "charismatic": 28,
-    "methodist": 14,
-    "episcopal": 8,
+    "charismatic": 30,
+    "methodist": 13,
+    "episcopal": 7,
     "orthodox": 2
   },
   "sources": {
-    "itunes-search": 685,
-    "itunes-chart": 329,
-    "podcast-index": 157
+    "itunes-search": 692,
+    "itunes-chart": 328,
+    "podcast-index": 160
   },
   "popularity": {
-    "feeds_with_signal": 457,
-    "feeds_without_signal": 714,
+    "feeds_with_signal": 461,
+    "feeds_without_signal": 719,
     "top20": [
       {
         "speaker": "Ascension",
@@ -31,11 +31,11 @@
         "popularity": 995
       },
       {
-        "speaker": "Lakepointe Church",
+        "speaker": "Hank Smith & John Bytheway",
         "popularity": 990
       },
       {
-        "speaker": "Hank Smith & John Bytheway",
+        "speaker": "Lakepointe Church",
         "popularity": 985
       },
       {
@@ -44,30 +44,34 @@
       },
       {
         "speaker": "The Robertson Family",
-        "popularity": 970
+        "popularity": 965
       },
       {
         "speaker": "Blaze Podcast Network",
-        "popularity": 955
+        "popularity": 950
       },
       {
         "speaker": "BibleProject Podcast",
         "popularity": 945
       },
       {
-        "speaker": "Bryce Crawford",
+        "speaker": "Alisa Childers",
         "popularity": 925
       },
       {
-        "speaker": "Bishop Robert Barron",
-        "popularity": 920
-      },
-      {
-        "speaker": "PastorRick.com",
-        "popularity": 920
+        "speaker": "Ryan Bethea, Fr. Carlos Martins",
+        "popularity": 925
       },
       {
         "speaker": "Tara Brach",
+        "popularity": 920
+      },
+      {
+        "speaker": "2819 Church",
+        "popularity": 920
+      },
+      {
+        "speaker": "Dr. John Dehlin",
         "popularity": 915
       },
       {
@@ -75,31 +79,27 @@
         "popularity": 915
       },
       {
-        "speaker": "Greg Laurie",
+        "speaker": "Bryce Crawford",
         "popularity": 910
       },
       {
-        "speaker": "Dr. John Dehlin",
+        "speaker": "Matt Fradd",
         "popularity": 905
       },
       {
-        "speaker": "BEMA Discipleship",
-        "popularity": 900
+        "speaker": "PastorRick.com",
+        "popularity": 905
       },
       {
-        "speaker": "Matt Fradd",
+        "speaker": "Greg Laurie",
         "popularity": 895
       },
       {
-        "speaker": "PROCLAIM x BIBLEin365",
+        "speaker": "Mike Winger",
         "popularity": 890
       },
       {
-        "speaker": "Ryan Bethea, Fr. Carlos Martins",
-        "popularity": 885
-      },
-      {
-        "speaker": "2819 Church",
+        "speaker": "BEMA Discipleship",
         "popularity": 885
       }
     ]
